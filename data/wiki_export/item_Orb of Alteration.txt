@@ -1,0 +1,16 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Orb of Alteration
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 2
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyRerollMagic
+|purchase_cost_normal1_name              = Orb of Augmentation
+|purchase_cost_normal1_amount            = 4
+|stack_size                              = 20
+|description                             = Reforges a magic item with new random modifiers
+|help_text                               = Right click this item then left click a magic item to apply it.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

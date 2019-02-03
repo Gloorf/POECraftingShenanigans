@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gilded Ambush Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Master Warrior Rindwik fell to one opponent alone: old age.<br>Only the greatest soldiers can say as much.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabStrongbox3
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabStrongbox3_
+}}

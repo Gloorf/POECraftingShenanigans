@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Skean
+|class_id                                = Dagger
+|size_x                                  = 1
+|size_y                                  = 3
+|drop_level                              = 28
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dagger, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Daggers/Dagger7
+|implicit1                               = CriticalStrikeChanceImplicitDaggerNew1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 28
+|required_dexterity                      = 42
+|required_intelligence                   = 60
+|critical_strike_chance                  = 6.3
+|attack_speed                            = 1.45
+|physical_damage_min                     = 11
+|physical_damage_max                     = 43
+|weapon_range                            = 8
+}}

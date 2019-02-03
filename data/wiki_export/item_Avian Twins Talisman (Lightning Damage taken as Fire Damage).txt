@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Avian Twins Talisman
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The first ones live where they can, where they must.<br>They embrace the frost, the storm, the drought.<br>Waxing and waning, breaking and mending,<br>living with time and happenstance, as must we.<br>- The Wolven King
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = talisman, amulet, default
+|metadata_id                             = Metadata/Items/Amulets/Talismans/Talisman2_6_6
+|implicit1                               = TalismanLightningTakenAsFire
+|implicit2                               = TalismanCanBePickedUpByMonster
+|is_talisman                             = True
+|talisman_tier                           = 2
+|inventory_icon                          = Avian Twins Talisman (Lightning Damage taken as Fire Damage)
+}}

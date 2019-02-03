@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Dark Mage
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = With staff in hand<br>and wrath in heart,<br>your soul and corpse<br>shall surely part.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheDarkMage
+|stack_size                              = 6
+|description                             = {{c|white|Six-Link Staff}}<br>{{c|default|Item Level:}} {{c|normal|55}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

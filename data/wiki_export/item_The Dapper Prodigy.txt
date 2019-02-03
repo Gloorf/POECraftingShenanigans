@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Dapper Prodigy
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "Many believe murder is a grisly, grim, and grotesque crime. Then there are those who simply make art of it."
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheDapperProdigy
+|stack_size                              = 6
+|description                             = {{c|white|Six-Link Body Armour}}<br>{{c|default|Item Level:}} {{c|normal|100}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

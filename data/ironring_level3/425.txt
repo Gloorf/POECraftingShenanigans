@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Viper Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++8 to Evasion Rating
+7% increased Rarity of Items found
++10% to Fire Resistance

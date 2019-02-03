@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Anarchy's Price
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Born of relentless fury and abhorrence, warped by turmoil and anguish, tainted through desire and carnality, I thirst for bloodshed once more.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardAnarchysPrice
+|stack_size                              = 13
+|description                             = {{c|unique|{{il|Voltaxic Rift|html=}}}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Golem Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Cast Speed
++6 to Evasion Rating
+16% increased Mana Regeneration Rate
++4 Life gained on Kill

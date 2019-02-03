@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Deafening Essence of Greed
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 0
+|tags                                    = essence, currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyEssenceGreed7
+|stack_size                              = 9
+|description                             = Upgrades a normal item to rare or reforges a rare item, guaranteeing one property<br />Weapon: (1.1-1.3)% of Physical [[Attack Damage]] Leeched as [[Life]]<br />Body Armour: +(120-126) to maximum [[Life]]<br />Helmet: +(100-106) to maximum [[Life]]<br />Shield: +(110-116) to maximum [[Life]]<br />Other Armour: +(90-96) to maximum [[Life]]<br />Quiver: (1.1-1.3)% of Physical [[Attack Damage]] Leeched as [[Life]]<br />Belt: (32-35)% increased Flask [[Life]] Recovery rate<br />Other Jewellery: (15-18) [[Life]] Regenerated per second
+|help_text                               = Right click this item then left click a normal or rare item to apply it.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+|essence_level                           = 7
+|essence_monster_modifier_ids            = EssenceDaemonModLifeAndDamageLevel7
+|is_essence                              = True
+|upgraded_from_set1_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceGreed6
+|upgraded_from_set1_group1_amount        = 3
+|upgraded_from_set2_text                 = +1 level {{c|corrupted|corruption}} outcome
+|upgraded_from_set2_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceGreed6
+|upgraded_from_set2_group1_amount        = 1
+|upgraded_from_set2_group2_item_id       = Metadata/Items/Currency/CurrencyCorruptMonolith
+|upgraded_from_set2_group2_amount        = 1
+|upgraded_from_set3_text                 = random {{c|currency|Essence}}
+|upgraded_from_set3_group1_item_id       = Metadata/Items/DivinationCards/DivinationCardThreeVoices
+|upgraded_from_set3_group1_amount        = 3
+}}

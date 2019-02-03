@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Divine Blink and Mirror Arrow Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionWhiteBlinkandMirrorArrowEffect
+|stack_size                              = 1
+|description                             = Your Blink or Mirror Arrow becomes infused with a divine glow.
+|cosmetic_type                           = Blink and Mirror Arrow Skin
+}}

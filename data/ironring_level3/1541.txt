@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Skull Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
++3 to maximum Life
+1.4 Life Regenerated per second
++18 to maximum Mana
++6% to Cold Resistance

@@ -1,0 +1,25 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Padded Vest
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 4
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dex_int_armour, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyDexInt1
+|implicit1                               = MovementVelocityPenaltyLightArmourImplicit
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Armourer's Scrap
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 4
+|required_dexterity                      = 10
+|required_intelligence                   = 10
+|evasion                                 = 27
+|energy_shield                           = 8
+}}

@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Golem Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++10 to Dexterity
+Adds 1 to 5 Lightning Damage to Attacks
++17 to maximum Mana

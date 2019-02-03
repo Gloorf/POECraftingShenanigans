@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Dire Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
++10 to Accuracy Rating
+1.9 Life Regenerated per second
++17 to maximum Mana

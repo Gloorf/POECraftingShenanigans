@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Rift Gyre
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
+10% increased Rarity of Items found
++1 Mana gained on Kill

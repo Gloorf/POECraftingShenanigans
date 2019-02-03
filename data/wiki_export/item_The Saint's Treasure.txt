@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Saint's Treasure
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Publicly, he lived a pious and chaste life of poverty. Privately, tithes and tributes made him and his lascivious company very comfortable indeed.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheSaintsTreasure
+|stack_size                              = 10
+|description                             = {{c|currency|2x {{il|Exalted Orb|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

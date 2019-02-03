@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Web
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A weapon, a shelter, a prison.<br>The web's purpose changes<br>with the spider's needs.<br>A lesson we should<br>take to heart.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheWeb
+|stack_size                              = 8
+|description                             = {{c|magic|Weapon of Crafting}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

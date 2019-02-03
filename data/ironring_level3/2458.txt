@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rage Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+1.4 Life Regenerated per second
++15 to maximum Mana
++5 Life gained on Kill
++1 Mana gained on Kill

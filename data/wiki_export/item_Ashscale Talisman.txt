@@ -1,0 +1,16 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ashscale Talisman
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The fire of the hearth is a docile dog,<br>leashed and tamed.<br>The fire of the First Ones is a ravening wolf,<br>wild and free.<br>- The Wolven King<br>
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = talisman, amulet, default
+|metadata_id                             = Metadata/Items/Amulets/Talismans/Talisman1_3
+|implicit1                               = TalismanIncreasedFireDamage
+|implicit2                               = TalismanCanBePickedUpByMonster
+|is_talisman                             = True
+|talisman_tier                           = 1
+}}

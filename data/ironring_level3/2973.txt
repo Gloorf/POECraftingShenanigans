@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Carrion Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++5 to Evasion Rating
+12% increased Mana Regeneration Rate
++5 Life gained on Kill

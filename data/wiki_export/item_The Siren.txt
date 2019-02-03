@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Siren
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = At the beck and call<br>of The Siren's hand,<br>winter ravages<br>the trembling land,<br>and the weight of ice that binds<br>will break the strongest of minds.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheSiren
+|stack_size                              = 7
+|description                             = {{c|unique|{{il|The Whispering Ice|html=}}}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

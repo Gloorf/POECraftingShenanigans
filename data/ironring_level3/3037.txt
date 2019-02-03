@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Horror Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++4 to maximum Life
+1.1 Life Regenerated per second
++15 to maximum Mana
++6% to Lightning Resistance

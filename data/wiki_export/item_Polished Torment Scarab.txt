@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Polished Torment Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Your tortured soul long kept you isolated from your peers, Tsarsk, but has attracted<br>new kindred in kind. You are tasked with appeasing these anguished spirits.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabTorment2
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabTorment2
+}}

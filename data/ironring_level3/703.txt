@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Honour Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
+1.9 Life Regenerated per second
++7% to Fire Resistance
++1 Mana gained on Kill

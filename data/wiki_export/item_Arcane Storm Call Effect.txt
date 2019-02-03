@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Arcane Storm Call Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionArcaneStormCallEffect
+|stack_size                              = 1
+|description                             = Your Storm Call becomes an arcane effect.
+|cosmetic_type                           = Storm Call Skin
+}}

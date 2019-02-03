@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Valley of Steel Boxes
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "The most valuable treasures should be hidden in plain sight." <br>- Ina, Keeper of Goods
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheValleyOfSteelBoxes
+|stack_size                              = 9
+|description                             = {{c|prophecy|Monstrous Treasure}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

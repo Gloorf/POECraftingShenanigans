@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Spark Spiders Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionSparkSpiders
+|stack_size                              = 20
+|description                             = Your Sparks become skittering spiders of raw electrical energy
+|cosmetic_type                           = Spark Skin
+}}

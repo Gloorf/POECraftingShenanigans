@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Beast Knot
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
+7% increased Attack Speed
++4 to maximum Life
++16 to maximum Mana
+6% increased Rarity of Items found
++9% to Fire Resistance

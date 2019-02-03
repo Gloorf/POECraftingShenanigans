@@ -1,0 +1,25 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cedar Tower Shield
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 17
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_armour, str_shield, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldStr4
+|implicit1                               = MovementVelocityPenaltyHeavyShieldImplicit
+|implicit2                               = IncreasedLifeImplicitShield2
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Augmentation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 17
+|required_strength                       = 46
+|armour                                  = 108
+|block                                   = 25
+}}

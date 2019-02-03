@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment IV
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...The Shade knew of the device - a doorway between my world<br>and the dreamlands. It offered to help me rebuild the missing part, <br>to create a conduit between this beautiful land and Oriath. <br>All that the Shade asked of me was to return the favour..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment4_1
+}}

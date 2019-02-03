@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Tiger Hook
+|class_id                                = One Hand Sword
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 70
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, sword, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/OneHandSwordM3
+|implicit1                               = DodgeImplicitMarakethSword2
+|required_level                          = 70
+|required_strength                       = 119
+|required_dexterity                      = 119
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.15
+|physical_damage_min                     = 49
+|physical_damage_max                     = 105
+|weapon_range                            = 9
+}}

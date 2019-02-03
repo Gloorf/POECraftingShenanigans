@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Polymath
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Genius knows no limits.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardThePolymath
+|stack_size                              = 3
+|description                             = {{c|unique|{{il|Astramentis|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

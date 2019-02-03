@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Page
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = "Siosa, your Slavery will cause them to overlook you. <br>Your Karui Way will guide you. <br>Your Humanity will shame us all."<br>- Icius Perandus 
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/GoldenPages/Page4
+|inventory_icon                          = Golden Page (4 of 4)
+}}

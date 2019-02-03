@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Poet
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = God had forsaken the land <br>And Victario wept.<br>Corruption consumed the land <br>And Victario's tears turned to blood.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardThePoet
+|stack_size                              = 9
+|description                             = {{c|unique|{{il|Blood of Corruption|html=}}}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

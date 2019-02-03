@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Dread Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++13 to Accuracy Rating
+5% increased Cast Speed
++6 to Evasion Rating
++3 to maximum Life
++5 Life gained on Kill

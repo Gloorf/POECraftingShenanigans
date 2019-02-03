@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Chayula's Breachstone
+|class_id                                = MiscMapItem
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 80
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/BreachFragmentChaos
+|help_text                               = Travel to Chayula's Domain by using this item in the Templar Laboratory or a personal Map Device. Can only be used once.
+}}

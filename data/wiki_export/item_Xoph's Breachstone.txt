@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Xoph's Breachstone
+|class_id                                = MiscMapItem
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 68
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/BreachFragmentFire
+|help_text                               = Travel to Xoph's Domain by using this item in the Templar Laboratory or a personal Map Device. Can only be used once.
+}}

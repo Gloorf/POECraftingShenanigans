@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Dagger Axe
+|class_id                                = Two Hand Axe
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 36
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, axe, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxeM1
+|implicit1                               = LocalCriticalStrikeChanceImplicitMarakethTwoHandAxe1
+|required_level                          = 36
+|required_strength                       = 89
+|required_dexterity                      = 43
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.2
+|physical_damage_min                     = 45
+|physical_damage_max                     = 71
+|weapon_range                            = 11
+}}

@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Staff of Purity
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 4
+|flavour_text                            = "Worry not for the heathens. They are devoid of soul.<br>Made vessels of wrath, they are damned by holy design."<br>- High Templar Avarius
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act10/AvariusStaff
+}}

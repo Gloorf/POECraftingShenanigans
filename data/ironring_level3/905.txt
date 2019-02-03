@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Empyrean Band
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++7 to Evasion Rating
+8% increased Rarity of Items found
++9% to Fire Resistance

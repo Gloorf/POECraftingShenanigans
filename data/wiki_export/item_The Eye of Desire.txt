@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Eye of Desire
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = "It is a cruel joke that <br>Man was born with more <br>Intent than Life."<br>- Malachai
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act4/DaressoGem
+}}

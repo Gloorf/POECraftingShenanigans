@@ -1,0 +1,26 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ivory Bow
+|class_id                                = Bow
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 47
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = bow, ranged, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Bows/Bow13
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 47
+|required_dexterity                      = 152
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.35
+|physical_damage_min                     = 21
+|physical_damage_max                     = 64
+|weapon_range                            = 120
+}}

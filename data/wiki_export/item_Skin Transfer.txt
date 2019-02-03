@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Skin Transfer
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionApplyVisualIdentity
+|stack_size                              = 100
+|description                             = Destroys one item to apply its appearance to another.
+|help_text                               = Click this item, then left click the item you wish to take the appearance from, then left click the item you wish to apply it to. The first item is destroyed but can later be recovered by shift clicking the transformed item.
+|cosmetic_type                           = Item Skin
+}}

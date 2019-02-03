@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gift of the Gemling Queen
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Our Lady Dialla,<br>as a symbol of our progress,<br>shines greater than all the gems.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardGiftOfTheGemlingQueen
+|stack_size                              = 9
+|description                             = {{c|gem|Level 20 Support Gem}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

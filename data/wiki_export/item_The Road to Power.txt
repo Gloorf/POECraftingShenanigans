@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Road to Power
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A beacon on the horizon; a guiding light, a call for help, or a warning to turn back.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheRoadToPower
+|stack_size                              = 7
+|description                             = {{c|magic|Runic One-Hand Weapon}}<br>{{c|default|Item Level:}} {{c|normal|100}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

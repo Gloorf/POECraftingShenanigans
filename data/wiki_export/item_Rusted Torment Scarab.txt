@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Rusted Torment Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Young Tsarsk, you were a broken and forgotten child lying glassy-eyed<br>in a flesh-pit in Trarthus, but the Order found and cleansed you.
+|drop_level                              = 1
+|tags                                    = rusted_scarab, default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabTorment1
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabTorment1
+}}

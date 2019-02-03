@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Pride Before the Fall
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = As Kaom slew the last of his kin,<br>something deep inside him broke.<br>And through the cracks, corruption,<br>pure and black, spread forth.
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardPrideBeforeTheFall
+|stack_size                              = 8
+|description                             = {{c|unique|{{il|Kaom's Heart|html=}}}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Stacked Deck
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 50
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardDeck
+|stack_size                              = 10
+|description                             = A stack of unknown divination cards
+|help_text                               = Right click to take a divination card out of the deck.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

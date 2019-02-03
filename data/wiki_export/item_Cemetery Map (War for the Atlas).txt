@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cemetery Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 73
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, temple, cannot_be_twinned, map, default
+|metadata_id                             = Metadata/Items/Maps/MapWorldsCemetery
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 6
+|map_guild_character                     = L
+|map_area_id                             = MapWorldsCemetery
+|unique_map_guild_character              = Ð
+|unique_map_area_id                      = MapWorldsCemeteryUnique
+|unique_map_area_level                   = 73
+|map_series                              = War for the Atlas
+|map_area_level                          = 73
+|inventory_icon                          = Cemetery Map (War for the Atlas)
+|drop_enabled                            = False
+}}

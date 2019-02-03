@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Terror Claw
+|class_id                                = Claw
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 70
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = claw, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Claws/Claw22
+|implicit1                               = LifeLeechPermyriadImplicitClaw2
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 4
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 70
+|required_dexterity                      = 113
+|required_intelligence                   = 113
+|critical_strike_chance                  = 6.3
+|attack_speed                            = 1.5
+|physical_damage_min                     = 18
+|physical_damage_max                     = 71
+|weapon_range                            = 9
+}}

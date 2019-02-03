@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Lantador's Lost Love
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = They fought the storm together as one, <br>Until the longest of days was done. <br>Their love grew stronger<br>with every breath, <br>Until it was broken apart in death.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardLantadorsLostLove
+|stack_size                              = 7
+|description                             = {{c|rare|[[Two-Stone Ring]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

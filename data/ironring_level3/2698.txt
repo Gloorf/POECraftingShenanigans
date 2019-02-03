@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Brood Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Attack Speed
++18 to maximum Mana
+7% increased Rarity of Items found
++4 Life gained on Kill

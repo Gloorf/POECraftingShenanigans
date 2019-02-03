@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Large Bird Cage
+|class_id                                = HideoutDoodad
+|size_x                                  = 4
+|size_y                                  = 4
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutScepterBirdCage3
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Zana, Master Cartographer
+|master_favour_cost                      = 360000
+|master_level_requirement                = 7
+|variation_count                         = 3
+}}

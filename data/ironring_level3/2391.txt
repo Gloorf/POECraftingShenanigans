@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Corruption Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++5 to Accuracy Rating
++7 to maximum Life
+1.6 Life Regenerated per second
++9% to Lightning Resistance

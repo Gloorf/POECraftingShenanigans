@@ -1,0 +1,24 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Murder Boots
+|class_id                                = Boots
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 69
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dex_int_armour, boots, armour, default
+|metadata_id                             = Metadata/Items/Armours/Boots/BootsDexInt9
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 69
+|required_dexterity                      = 82
+|required_intelligence                   = 42
+|evasion                                 = 185
+|energy_shield                           = 17
+}}

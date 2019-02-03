@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Armageddon Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
++12 to Intelligence
++4 to all Attributes
+Adds 1 to 2 Cold Damage to Attacks
++9 to Evasion Rating
++15 to maximum Mana

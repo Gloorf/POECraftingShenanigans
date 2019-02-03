@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Grandmaster Export
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCurrency/ExportGrandmaster
+|stack_size                              = 1
+|description                             = Export your current character as a grandmaster
+|help_text                               = Click this item to export and send your current character to Grinding Gear Games staff for use in the Hall of Grandmasters unique map. For more information, visit www.pathofexile.com/grandmasters
+}}

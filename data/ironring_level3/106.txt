@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Brood Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to Evasion Rating
++2 to maximum Energy Shield
+18% increased Mana Regeneration Rate
+8% increased Rarity of Items found
++7% to Fire Resistance

@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Floor Pipes
+|class_id                                = HideoutDoodad
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutFloorPipes
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Niko, Master of the Depths
+|master_favour_cost                      = 12700
+|master_level_requirement                = 6
+|variation_count                         = 3
+}}

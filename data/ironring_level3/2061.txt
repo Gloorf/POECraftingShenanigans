@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Victory Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++10 to Intelligence
++6 to maximum Life
++3 Life gained on Kill

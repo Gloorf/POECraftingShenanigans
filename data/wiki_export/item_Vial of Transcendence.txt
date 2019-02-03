@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Vial of Transcendence
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = It is not our flesh, our thoughts, or our soul that limits us;<br>it is the distinction between them.
+|drop_level                              = 50
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyIncursionVialBossJewel
+|stack_size                              = 10
+|help_text                               = Sacrifice this item on the Altar of Sacrifice along with any Tempered Flesh, Tempered Spirit or Tempered Mind to transform it. <br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

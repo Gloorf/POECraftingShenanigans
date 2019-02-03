@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Legion Gloves
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionLegionGloves
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped gloves to the Legion gloves.
+|cosmetic_type                           = Gloves Skin
+|inventory_icon                          = Legion Gloves (microtransaction)
+}}

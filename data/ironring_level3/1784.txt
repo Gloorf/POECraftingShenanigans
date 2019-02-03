@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Behemoth Hold
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
+7% increased Attack Speed
++1 to maximum Energy Shield
+19% increased Mana Regeneration Rate
+9% increased Rarity of Items found

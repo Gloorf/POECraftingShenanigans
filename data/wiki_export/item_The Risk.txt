@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Risk
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "There is no right or wrong choice, no best or worst. There are only choices and their consequences."
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheRisk
+|stack_size                              = 3
+|description                             = {{c|unique|{{il|Ventor's Gamble|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

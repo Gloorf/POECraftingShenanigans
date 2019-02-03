@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Surveyor
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Exploring lands made of flesh and sorrow, we'll reap and plunder like there's no tomorrow.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheSurveyor
+|stack_size                              = 4
+|description                             = {{c|white|Map}}<br>{{c|default|Map Tier:}} {{c|normal|14}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Basilisk Acid
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = Nobility once thought to capture the Basilisks and keep them as exotic pets.<br>This only served to fatten the vileness of their hearts, and with a hateful<br>acid that festered inside, the creatures became soured to their very bones.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act9/Ingredient2
+}}

@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shaped Armoury Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 79
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = top_tier_map, urban, not_for_sale, shaped_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapAtlasArmoryShaped
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 12
+|map_guild_character                     = o
+|map_area_id                             = MapAtlasArmory
+|map_series                              = Atlas of Worlds
+|map_area_level                          = 79
+|inventory_icon                          = Shaped Armoury Map (Atlas of Worlds)
+|drop_enabled                            = False
+}}

@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sacrifice at Midnight
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Look to our Queen, for she will lead us into the light.
+|drop_level                              = 60
+|tags                                    = atziri1, default
+|metadata_id                             = Metadata/Items/MapFragments/VaalFragment1_1
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = VaalFragmentImplicit1
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Wrath Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++1 to all Attributes
++18 to maximum Mana
+16% increased Mana Regeneration Rate
++1 Mana gained on Kill

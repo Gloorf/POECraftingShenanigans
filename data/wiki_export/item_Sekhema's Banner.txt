@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sekhema's Banner
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/ItemEffects/SekhemasBanner
+|stack_size                              = 1
+|description                             = FLAG@#$@#$@#$@#
+|help_text                               = Right click this item then left click a body armour slot item to apply it.
+|cosmetic_type                           = Body Armour Attachment
+}}

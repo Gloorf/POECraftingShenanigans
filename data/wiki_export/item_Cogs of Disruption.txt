@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cogs of Disruption
+|class_id                                = LabyrinthTrinket
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Take a cog here, place a cog there,<br>and the great machine grinds to a halt.
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Labyrinth/Trinkets/CogsOfDisruption
+|description                             = The next Charge Disruptor you use will reactivate after a short duration
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Heterochromia
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Black and White, Silver and Gold<br>Let us see the world Unfold<br>Red and Blue, Yellow and Green<br>Let us remake it in colours Unseen
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardHeterochromia
+|stack_size                              = 2
+|description                             = {{c|unique|[[Two-Stone Ring]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

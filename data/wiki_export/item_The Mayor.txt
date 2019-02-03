@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Mayor
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A ruler is only as powerful as he is wealthy. <br>Control the coin, control the empire.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheMayor
+|stack_size                              = 5
+|description                             = {{c|unique|{{il|The Perandus Manor|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

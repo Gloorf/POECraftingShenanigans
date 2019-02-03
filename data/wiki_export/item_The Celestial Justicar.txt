@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Celestial Justicar
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Wrapped in the glory of the heavens, she comes to mete out justice for the fallen.
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheCelestialJusticar
+|stack_size                              = 6
+|description                             = {{c|white|Six-Link Astral Plate}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

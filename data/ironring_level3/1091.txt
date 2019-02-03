@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Agony Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++9 to Intelligence
++3 to maximum Energy Shield
++8 to maximum Life
++9% to Lightning Resistance

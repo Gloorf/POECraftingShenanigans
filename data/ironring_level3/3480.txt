@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Vengeance Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++13 to Accuracy Rating
++17 to maximum Mana
+11% increased Mana Regeneration Rate
++1 Mana gained on Kill

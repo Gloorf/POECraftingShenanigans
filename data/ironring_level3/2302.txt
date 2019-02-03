@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Rift Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
++17 to maximum Mana
++7% to Cold Resistance
++8% to Lightning Resistance

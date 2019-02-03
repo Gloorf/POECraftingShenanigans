@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Doom Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
+1.7 Life Regenerated per second
++16 to maximum Mana
++6% to Lightning Resistance

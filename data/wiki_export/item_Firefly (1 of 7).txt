@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Firefly
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = In all things living, the light burns bright.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act7/Firefly1
+|inventory_icon                          = Firefly (1 of 7)
+}}

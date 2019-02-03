@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Agony Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
+6% increased Attack Speed
+5% increased Cast Speed
++5 to maximum Life

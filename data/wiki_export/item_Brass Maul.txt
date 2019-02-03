@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Brass Maul
+|class_id                                = Two Hand Mace
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 27
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = mace, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace6
+|implicit1                               = StunDurationImplicitMace1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 27
+|required_strength                       = 92
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.2
+|physical_damage_min                     = 34
+|physical_damage_max                     = 51
+|weapon_range                            = 11
+}}

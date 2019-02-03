@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Penitent
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = First, I gave my wealth, and we went hungry. Next, I gave my land, and we were homeless. Then, I gave my family, and I was alone. Last, I gave my eyes, and all I could dream was mine.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardThePenitent
+|stack_size                              = 5
+|description                             = {{c|unique|{{il|Unset Ring|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

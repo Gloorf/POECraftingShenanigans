@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Black Flag
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = "May the lubbers feel fear in their<br>nethers, and may our blades follow."<br> - Rot-tooth's Rallying Cry
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act6/BlackFlag
+}}

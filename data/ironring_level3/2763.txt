@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Honour Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++15 to maximum Mana
+12% increased Mana Regeneration Rate
++6 Life gained on Kill

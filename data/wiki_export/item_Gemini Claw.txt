@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gemini Claw
+|class_id                                = Claw
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 72
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, claw, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Claws/ClawM3
+|implicit1                               = LifeAndManaOnHitSeparatedImplicitMarakethClaw3
+|required_level                          = 72
+|required_dexterity                      = 121
+|required_intelligence                   = 121
+|critical_strike_chance                  = 6.3
+|attack_speed                            = 1.5
+|physical_damage_min                     = 23
+|physical_damage_max                     = 68
+|weapon_range                            = 9
+}}

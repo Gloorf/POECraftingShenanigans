@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Brimstone Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to maximum Life
+1.8 Life Regenerated per second
+17% increased Mana Regeneration Rate
++1 Mana gained on Kill

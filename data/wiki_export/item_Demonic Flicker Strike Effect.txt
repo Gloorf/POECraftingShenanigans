@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Demonic Flicker Strike Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionCultistFlickerStrikeEffect
+|stack_size                              = 1
+|description                             = Your Flicker Strike becomes a bloody mist.
+|cosmetic_type                           = Flicker Strike Skin
+}}

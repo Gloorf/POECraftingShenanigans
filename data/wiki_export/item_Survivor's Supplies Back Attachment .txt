@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Survivor's Supplies Back Attachment 
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionSupporterWings1
+|stack_size                              = 20
+|description                             = Adds the Survivor's Supplies back attachment to any equipped body armour.
+|cosmetic_type                           = Body Armour Attachment
+}}

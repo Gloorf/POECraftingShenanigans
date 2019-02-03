@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Kraken Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Cast Speed
++8 to Evasion Rating
++4 to maximum Life
+13% increased Mana Regeneration Rate
++1 Mana gained on Kill

@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Foul Staff
+|class_id                                = Staff
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 55
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = staff, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Staves/Staff13
+|implicit1                               = StaffBlockPercentImplicitStaff1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 55
+|required_strength                       = 94
+|required_intelligence                   = 94
+|critical_strike_chance                  = 6.1
+|attack_speed                            = 1.25
+|physical_damage_min                     = 55
+|physical_damage_max                     = 103
+|weapon_range                            = 11
+}}

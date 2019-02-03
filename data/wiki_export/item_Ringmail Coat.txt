@@ -1,0 +1,25 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ringmail Coat
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 17
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_int_armour, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyStrInt3
+|implicit1                               = MovementVelocityPenaltyHeavyArmourImplicit
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Augmentation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 17
+|required_strength                       = 28
+|required_intelligence                   = 28
+|armour                                  = 97
+|energy_shield                           = 21
+}}

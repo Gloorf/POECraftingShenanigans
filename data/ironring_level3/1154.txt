@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Torment Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
++5 to maximum Life
+12% increased Mana Regeneration Rate
++10% to Lightning Resistance
++1 Mana gained on Kill

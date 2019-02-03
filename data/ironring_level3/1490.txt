@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Agony Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
++14 to Accuracy Rating
++2 to maximum Energy Shield
++4 Life gained on Kill

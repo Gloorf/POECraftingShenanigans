@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Coronal Maul
+|class_id                                = Two Hand Mace
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 69
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, mace, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMaceM3
+|implicit1                               = AreaOfEffectImplicitMarakethTwoHandMace2
+|required_level                          = 69
+|required_strength                       = 220
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.25
+|physical_damage_min                     = 74
+|physical_damage_max                     = 110
+|weapon_range                            = 11
+}}

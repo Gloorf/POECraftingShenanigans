@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Monkey Paw Talisman
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Look not upon me with fear, my men.<br>Though I seem strange, even monstrous,<br>were you to see with the eyes of your forebears,<br>your hearts would be filled with wonder.<br>- The Wolven King
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = talisman, amulet, default
+|metadata_id                             = Metadata/Items/Amulets/Talismans/Talisman3_6_3
+|implicit1                               = TalismanEnduranceChargeOnKill_
+|implicit2                               = TalismanCanBePickedUpByMonster
+|is_talisman                             = True
+|talisman_tier                           = 3
+|inventory_icon                          = Monkey Paw Talisman  (Endurance Charge on Kill)
+}}

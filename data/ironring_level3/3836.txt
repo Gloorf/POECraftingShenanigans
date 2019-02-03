@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Torment Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
++10 to Accuracy Rating
+7% increased Cast Speed
++7 to maximum Life

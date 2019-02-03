@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Soul Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
+Adds 1 to 5 Lightning Damage to Attacks
+5% increased Attack Speed
++5 to maximum Life
++18 to maximum Mana
+9% increased Rarity of Items found

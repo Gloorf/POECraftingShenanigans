@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Bone Helmet
+|class_id                                = Helmet
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 73
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, atlas_base_type, helmetatlas1, str_int_armour, helmet, armour, default
+|metadata_id                             = Metadata/Items/Armours/Helmets/HelmetAtlas1
+|implicit1                               = MinionDamageImplicitHelmet1
+|required_level                          = 73
+|required_strength                       = 76
+|required_intelligence                   = 76
+|armour                                  = 197
+|energy_shield                           = 38
+}}

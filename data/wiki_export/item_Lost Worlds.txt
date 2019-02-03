@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Lost Worlds
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "There are worlds that lie beyond the edge of my page, the edge of my understanding. Worlds of wonder. Worlds of terror."<br>Aramil - Cartographer to Emperor Chitus
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardLostWorlds
+|purchase_cost_normal1_name              = Orb of Chance
+|purchase_cost_normal1_amount            = 1
+|stack_size                              = 8
+|description                             = {{c|white|Map}}<br>{{c|default|Map Tier:}} {{c|normal|15}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

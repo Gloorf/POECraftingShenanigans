@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ghostflame Weapon Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionGhostFlameWeapon
+|stack_size                              = 20
+|description                             = Adds the Ghostflame effect to any equipped weapon
+|cosmetic_type                           = Weapon Effect
+}}

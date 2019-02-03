@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gore Lightning Arrow Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionGoreLightningArrow
+|stack_size                              = 20
+|description                             = Your Lightning Arrow becomes a gory effect.
+|cosmetic_type                           = Lightning Arrow Skin
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Dying Anguish
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Moribund, he gazed upon the journey taken as blood trickled down his chin. His eye closed on the city ahead that he would never call home.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardDyingAnguish
+|stack_size                              = 8
+|description                             = {{c|gem|Level 19 Skill Gem}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

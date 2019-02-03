@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ruined Long Table
+|class_id                                = HideoutDoodad
+|size_x                                  = 2
+|size_y                                  = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutTempleDungeonRuinedLongTable
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Alva, Master Explorer
+|master_favour_cost                      = 1740
+|master_level_requirement                = 3
+|variation_count                         = 2
+}}

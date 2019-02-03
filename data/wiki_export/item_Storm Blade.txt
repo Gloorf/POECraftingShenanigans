@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Storm Blade
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 3
+|flavour_text                            = Garukhan sought madness and knowledge amongst the billowing clouds of a <br>blackened sky. A vulture of pride, she would not be refused, and so the<br>stratosphere divulged unto her eldritch secrets of its tumultuous past.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act9/StormSword
+}}

@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Flashpowder Keg
+|class_id                                = IncursionItem
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Incursion/IncursionBomb
+|help_text                               = This item can be used to destroy a wall connecting two chambers in the Temple of Atzoatl. This item will drop on the ground when leaving the Temple.
+}}

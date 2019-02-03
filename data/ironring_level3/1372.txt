@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Carrion Band
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Cast Speed
++2 to maximum Energy Shield
++8 to maximum Life
+1.7 Life Regenerated per second
++16 to maximum Mana

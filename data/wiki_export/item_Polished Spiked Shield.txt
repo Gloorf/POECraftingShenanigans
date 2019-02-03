@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Polished Spiked Shield
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 49
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dex_int_armour, dex_int_shield, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldDexInt8
+|implicit1                               = MovementVelocityPenaltyLightShieldImplicit
+|implicit2                               = ChanceToDodgeImplicitShield2
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 49
+|required_dexterity                      = 64
+|required_intelligence                   = 64
+|evasion                                 = 111
+|energy_shield                           = 22
+|block                                   = 26
+}}

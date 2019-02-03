@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The King's Heart
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = 500 times Kaom's axe fell, 500 times Kaom's Heart splintered. Finally, all that remained was a terrible, heartless Fury.
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheKingsHeart
+|stack_size                              = 8
+|description                             = {{c|unique|{{il|Kaom's Heart|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

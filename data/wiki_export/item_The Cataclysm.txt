@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Cataclysm
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The mighty warriors traded in blows, the nimble archers in arrows, yet it was the brazen thaumaturgists who would bring catastrophe to all.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheCataclysm
+|stack_size                              = 13
+|description                             = {{c|gem|Level 21 Spell Gem}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

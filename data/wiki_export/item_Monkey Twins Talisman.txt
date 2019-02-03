@@ -1,0 +1,16 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Monkey Twins Talisman
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The first ones marked their hunting grounds<br>with blood and piss.<br>We have tried to paint our future in words.<br>Now we shall paint with inks of savagery.<br>- The Wolven King
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = talisman, amulet, default
+|metadata_id                             = Metadata/Items/Amulets/Talismans/Talisman3_3
+|implicit1                               = TalismanIncreasedAreaOfEffect
+|implicit2                               = TalismanCanBePickedUpByMonster
+|is_talisman                             = True
+|talisman_tier                           = 3
+}}

@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shaped Graveyard Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 76
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = mid_tier_map, swamp, temple, not_for_sale, shaped_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapAtlasGraveyardShaped
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 9
+|map_guild_character                     = Ú
+|map_area_id                             = MapAtlasGraveyard
+|unique_map_guild_character              = Ð
+|unique_map_area_id                      = MapAtlasGraveyardUnique
+|unique_map_area_level                   = 71
+|map_series                              = Atlas of Worlds
+|map_area_level                          = 76
+|inventory_icon                          = Shaped Graveyard Map (Atlas of Worlds)
+|drop_enabled                            = False
+}}

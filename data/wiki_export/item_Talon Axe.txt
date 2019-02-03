@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Talon Axe
+|class_id                                = Two Hand Axe
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 59
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, axe, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxeM2
+|implicit1                               = LocalCriticalStrikeChanceImplicitMarakethTwoHandAxe1
+|required_level                          = 59
+|required_strength                       = 140
+|required_dexterity                      = 67
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.2
+|physical_damage_min                     = 75
+|physical_damage_max                     = 118
+|weapon_range                            = 11
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Divine Ice Crown
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionDivineIceCrown
+|stack_size                              = 20
+|description                             = Adds a Divine Ice Crown to your headdress.
+|cosmetic_type                           = Helmet Attachment
+}}

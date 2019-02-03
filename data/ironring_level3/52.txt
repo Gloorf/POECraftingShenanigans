@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Spirit Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
+Adds 1 to 2 Fire Damage to Attacks
+17% increased Mana Regeneration Rate
++1 Mana gained on Kill

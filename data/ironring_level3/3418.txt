@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Hypnotic Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
++5 to maximum Life
+12% increased Mana Regeneration Rate
++10% to Lightning Resistance

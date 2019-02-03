@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Vortex Knot
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++12 to Accuracy Rating
++1 to maximum Energy Shield
++10% to Cold Resistance

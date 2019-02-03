@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Dusk Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
++4 to maximum Life
++15 to maximum Mana
++8% to Cold Resistance
++11% to Lightning Resistance

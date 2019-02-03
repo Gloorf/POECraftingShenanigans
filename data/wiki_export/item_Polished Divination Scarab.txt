@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Polished Divination Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Though your peers fear you, Narumoa, the elders have decided that your<br>second sight is ideal for handling all artefacts that seek to subvert Fate.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabDivinationCards2
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabDivinationCards2_
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Cataclysm Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
+7% increased Cast Speed
++8 to maximum Life
++10% to Lightning Resistance

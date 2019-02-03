@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Morbid Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++3 to all Attributes
++3 to maximum Energy Shield
++7% to Lightning Resistance

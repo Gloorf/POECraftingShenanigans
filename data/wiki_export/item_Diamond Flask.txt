@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Diamond Flask
+|class_id                                = UtilityFlaskCritical
+|size_x                                  = 1
+|size_y                                  = 2
+|drop_level                              = 27
+|drop_rarities                           = Normal, Magic, Unique
+|tags                                    = not_for_sale, no_effect_flask_mod, critical_utility_flask, utility_flask, flask, default
+|metadata_id                             = Metadata/Items/Flasks/FlaskUtility1
+|help_text                               = Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+|implicit1                               = FlaskLevelRequirement27
+|purchase_cost_normal1_name              = Chaos Orb
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 27
+|flask_duration                          = 4
+|buff_id                                 = flask_utility_critical_strike_chance
+|buff_value1                             = 1
+|buff_stat_text                          = Your [[Critical Strike Chance]] is [[Lucky]]
+|charges_max                             = 40
+|charges_per_use                         = 20
+}}

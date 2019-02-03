@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Void
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Reach into the Void and claim your prize.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheVoid
+|stack_size                              = 1
+|stack_size_currency_tab                 = 5000
+}}

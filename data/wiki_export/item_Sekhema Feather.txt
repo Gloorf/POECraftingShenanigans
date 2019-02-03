@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sekhema Feather
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = "And how shall we know a sekhema worthy of rule? <br>By the anointing of the Great Roc, under whose wings we grow and soar."<br> - Maraketh Coronation Ritual
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act9/SekhemaFeather
+}}

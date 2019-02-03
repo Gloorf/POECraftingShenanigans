@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gilded Shaper Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Qianga of the Stars, Deliverer of the Sealing Blade to the Watchers, go now, and<br>let your half-dreamt life be troubled by nightmares of achromic hunger no more.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabShaperRares3
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabShaperRares3
+}}

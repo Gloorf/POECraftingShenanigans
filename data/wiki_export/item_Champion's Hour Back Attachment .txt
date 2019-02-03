@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Champion's Hour Back Attachment 
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionSupporterWings3
+|stack_size                              = 20
+|description                             = Adds the Champion's Hour back attachment to any equipped body armour.
+|cosmetic_type                           = Body Armour Attachment
+}}

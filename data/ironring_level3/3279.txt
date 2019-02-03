@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Glyph Finger
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
+5% increased Attack Speed
+6% increased Cast Speed
++3 to maximum Energy Shield
+1.6 Life Regenerated per second

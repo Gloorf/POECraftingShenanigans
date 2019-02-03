@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Rusted Harbinger Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Your ancestry has been much maligned by history, young Sarina Titucius,<br>but to the Order of the Djinn, you are born anew.
+|drop_level                              = 1
+|tags                                    = rusted_scarab, default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabHarbinger1
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabHarbinger1
+}}

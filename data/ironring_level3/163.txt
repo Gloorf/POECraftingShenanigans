@@ -1,0 +1,24 @@
+﻿Rarity: Rare
+Empyrean Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++1 to all Attributes
+Adds 1 to 2 Cold Damage to Attacks
++12 to Accuracy Rating
++4 Life gained on Kill
+Rarity: Rare
+Grim Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
++9 to maximum Life
++6% to Fire Resistance
++7% to Cold Resistance

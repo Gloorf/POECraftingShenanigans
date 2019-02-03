@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Hypnotic Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
+Adds 1 to 2 Cold Damage to Attacks
+7% increased Cast Speed
++10 to Evasion Rating
++5 Life gained on Kill

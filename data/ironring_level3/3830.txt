@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Behemoth Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
++5 to maximum Life
++15 to maximum Mana
++9% to Lightning Resistance
++6 Life gained on Kill

@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Rusted Cartography Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Consider yourself an orphaned Eternal no longer, young Betucia.<br>The Order of the Djinn is your family now.
+|drop_level                              = 1
+|tags                                    = rusted_scarab, default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabMaps1
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabMaps1
+}}

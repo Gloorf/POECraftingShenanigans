@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Bramble Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
++8 to maximum Life
+1.9 Life Regenerated per second
++1 Mana gained on Kill

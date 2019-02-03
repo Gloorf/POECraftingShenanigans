@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Arctic Crystal Apparition Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionArcticCrystalApparitionEffect
+|stack_size                              = 1
+|description                             = Attaches the Arctic Crystal Apparition Effect to your amulet
+|cosmetic_type                           = Amulet Effect
+}}

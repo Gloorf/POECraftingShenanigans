@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Grim Band
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Accuracy Rating
++9 to Evasion Rating
++3 to maximum Energy Shield
++9 to maximum Life
+17% increased Mana Regeneration Rate
++10% to Fire Resistance

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Morbid Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
+6% increased Cast Speed
++3 to maximum Energy Shield
++18 to maximum Mana
++8% to Cold Resistance
++5 Life gained on Kill

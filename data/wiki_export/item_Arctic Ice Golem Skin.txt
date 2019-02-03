@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Arctic Ice Golem Skin
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionArcticIceGolem
+|stack_size                              = 1
+|description                             = Your Summoned Ice Golem becomes imbued with arctic energy.
+|cosmetic_type                           = Summon Ice Golem Skin
+}}

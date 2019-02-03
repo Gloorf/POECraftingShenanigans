@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Manticore Body Armour
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionManticoreBodyArmour
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped body armour to the Manticore Body Armour.
+|cosmetic_type                           = Body Armour Skin
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Arcane Portal
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionArcanePortal
+|stack_size                              = 1
+|description                             = This character's portals use the Arcane Portal.
+|cosmetic_type                           = Portal Modification
+}}

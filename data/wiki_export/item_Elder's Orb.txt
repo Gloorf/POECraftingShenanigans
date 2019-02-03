@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Elder's Orb
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 84
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/MapUpgrades/MapUpgradeTierTo16
+|description                             = Upgrades any map on the Atlas to Tier 16
+|help_text                               = Right click this item then left click on a map on the Atlas to upgrade it to tier 16.
+}}

@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Ghoul Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
++2 to maximum Energy Shield
+13% increased Mana Regeneration Rate

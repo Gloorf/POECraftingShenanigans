@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Eyes of Zeal
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Eyes blazing with holy flame, the Pilgrim saw<br>a great palace descend from the burgeoning sky,<br>its gates barred against the unfaithful.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act5/TemplarCourtKey
+}}

@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Brimstone Loop
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++9 to Intelligence
++1 to maximum Energy Shield
++3 to maximum Life
+9% increased Rarity of Items found

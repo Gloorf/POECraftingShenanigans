@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ghetto Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 80
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, urban, swamp, map, default
+|metadata_id                             = Metadata/Items/Maps/MapWorldsGhetto
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 13
+|map_guild_character                     = œ
+|map_area_id                             = MapWorldsGhetto
+|map_series                              = War for the Atlas
+|map_area_level                          = 80
+|inventory_icon                          = Ghetto Map (War for the Atlas)
+|drop_enabled                            = False
+}}

@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Mind Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
++11 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
++8 to Evasion Rating
++1 Mana gained on Kill

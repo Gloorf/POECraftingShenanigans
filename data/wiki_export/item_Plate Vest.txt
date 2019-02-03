@@ -1,0 +1,23 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Plate Vest
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_armour, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyStr1
+|implicit1                               = MovementVelocityPenaltyLightArmourImplicit
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Scroll of Wisdom
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 1
+|required_strength                       = 12
+|armour                                  = 19
+}}

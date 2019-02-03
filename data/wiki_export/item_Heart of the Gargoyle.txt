@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Heart of the Gargoyle
+|class_id                                = LabyrinthTrinket
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = All living things need a heart,<br>even those made of stone.<br>No heart, no life.
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Labyrinth/Trinkets/HeartOfTheGargoyle
+|description                             = The next Gargoyle you hit will be killed instantly
+}}

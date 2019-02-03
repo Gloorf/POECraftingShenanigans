@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Dire Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++7 to Evasion Rating
+19% increased Mana Regeneration Rate
++8% to Cold Resistance
++7% to Lightning Resistance

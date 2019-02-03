@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Night Lotus Scourge Arrow
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionNightLotusScourgeArrow
+|stack_size                              = 1
+|description                             = Your Scourge Arrow becomes a Night Lotus Effect.
+|cosmetic_type                           = Scourge Arrow Skin
+}}

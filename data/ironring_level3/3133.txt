@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Loath Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++13 to Accuracy Rating
++5 to Evasion Rating
++11% to Lightning Resistance
++5 Life gained on Kill

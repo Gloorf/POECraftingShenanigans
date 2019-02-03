@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Gale Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++9 to Intelligence
+1 Life Regenerated per second
++18 to maximum Mana

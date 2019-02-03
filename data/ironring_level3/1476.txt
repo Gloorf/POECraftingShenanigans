@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Grim Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
+7% increased Cast Speed
++8 to Evasion Rating
++3 to maximum Energy Shield
++10% to Cold Resistance
++7% to Lightning Resistance

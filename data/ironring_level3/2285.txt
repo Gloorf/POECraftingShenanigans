@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Sol Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++10 to Evasion Rating
++18 to maximum Mana
++6% to Cold Resistance
++7% to Lightning Resistance
++1 Mana gained on Kill

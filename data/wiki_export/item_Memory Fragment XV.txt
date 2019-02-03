@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment XV
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...I fear this to be the end. Not just the end for me, but the end of all things. <br>The Elder has been freed. Soon it will feast on me... on the rest of the world.<br>It was too late for me. The Elder had to be stopped. I knew of the shaping powers.<br>Only I could have a hope at defeating the Elder..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment10_3
+}}

@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Bramble Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++15 to Accuracy Rating
++6 to maximum Life
++16 to maximum Mana
+15% increased Mana Regeneration Rate
++8% to Lightning Resistance

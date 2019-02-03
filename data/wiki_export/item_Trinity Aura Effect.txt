@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Trinity Aura Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionDemonPurityOfElements
+|stack_size                              = 20
+|description                             = Your aura effect becomes the elemental trinity effect.
+|cosmetic_type                           = Aura Skin
+}}

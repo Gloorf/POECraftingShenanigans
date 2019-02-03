@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Vial of Consequence
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Your actions live but a moment;<br>their repercussions never die.
+|drop_level                              = 50
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyIncursionVialMinion
+|stack_size                              = 10
+|help_text                               = Sacrifice this item on the Altar of Sacrifice along with Coward's Chains to transform it. <br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

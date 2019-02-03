@@ -1,0 +1,16 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Primal Skull Talisman
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = With the will of the first ones in our sinews<br>we shall tear down the walls of Sarn.<br>Yet as is the way of the wildlands,<br>Only the strong may grow stronger.<br>- The Wolven King
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = talisman, amulet, default
+|metadata_id                             = Metadata/Items/Amulets/Talismans/Talisman2_2
+|implicit1                               = TalismanPercentLifeRegeneration
+|implicit2                               = TalismanCanBePickedUpByMonster
+|is_talisman                             = True
+|talisman_tier                           = 2
+}}

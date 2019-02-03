@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Brood Knot
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Evasion Rating
++16 to maximum Mana
+11% increased Mana Regeneration Rate
+8% increased Rarity of Items found
++1 Mana gained on Kill

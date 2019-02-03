@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shaped Underground River Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 82
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = top_tier_map, indoors_area, cave, not_for_sale, shaped_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapAtlasUndergroundRiverShaped
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 15
+|map_guild_character                     = É
+|map_area_id                             = MapAtlasUndergroundRiver
+|unique_map_guild_character              = æ
+|unique_map_area_id                      = MapAtlasUndergroundRiverUnique
+|unique_map_area_level                   = 77
+|map_series                              = Atlas of Worlds
+|map_area_level                          = 82
+|inventory_icon                          = Shaped Underground River Map (Atlas of Worlds)
+|drop_enabled                            = False
+}}

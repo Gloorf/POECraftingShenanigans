@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Phoenix Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
+Adds 1 to 2 Cold Damage to Attacks
+5% increased Cast Speed
++17 to maximum Mana
++7% to Fire Resistance

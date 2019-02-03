@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Roseus Glyph
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = Its pleasing sheen remains even in shadow,<br>as if it were somehow lit from within.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Glyphs/Glyph3
+}}

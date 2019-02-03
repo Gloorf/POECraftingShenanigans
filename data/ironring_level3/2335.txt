@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rage Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++7 to maximum Life
++8% to Fire Resistance
++10% to Cold Resistance
++4 Life gained on Kill

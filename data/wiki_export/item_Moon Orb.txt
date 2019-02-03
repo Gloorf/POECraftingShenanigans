@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Moon Orb
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = "Moonlight is a wise mother. The moon which bathes us in soft,<br>cooling light, does so with the intent of illuminating our paths.<br>Moonlight is wisdom. Moonlight is life."<br> - The Lunar Verses
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act8/LunarisOrb
+}}

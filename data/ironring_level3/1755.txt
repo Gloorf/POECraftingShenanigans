@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Fate Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
++9 to maximum Life
+19% increased Mana Regeneration Rate
++3 Life gained on Kill

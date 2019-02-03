@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Bust of Hector Titucius
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = The Emperor honours Hector Titucius as Supreme Servant.<br>"Strength in purpose is strength in deed."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Busts/Bust1
+}}

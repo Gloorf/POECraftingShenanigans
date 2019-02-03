@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sledgehammer
+|class_id                                = Two Hand Mace
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 17
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = mace, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace4
+|implicit1                               = StunDurationImplicitMace2
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Augmentation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 17
+|required_strength                       = 62
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.3
+|physical_damage_min                     = 21
+|physical_damage_max                     = 32
+|weapon_range                            = 11
+}}

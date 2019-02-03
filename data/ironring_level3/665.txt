@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Dragon Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Attack Speed
+7% increased Cast Speed
++7 to Evasion Rating
++3 to maximum Life
++19 to maximum Mana
++6 Life gained on Kill

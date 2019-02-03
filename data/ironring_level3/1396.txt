@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Carrion Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
+Adds 1 to 5 Lightning Damage to Attacks
+7% increased Cast Speed
++6 to maximum Life
++19 to maximum Mana
++5 Life gained on Kill

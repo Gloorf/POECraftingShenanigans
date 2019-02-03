@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Corruption Circle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++9 to Evasion Rating
++1 to maximum Energy Shield
++19 to maximum Mana
+6% increased Rarity of Items found
++6 Life gained on Kill

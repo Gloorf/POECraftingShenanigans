@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Elixir of Allure
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = Famous for her many lovers, those that did not<br>come willing to Atziri, came by liquid persuasion.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act10/Potion
+}}

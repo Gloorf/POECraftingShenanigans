@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Doom Grip
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Evasion Rating
++2 to maximum Energy Shield
++5 to maximum Life
++9% to Fire Resistance
++10% to Cold Resistance
++3 Life gained on Kill

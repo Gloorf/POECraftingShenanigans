@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Wharf Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 67
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = urban, not_for_sale, old_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapTier2_1
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|purchase_cost_normal1_name              = Orb of Chance
+|purchase_cost_normal1_amount            = 2
+|purchase_cost_magic1_name               = Orb of Chance
+|purchase_cost_magic1_amount             = 3
+|purchase_cost_rare1_name                = Orb of Chance
+|purchase_cost_rare1_amount              = 4
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 10
+|map_tier                                = 2
+|map_guild_character                     = H
+|map_area_id                             = MapTier2_1
+|map_series                              = Original
+|map_area_level                          = 67
+|inventory_icon                          = Wharf Map (Original)
+|drop_enabled                            = False
+}}

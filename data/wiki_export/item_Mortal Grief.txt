@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Mortal Grief
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = When we prostrate ourselves to the night, we worship mortality.
+|drop_level                              = 70
+|tags                                    = atziri2, default
+|metadata_id                             = Metadata/Items/MapFragments/VaalFragment2_4
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = VaalFragmentImplicit2
+}}

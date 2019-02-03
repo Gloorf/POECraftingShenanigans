@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Blood Hold
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
+Adds 1 to 5 Lightning Damage to Attacks
++9 to maximum Life
+1.8 Life Regenerated per second
++8% to Cold Resistance

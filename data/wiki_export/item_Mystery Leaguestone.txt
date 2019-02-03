@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Mystery Leaguestone
+|class_id                                = Currency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|tags                                    = not_for_sale, default, currency
+|metadata_id                             = Metadata/Items/Classic/MysteryLeaguestone
+|stack_size                              = 1
+|description                             = Contains an unknown Leaguestone.
+}}

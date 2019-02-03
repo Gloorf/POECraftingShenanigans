@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Invisible Buff Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionVanishingDyeSkills
+|stack_size                              = 20
+|description                             = Removes the visual effects on the player from arctic armour, tempest shield, blood rage, molten shell, phase run, any aura, any blasphemied curse, or any herald gem.
+|cosmetic_type                           = Item Skin
+}}

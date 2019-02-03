@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Oblivion Gyre
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++15 to Accuracy Rating
+5% increased Cast Speed
++6 to Evasion Rating
++3 to maximum Energy Shield
+1.9 Life Regenerated per second

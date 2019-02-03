@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Foe Circle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Attack Speed
++4 to Evasion Rating
++2 to maximum Energy Shield
+15% increased Mana Regeneration Rate
++11% to Cold Resistance

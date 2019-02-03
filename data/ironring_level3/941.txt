@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Corruption Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Cast Speed
++16 to maximum Mana
++6% to Cold Resistance
++3 Life gained on Kill

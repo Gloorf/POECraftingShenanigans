@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Silver Flask
+|class_id                                = UtilityFlask
+|size_x                                  = 1
+|size_y                                  = 2
+|drop_level                              = 22
+|drop_rarities                           = Normal, Magic, Unique
+|tags                                    = not_for_sale, no_effect_flask_mod, utility_flask, flask, default
+|metadata_id                             = Metadata/Items/Flasks/FlaskUtility14
+|help_text                               = Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+|implicit1                               = FlaskLevelRequirement22
+|purchase_cost_normal1_name              = Chaos Orb
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 22
+|flask_duration                          = 5
+|buff_id                                 = flask_utility_haste
+|buff_value1                             = 1
+|buff_stat_text                          = Onslaught
+|charges_max                             = 60
+|charges_per_use                         = 40
+}}

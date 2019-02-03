@@ -1,0 +1,10 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Path
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/RaceRewards/MicrotransactionDemigodsFootprints
+|stack_size                              = 1
+}}

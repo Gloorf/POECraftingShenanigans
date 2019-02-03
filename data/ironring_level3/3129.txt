@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Dread Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
+6% increased Attack Speed
++10 to Evasion Rating
++9 to maximum Life
++9% to Lightning Resistance

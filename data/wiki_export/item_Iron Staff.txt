@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Iron Staff
+|class_id                                = Staff
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 18
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = staff, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Staves/Staff4
+|implicit1                               = StaffBlockPercentImplicitStaff1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Augmentation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 18
+|required_strength                       = 35
+|required_intelligence                   = 35
+|critical_strike_chance                  = 6.4
+|attack_speed                            = 1.2
+|physical_damage_min                     = 16
+|physical_damage_max                     = 47
+|weapon_range                            = 11
+}}

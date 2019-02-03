@@ -1,0 +1,7 @@
+﻿Rarity: Currency
+Regal Shard
+--------
+Stack Size: 17/20
+--------
+A stack of 20 shards becomes a Regal Orb.
+Shift click to unstack.

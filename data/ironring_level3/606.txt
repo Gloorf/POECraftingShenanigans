@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Foe Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
++1 to all Attributes
+Adds 1 to 2 Fire Damage to Attacks
+1.9 Life Regenerated per second
++17 to maximum Mana

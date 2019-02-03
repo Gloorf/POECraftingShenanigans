@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Dusk Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++5 to Evasion Rating
++6 to maximum Life
++15 to maximum Mana
++9% to Lightning Resistance
++1 Mana gained on Kill

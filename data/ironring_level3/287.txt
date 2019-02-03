@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Wrath Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
++5 to Evasion Rating
++15 to maximum Mana
+8% increased Rarity of Items found

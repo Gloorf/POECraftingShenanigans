@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Chimeric Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++5 to Evasion Rating
+11% increased Mana Regeneration Rate
++11% to Cold Resistance
++8% to Lightning Resistance

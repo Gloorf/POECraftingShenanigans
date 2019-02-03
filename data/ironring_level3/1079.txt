@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Foe Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
+7% increased Attack Speed
++10 to Accuracy Rating
++18 to maximum Mana

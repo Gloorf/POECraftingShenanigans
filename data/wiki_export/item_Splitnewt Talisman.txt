@@ -1,0 +1,16 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Splitnewt Talisman
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = From flesh and ferocity,<br>the First Ones roamed<br>through the realm of Spirit,<br>and into the darkness beyond. <br>- The Wolven King
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = talisman, amulet, default
+|metadata_id                             = Metadata/Items/Amulets/Talismans/Talisman2_4
+|implicit1                               = TalismanChanceToFreezeShockIgnite_
+|implicit2                               = TalismanCanBePickedUpByMonster
+|is_talisman                             = True
+|talisman_tier                           = 2
+}}

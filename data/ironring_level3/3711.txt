@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Wrath Band
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++1 to all Attributes
++10 to Evasion Rating
++4 to maximum Life
++16 to maximum Mana
+9% increased Rarity of Items found
++9% to Fire Resistance

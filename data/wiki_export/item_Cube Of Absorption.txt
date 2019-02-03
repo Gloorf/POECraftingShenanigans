@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cube Of Absorption
+|class_id                                = LabyrinthTrinket
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Beware the one who seeks to contain a storm.
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Labyrinth/Trinkets/CubeOfAbsorption
+|description                             = The next Conduit you interact with will be disabled permanently
+}}

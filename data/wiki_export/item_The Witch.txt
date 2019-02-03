@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Witch
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A wanderer in the wild strives <br>Against countless foes he survives <br>A fool pursues a quest contrived <br>By the gift of the witch, alive.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheWitch
+|stack_size                              = 8
+|description                             = {{c|unique|{{il|Kiara's Determination|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

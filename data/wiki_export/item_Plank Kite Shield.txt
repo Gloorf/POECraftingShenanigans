@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Plank Kite Shield
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 7
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_int_armour, str_int_shield, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldStrInt1
+|implicit1                               = MovementVelocityPenaltyLightShieldImplicit
+|implicit2                               = AllResistancesImplicitShield1
+|purchase_cost_normal1_name              = Armourer's Scrap
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 7
+|required_strength                       = 13
+|required_intelligence                   = 13
+|armour                                  = 18
+|energy_shield                           = 4
+|block                                   = 22
+}}

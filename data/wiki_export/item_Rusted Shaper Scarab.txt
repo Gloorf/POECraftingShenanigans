@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Rusted Shaper Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The Peak-dwellers saw you as impure, young Qianga, but the Order of<br>the Djinn sees you as all the stronger for your uniqueness.
+|drop_level                              = 1
+|tags                                    = rusted_scarab, default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabShaperRares1
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabShaperRares1
+}}

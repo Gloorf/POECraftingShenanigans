@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Mind Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
++9 to Evasion Rating
+14% increased Mana Regeneration Rate
++6% to Fire Resistance
++3 Life gained on Kill

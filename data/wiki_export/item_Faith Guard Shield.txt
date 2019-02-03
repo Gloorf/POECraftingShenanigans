@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Faith Guard Shield
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionFaithGuardShield
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped shield to the Faith Guard Shield.
+|cosmetic_type                           = Shield Skin
+}}

@@ -1,0 +1,30 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Tropical Island Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 62
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = forest, low_tier_map, not_for_sale, map, default
+|metadata_id                             = Metadata/Items/Maps/Map2Tier1_6
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|purchase_cost_normal1_name              = Orb of Chance
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Chance
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Orb of Chance
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 10
+|map_tier                                = 1
+|map_guild_character                     = T
+|map_area_id                             = Map2Tier1_6
+|unique_map_guild_character              = ^
+|unique_map_area_id                      = Map2Tier1_6Unique
+|unique_map_area_level                   = 68
+|map_series                              = The Awakening
+|map_area_level                          = 68
+|inventory_icon                          = Tropical Island Map (The Awakening)
+|drop_enabled                            = False
+}}

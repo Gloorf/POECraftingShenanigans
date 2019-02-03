@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Arcane Visage
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionArcaneVisage
+|stack_size                              = 20
+|description                             = Adds an Arcane Visage to any equipped headdress.
+|cosmetic_type                           = Helmet Attachment
+}}

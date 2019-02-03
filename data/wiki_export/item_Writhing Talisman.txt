@@ -1,0 +1,16 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Writhing Talisman
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = For too long we have crawled in darkness,<br>scavenging through rotten scraps.<br>The First Ones teach us to scavenge until we can hunt,<br>and then never crawl again.<br>- The Wolven King
+|drop_level                              = 35
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = talisman, amulet, default
+|metadata_id                             = Metadata/Items/Amulets/Talismans/Talisman1_12
+|implicit1                               = TalismanAttackDamage
+|implicit2                               = TalismanCanBePickedUpByMonster
+|is_talisman                             = True
+|talisman_tier                           = 1
+}}

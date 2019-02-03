@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rage Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
++7 to maximum Life
+18% increased Mana Regeneration Rate
++3 Life gained on Kill

@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Keyblade
+|class_id                                = Two Hand Sword
+|size_x                                  = 2
+|size_y                                  = 4
+|flavour_text                            = Forged from thousands of unclaimed Beta keys
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, sword, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordDev
+|required_level                          = 1
+|required_strength                       = 8
+|required_dexterity                      = 8
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.2
+|physical_damage_min                     = 1
+|physical_damage_max                     = 1
+|weapon_range                            = 11
+}}

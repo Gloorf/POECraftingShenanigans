@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Primordial Blocks Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 79
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, dungeon, cannot_be_twinned, urban, temple, map, default
+|metadata_id                             = Metadata/Items/Maps/MapWorldsTortureChamber
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 12
+|map_guild_character                     = â
+|map_area_id                             = MapWorldsTortureChamber
+|unique_map_guild_character              = #
+|unique_map_area_id                      = MapWorldsTortureChamberUnique
+|unique_map_area_level                   = 79
+|map_series                              = War for the Atlas
+|map_area_level                          = 79
+|inventory_icon                          = Primordial Blocks Map (War for the Atlas)
+|drop_enabled                            = False
+}}

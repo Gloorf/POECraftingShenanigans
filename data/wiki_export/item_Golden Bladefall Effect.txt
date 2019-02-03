@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Bladefall Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionGoldenBladefall
+|stack_size                              = 20
+|description                             = Your Bladefall becomes a rain of golden blades.
+|cosmetic_type                           = Bladefall Skin
+}}

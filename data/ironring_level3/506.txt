@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Blood Spiral
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
+Adds 1 to 2 Cold Damage to Attacks
++14 to Accuracy Rating
+8% increased Rarity of Items found

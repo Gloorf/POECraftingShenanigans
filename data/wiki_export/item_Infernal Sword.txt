@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Infernal Sword
+|class_id                                = Two Hand Sword
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 67
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = sword, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword19
+|implicit1                               = AccuracyPercentImplicitSword2
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 4
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 67
+|required_strength                       = 113
+|required_dexterity                      = 113
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.35
+|physical_damage_min                     = 52
+|physical_damage_max                     = 108
+|weapon_range                            = 11
+}}

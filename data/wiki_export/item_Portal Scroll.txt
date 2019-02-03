@@ -1,0 +1,16 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Portal Scroll
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 2
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyPortal
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 3
+|stack_size                              = 40
+|description                             = Creates a portal to town
+|help_text                               = Right click on this item to use it.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

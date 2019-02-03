@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Maelström Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++6 to maximum Life
+1.2 Life Regenerated per second
++1 Mana gained on Kill

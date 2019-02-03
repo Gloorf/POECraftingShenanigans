@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Breach
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Ever get the feeling you're being watched...?
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheBreach
+|stack_size                              = 4
+|description                             = {{c|unique|Breach Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

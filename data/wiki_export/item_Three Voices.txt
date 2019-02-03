@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Three Voices
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The village elders had a curious rule: If you hear three voices scream for aid, flee as fast as you can.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardThreeVoices
+|stack_size                              = 3
+|description                             = {{c|currency|3x Essence}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

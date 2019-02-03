@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Serrated Arrow Quiver
+|class_id                                = Quiver
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, quiver, default
+|metadata_id                             = Metadata/Items/Quivers/QuiverDescent
+|implicit1                               = AddedPhysicalDamageImplicitQuiverDescent
+|inventory_icon                          = Serrated Arrow Quiver (Descent)
+|drop_enabled                            = False
+}}

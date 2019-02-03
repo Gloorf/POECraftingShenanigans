@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Ghoul Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Cast Speed
++16 to maximum Mana
+10% increased Mana Regeneration Rate
++10% to Lightning Resistance

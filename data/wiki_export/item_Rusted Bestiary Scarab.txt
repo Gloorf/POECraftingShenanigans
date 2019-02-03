@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Rusted Bestiary Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Feuding Ezomytes slaughtered your kin, young Agnar, but we pulled you<br>from the flames. The Order of the Djinn is your clan now.
+|drop_level                              = 1
+|tags                                    = rusted_scarab, default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabBeasts1
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabBeasts1
+}}

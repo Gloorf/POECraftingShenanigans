@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cleaver
+|class_id                                = One Hand Axe
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 16
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = axe, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe4
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Augmentation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 16
+|required_strength                       = 48
+|required_dexterity                      = 14
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.2
+|physical_damage_min                     = 13
+|physical_damage_max                     = 39
+|weapon_range                            = 9
+}}

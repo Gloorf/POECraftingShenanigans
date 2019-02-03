@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Purple Crystal Apparition Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionPurpleCrystalApparitionEffect
+|stack_size                              = 1
+|description                             = Attaches the Purple Crystal Apparition Effect to your amulet
+|cosmetic_type                           = Amulet Effect
+}}

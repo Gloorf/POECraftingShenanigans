@@ -1,0 +1,18 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Two-Toned Boots
+|class_id                                = Boots
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 70
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, atlas_base_type, bootsatlas1, dex_int_armour, boots, armour, default
+|metadata_id                             = Metadata/Items/Armours/Boots/BootsAtlas1
+|implicit1                               = ColdAndLightningResistImplicitBoots1
+|required_level                          = 70
+|required_dexterity                      = 62
+|required_intelligence                   = 62
+|evasion                                 = 126
+|energy_shield                           = 24
+|inventory_icon                          = Two-Toned Boots (Cold and Lightning Resistance)
+}}

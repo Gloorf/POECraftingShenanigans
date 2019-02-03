@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Damnation Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++9 to Dexterity
+1.8 Life Regenerated per second
++17 to maximum Mana

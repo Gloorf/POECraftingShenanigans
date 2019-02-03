@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Dragon Hunter Longsword
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionDragonHunterLongsword
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped two-handed sword, axe or mace to a Dragon Hunter Longsword.
+|cosmetic_type                           = Weapon Skin
+}}

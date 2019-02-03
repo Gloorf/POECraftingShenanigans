@@ -1,0 +1,29 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Weeping Essence of Hatred
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 30
+|tags                                    = essence, currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyEssenceHatred3
+|stack_size                              = 9
+|description                             = Upgrades a normal item to rare with one guaranteed property<br />Properties restricted to level 60 and below<br /><br />Two Handed Melee Weapon: Adds (21-27) to (41-48) [[Cold Damage]]<br />Other Weapon: Adds (14-18) to (27-32) [[Cold Damage]]<br />Armour: +(18-23)% to [[Cold Resistance]]<br />Quiver: +(18-23)% to [[Cold Resistance]]<br />Belt: +(18-23)% to [[Cold Resistance]]<br />Other Jewellery: (15-18)% increased [[Cold Damage]]
+|help_text                               = Right click this item then left click a normal item to apply it.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+|drop_level_maximum                      = 100
+|essence_level_restriction               = 60
+|essence_level                           = 3
+|essence_monster_modifier_ids            = EssenceDaemonModLifeAndDamageLevel3, EssenceDaemonPhysicalAddedAndConvertedToCold
+|is_essence                              = True
+|upgraded_from_set1_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceHatred2
+|upgraded_from_set1_group1_amount        = 3
+|upgraded_from_set2_text                 = +1 level {{c|corrupted|corruption}} outcome
+|upgraded_from_set2_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceHatred2
+|upgraded_from_set2_group1_amount        = 1
+|upgraded_from_set2_group2_item_id       = Metadata/Items/Currency/CurrencyCorruptMonolith
+|upgraded_from_set2_group2_amount        = 1
+|upgraded_from_set3_text                 = random {{c|currency|Essence}}
+|upgraded_from_set3_group1_item_id       = Metadata/Items/DivinationCards/DivinationCardThreeVoices
+|upgraded_from_set3_group1_amount        = 3
+}}

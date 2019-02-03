@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Onslaught Grasp
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++1 to all Attributes
+Adds 1 to 5 Lightning Damage to Attacks
++19 to maximum Mana
++10% to Fire Resistance
++1 Mana gained on Kill

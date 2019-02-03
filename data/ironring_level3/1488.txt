@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Phoenix Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+6% increased Attack Speed
++6 to Evasion Rating
++3 to maximum Energy Shield
++15 to maximum Mana
++10% to Fire Resistance

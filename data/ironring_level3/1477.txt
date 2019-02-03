@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Cataclysm Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Attack Speed
++3 to maximum Life
+12% increased Mana Regeneration Rate
++5 Life gained on Kill

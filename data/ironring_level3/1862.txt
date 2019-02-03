@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rift Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++5 to Evasion Rating
++16 to maximum Mana
+17% increased Mana Regeneration Rate

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Skull Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++2 to all Attributes
+Adds 1 to 2 Fire Damage to Attacks
+Adds 1 to 2 Cold Damage to Attacks
++10% to Fire Resistance

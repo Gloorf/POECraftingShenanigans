@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Corruption Hold
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Accuracy Rating
++6 to Evasion Rating
++3 to maximum Energy Shield
+1 Life Regenerated per second
++19 to maximum Mana
++6 Life gained on Kill

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Hypnotic Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++13 to Accuracy Rating
++4 to maximum Life
+1.9 Life Regenerated per second
++18 to maximum Mana

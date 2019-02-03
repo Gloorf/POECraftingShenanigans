@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Serrated Mohawk
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionSerratedMohawk
+|stack_size                              = 20
+|description                             = Adds a mohawk of blades to any equipped headdress
+|cosmetic_type                           = Helmet Attachment
+}}

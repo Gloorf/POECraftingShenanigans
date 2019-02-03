@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Death Circle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to all Attributes
++5 to Evasion Rating
++3 to maximum Energy Shield
++6 to maximum Life
++6% to Cold Resistance
++5 Life gained on Kill

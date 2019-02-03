@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Polished Elder Scarab
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Speaker of unclean truths, Egrin of the Dark Between Stars.<br>We curse you whose soul echoes the madness of the void!
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Scarabs/ScarabElderRares2
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ScarabElderRares2_
+}}

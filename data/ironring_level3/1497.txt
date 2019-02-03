@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Horror Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
++2 to all Attributes
++6 to Evasion Rating
++17 to maximum Mana
++11% to Cold Resistance

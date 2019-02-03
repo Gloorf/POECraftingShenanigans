@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Harbinger Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 77
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = beach, not_for_sale, map, default
+|metadata_id                             = Metadata/Items/Maps/MapWorldsHarbingerMid
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 10
+|map_area_id                             = MapWorldsHarbingerMid
+|unique_map_area_id                      = MapWorldsHarbingerMid
+|unique_map_area_level                   = 77
+|map_series                              = War for the Atlas
+|map_area_level                          = 77
+|inventory_icon                          = Harbinger Map (Mid Tier) (War for the Atlas)
+|drop_enabled                            = False
+}}

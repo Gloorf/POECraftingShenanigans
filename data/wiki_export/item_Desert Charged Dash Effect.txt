@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Desert Charged Dash Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionDesertChargedDashEffect
+|stack_size                              = 1
+|description                             = Your Charged Dash becomes a Desert Effect.
+|cosmetic_type                           = Charged Dash Skin
+}}

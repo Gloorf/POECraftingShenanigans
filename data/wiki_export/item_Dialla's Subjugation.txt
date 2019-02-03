@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Dialla's Subjugation
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A symbol of beauty and innocence<br>The gems corrupted her mind<br>Malachai corrupted her gems<br>All but a glimmer of<br>greatness lost in madness
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardDiallasSubjugation
+|stack_size                              = 7
+|description                             = {{c|gem|Superior Support Gem}}<br>{{c|default|Quality:}} {{c|augmented|+23%}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

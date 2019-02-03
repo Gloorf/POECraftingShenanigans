@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Medium Hybrid Flask
+|class_id                                = HybridFlask
+|size_x                                  = 1
+|size_y                                  = 2
+|drop_level                              = 20
+|drop_rarities                           = Normal, Magic, Unique
+|tags                                    = hybrid_flask, flask, default
+|metadata_id                             = Metadata/Items/Flasks/FlaskHybrid2
+|help_text                               = Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+|implicit1                               = FlaskLevelRequirement20
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 2
+|purchase_cost_magic1_name               = Glassblower's Bauble
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 20
+|flask_life                              = 230
+|flask_mana                              = 100
+|flask_duration                          = 5
+|charges_max                             = 40
+|charges_per_use                         = 20
+}}

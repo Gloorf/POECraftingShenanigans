@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Grim Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++1 to all Attributes
++8 to Evasion Rating
++16 to maximum Mana
++6% to Cold Resistance

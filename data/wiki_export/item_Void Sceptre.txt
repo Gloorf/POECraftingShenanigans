@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Void Sceptre
+|class_id                                = Sceptre
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 68
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = sceptre, sceptre, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandMaces/Sceptre22
+|implicit1                               = ElementalDamagePercentImplicitSceptreNew22
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 4
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 68
+|required_strength                       = 104
+|required_intelligence                   = 122
+|critical_strike_chance                  = 6.2
+|attack_speed                            = 1.25
+|physical_damage_min                     = 50
+|physical_damage_max                     = 76
+|weapon_range                            = 9
+}}

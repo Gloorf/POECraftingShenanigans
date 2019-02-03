@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Demon King Portal Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionDemonKingPortal
+|stack_size                              = 1
+|description                             = This character's portals use the Demon King effect.
+|cosmetic_type                           = Portal Modification
+}}

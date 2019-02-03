@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Death Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Attack Speed
++8 to Evasion Rating
++4 to maximum Life
+1.8 Life Regenerated per second
+12% increased Mana Regeneration Rate

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rift Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++9 to maximum Life
++15 to maximum Mana
++11% to Fire Resistance

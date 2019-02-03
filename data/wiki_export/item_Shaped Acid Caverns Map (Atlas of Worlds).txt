@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shaped Acid Caverns Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 76
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = mid_tier_map, swamp, mountain, not_for_sale, shaped_map, indoors_area, cave, map, default
+|metadata_id                             = Metadata/Items/Maps/MapAtlasAcidLakesShaped
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 9
+|map_guild_character                     = e
+|map_area_id                             = MapAtlasAcidLakes
+|map_series                              = Atlas of Worlds
+|map_area_level                          = 76
+|inventory_icon                          = Shaped Acid Caverns Map (Atlas of Worlds)
+|drop_enabled                            = False
+}}

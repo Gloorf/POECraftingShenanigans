@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Metalsmith's Gift
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A month's work, a year's wages, a foolish shortcut through a Rhoa's nest, and a grieving bride-to-be, who never received her betrothed's great gift.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheMetalsmithsGift
+|stack_size                              = 6
+|description                             = {{c|white|{{il|Prismatic Ring|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

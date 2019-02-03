@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Left to Fate
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Many strive for greatness,<br>but it is challenge, unforseen,<br>that forges heroes.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardLeftToFate
+|stack_size                              = 4
+|description                             = {{c|rare|Map}}<br>{{c|default|Map Tier:}} {{c|normal|16}}<br>{{c|corrupted|[[Unidentified Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

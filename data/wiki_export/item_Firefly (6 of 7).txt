@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Firefly
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Gold of the organ. Green of the throat. Red of the vein.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act7/Firefly6
+|inventory_icon                          = Firefly (6 of 7)
+}}

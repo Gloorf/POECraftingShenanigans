@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Obscured
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Our world, dangerous as it is, is far safer than what lies just beyond our sight.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheObscured
+|stack_size                              = 7
+|description                             = {{c|normal|Breachstone}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

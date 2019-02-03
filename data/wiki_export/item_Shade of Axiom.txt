@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shade of Axiom
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionAxiomDemon
+|stack_size                              = 1
+|description                             = The Shade of Axiom possesses your amulet
+|cosmetic_type                           = Amulet Effect
+}}

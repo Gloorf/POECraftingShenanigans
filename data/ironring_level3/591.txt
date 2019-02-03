@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Entropy Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
++10 to Evasion Rating
++17 to maximum Mana
++4 Life gained on Kill

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Demonic Shield Charge Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionCultistShieldChargeEffect
+|stack_size                              = 1
+|description                             = Your Shield Charge becomes a demonic effect.
+|cosmetic_type                           = Shield Charge Skin
+}}

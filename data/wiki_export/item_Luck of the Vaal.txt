@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Luck of the Vaal
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = They can't be THAT lucky,<br>or they'd still be here!
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardLuckOfTheVaal
+|stack_size                              = 1
+|description                             = {{c|unique|{{il|Vaal Gauntlets|html=}}}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = A Mother's Parting Gift
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Nature was her domain,<br>Love was her song,<br>Family was her devotion,<br>Knowledge was her gift.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardAMothersPartingGift
+|stack_size                              = 6
+|description                             = {{c|unique|{{il|Fertile Mind|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

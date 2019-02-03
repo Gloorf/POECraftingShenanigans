@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Archon Kite Shield Piece
+|class_id                                = UniqueFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|drop_rarities                           = Unique
+|tags                                    = default
+|metadata_id                             = Metadata/Items/UniqueFragments/FragmentUniqueShield1_4
+|help_text                               = This item will transform when correctly arranged with other items.
+|inventory_icon                          = Archon Kite Shield Piece (4 of 4)
+}}

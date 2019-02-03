@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ammonite Glyph
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = When put to the ear it whispers not of<br>the sea, but long dead incantations.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Glyphs/Glyph2
+}}

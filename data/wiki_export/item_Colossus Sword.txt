@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Colossus Sword
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionColossusSword
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped one or two-handed sword, one-handed axe, one-handed mace or sceptre to the Colossus Sword.
+|cosmetic_type                           = Weapon Skin
+|inventory_icon                          = Colossus Sword
+}}

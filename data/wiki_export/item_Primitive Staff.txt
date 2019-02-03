@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Primitive Staff
+|class_id                                = Staff
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 9
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = staff, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Staves/Staff2
+|implicit1                               = StaffBlockPercentImplicitStaff1
+|purchase_cost_normal1_name              = Blacksmith's Whetstone
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 9
+|required_strength                       = 20
+|required_intelligence                   = 20
+|critical_strike_chance                  = 6.2
+|attack_speed                            = 1.25
+|physical_damage_min                     = 9
+|physical_damage_max                     = 28
+|weapon_range                            = 11
+}}

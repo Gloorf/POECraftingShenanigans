@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Death Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++6 to Accuracy Rating
++9 to maximum Life
++17 to maximum Mana
+16% increased Mana Regeneration Rate

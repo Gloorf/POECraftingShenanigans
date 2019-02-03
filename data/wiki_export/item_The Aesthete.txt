@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Aesthete
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "Some see our mortal flesh as a limitation. I see it as an opportunity for vast, miraculous improvements."<br>- Shavronne of Umbra
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheAesthete
+|stack_size                              = 8
+|description                             = {{c|unique|Shavronne Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

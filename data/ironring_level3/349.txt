@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Sorrow Spiral
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
++10 to Evasion Rating
++1 to maximum Energy Shield
++18 to maximum Mana
++8% to Fire Resistance
++1 Mana gained on Kill

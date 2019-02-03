@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Mark of the Warrior Wings
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionMarkOfTheWarriorWings
+|stack_size                              = 1
+|description                             = TEMP - RECLAIM THIS IF POSSIBLE
+|cosmetic_type                           = TEMP
+}}

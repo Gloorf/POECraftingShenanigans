@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Morbid Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to Evasion Rating
++19 to maximum Mana
++11% to Cold Resistance
++8% to Lightning Resistance
++3 Life gained on Kill

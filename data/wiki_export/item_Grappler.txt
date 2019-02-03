@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Grappler
+|class_id                                = One Hand Sword
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 55
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, sword, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/OneHandSwordM2
+|implicit1                               = DodgeImplicitMarakethSword1
+|required_level                          = 55
+|required_strength                       = 99
+|required_dexterity                      = 99
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.15
+|physical_damage_min                     = 44
+|physical_damage_max                     = 94
+|weapon_range                            = 9
+}}

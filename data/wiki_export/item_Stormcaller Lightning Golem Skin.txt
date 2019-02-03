@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Stormcaller Lightning Golem Skin
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionStormcallerLightningGolemSkin
+|stack_size                              = 1
+|description                             = Your Summoned Lightning Golem becomes imbued with mechanical energy.
+|cosmetic_type                           = Lightning Golem Skin
+}}

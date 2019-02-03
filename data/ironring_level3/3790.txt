@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Beast Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
++18 to maximum Mana
+15% increased Mana Regeneration Rate
++7% to Cold Resistance

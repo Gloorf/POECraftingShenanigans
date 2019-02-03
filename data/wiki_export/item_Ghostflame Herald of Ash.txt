@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ghostflame Herald of Ash
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionGhostflameHeraldOfAsh
+|stack_size                              = 20
+|description                             = Your Herald of Ash becomes infused with ghostly fire.
+|cosmetic_type                           = Herald of Ash Skin
+}}

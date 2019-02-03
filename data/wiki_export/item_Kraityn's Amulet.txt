@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Kraityn's Amulet
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = While this artefact resonates with power,<br>it is simply a piece in a larger puzzle.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/BanditAmulets/DexAmulet
+}}

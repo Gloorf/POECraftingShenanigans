@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Harbinger Flame Dash Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionHarbingerFlameDashEffect
+|stack_size                              = 1
+|description                             = Your Flame Dash becomes a blue harbinger effect.
+|cosmetic_type                           = Flame Dash Skin
+}}

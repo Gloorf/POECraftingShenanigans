@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Beauty Through Death
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Her beauty did not fade <br>her humanity did not survive.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardBeautyThroughDeath
+|stack_size                              = 5
+|description                             = {{c|prophecy|Queen's Sacrifice}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

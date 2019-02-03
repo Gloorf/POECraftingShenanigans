@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Audacity
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A jolt, and it moves. Or smolders.<br>A current, and it lives. Or dies.<br>A surge, and it transcends.<br>Or... not.<br>Only one way to find out.
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardAudacity
+|stack_size                              = 5
+|description                             = {{c|unique|{{il|Doryani's Fist|html=}}}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

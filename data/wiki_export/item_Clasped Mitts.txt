@@ -1,0 +1,24 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Clasped Mitts
+|class_id                                = Gloves
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 31
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dex_int_armour, gloves, armour, default
+|metadata_id                             = Metadata/Items/Armours/Gloves/GlovesDexInt3
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 31
+|required_dexterity                      = 25
+|required_intelligence                   = 25
+|evasion                                 = 57
+|energy_shield                           = 11
+}}

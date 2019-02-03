@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Page
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = "A communion... but with what? By all accounts, <br>it wasn't God that the Vaal were trying to reach."<br>- Icius Perandus 
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/GoldenPages/Page2
+|inventory_icon                          = Golden Page (2 of 4)
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Summon Mannequins Skin
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionSummonMannequinsSkin
+|stack_size                              = 1
+|description                             = Your Summoned Skeletons become animated mannequins.
+|cosmetic_type                           = Summon Skeletons Skin
+}}

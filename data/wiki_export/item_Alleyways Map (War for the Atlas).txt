@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Alleyways Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 69
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, urban, map, default
+|metadata_id                             = Metadata/Items/Maps/MapWorldsAlleyways
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 2
+|map_guild_character                     = a
+|map_area_id                             = MapWorldsAlleyways
+|map_series                              = War for the Atlas
+|map_area_level                          = 69
+|inventory_icon                          = Alleyways Map (War for the Atlas)
+|drop_enabled                            = False
+}}

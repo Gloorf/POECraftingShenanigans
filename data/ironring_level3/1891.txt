@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Hypnotic Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
++9 to Evasion Rating
+13% increased Mana Regeneration Rate
++11% to Lightning Resistance

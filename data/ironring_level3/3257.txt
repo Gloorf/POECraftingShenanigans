@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Woe Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
++14 to Accuracy Rating
+5% increased Cast Speed
++9 to maximum Life
++17 to maximum Mana

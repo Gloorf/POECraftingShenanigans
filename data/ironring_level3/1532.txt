@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Chimeric Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++18 to maximum Mana
++11% to Fire Resistance
++6% to Cold Resistance
++9% to Lightning Resistance

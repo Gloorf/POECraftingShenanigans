@@ -1,0 +1,30 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Promenade Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 69
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = urban, not_for_sale, old_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapTier4_6
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|purchase_cost_normal1_name              = Orb of Alchemy
+|purchase_cost_normal1_amount            = 2
+|purchase_cost_magic1_name               = Orb of Alchemy
+|purchase_cost_magic1_amount             = 3
+|purchase_cost_rare1_name                = Orb of Alchemy
+|purchase_cost_rare1_amount              = 4
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 10
+|map_tier                                = 4
+|map_guild_character                     = É
+|map_area_id                             = MapTier4_6
+|unique_map_guild_character              = Ù
+|unique_map_area_id                      = MapTier4_6Unique
+|unique_map_area_level                   = 69
+|map_series                              = Original
+|map_area_level                          = 69
+|inventory_icon                          = Promenade Map (Original)
+|drop_enabled                            = False
+}}

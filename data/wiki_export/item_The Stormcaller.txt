@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Stormcaller
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = If you beckon the<br>Lord of Lightning,<br>do not be surprised<br>when you are struck.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheStormcaller
+|stack_size                              = 4
+|description                             = {{c|unique|Agnerod Staff}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

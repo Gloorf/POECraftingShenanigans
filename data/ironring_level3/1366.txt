@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Grim Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++16 to maximum Mana
+10% increased Mana Regeneration Rate
++3 Life gained on Kill

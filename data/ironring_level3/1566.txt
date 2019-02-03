@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Sol Hold
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
+1.7 Life Regenerated per second
++16 to maximum Mana
+10% increased Rarity of Items found

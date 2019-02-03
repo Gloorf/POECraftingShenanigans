@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Calendar of Fortune
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The King looked upon images swirling atop the ancient stone dial.<br>"You look peaceful" he told his bride-to-be, "So peaceful, asleep in our wedding bed."<br>But in phantasm, she did not slumber, and what he saw was not a place for dreams,<br>rather, a wooden box... about to be closed and lowered into earthy depths.<br> - Maraketh Legend
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act9/Calendar
+}}

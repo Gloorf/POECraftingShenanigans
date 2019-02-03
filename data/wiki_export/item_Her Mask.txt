@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Her Mask
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = To her beauty you submit,<br>lest your neck the great Queen slit.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardHerMask
+|stack_size                              = 4
+|description                             = {{c|white|Sacrifice Fragment}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

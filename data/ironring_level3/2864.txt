@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Vortex Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
++8 to Accuracy Rating
++16 to maximum Mana
++11% to Lightning Resistance

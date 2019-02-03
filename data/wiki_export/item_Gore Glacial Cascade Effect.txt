@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gore Glacial Cascade Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionGoreGlacialCascade
+|stack_size                              = 20
+|description                             = Your Glacial Cascade becomes a surge of demonic teeth from below.
+|cosmetic_type                           = Glacial Cascade Skin
+}}

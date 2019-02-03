@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Corruption Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++2 to all Attributes
++4 to maximum Life
++19 to maximum Mana
++7% to Fire Resistance
++9% to Lightning Resistance

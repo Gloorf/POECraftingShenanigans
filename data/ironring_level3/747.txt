@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Behemoth Finger
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Cast Speed
++2 to maximum Energy Shield
+1.9 Life Regenerated per second
++10% to Fire Resistance

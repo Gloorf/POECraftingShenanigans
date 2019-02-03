@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ancient Books
+|class_id                                = HideoutDoodad
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutPrisonBooks
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Alva, Master Explorer
+|master_favour_cost                      = 280
+|master_level_requirement                = 1
+|variation_count                         = 14
+}}

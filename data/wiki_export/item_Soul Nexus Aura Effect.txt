@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Soul Nexus Aura Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionSpiritClarity
+|stack_size                              = 20
+|description                             = Your aura effect becomes a vortex of swirling spirits.
+|cosmetic_type                           = Aura Skin
+}}

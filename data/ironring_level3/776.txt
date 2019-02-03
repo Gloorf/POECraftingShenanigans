@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Storm Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++8 to Accuracy Rating
++18 to maximum Mana
++7% to Fire Resistance
++6 Life gained on Kill

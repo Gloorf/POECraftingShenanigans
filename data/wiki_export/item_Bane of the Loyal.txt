@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Bane of the Loyal
+|class_id                                = LabyrinthTrinket
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A snake cannot survive without its head.<br>But neither can the head survive without the body.
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Labyrinth/Trinkets/BaneOfTheLoyal
+|description                             = The next Lieutenant you hit will be killed instantly
+}}

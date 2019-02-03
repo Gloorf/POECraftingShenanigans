@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Ethereal
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "Long ago, people looked to the stars, believing they influenced us. Soon, it will be us who influence the stars."<br>- Doryani, Queen's Thaumaturge
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheEthereal
+|stack_size                              = 7
+|description                             = {{c|white|Six-Link Vaal Regalia}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

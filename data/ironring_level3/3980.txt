@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Honour Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++1 to all Attributes
++3 to Evasion Rating
++15 to maximum Mana
+16% increased Mana Regeneration Rate
++1 Mana gained on Kill

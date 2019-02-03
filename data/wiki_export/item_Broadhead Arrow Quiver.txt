@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Broadhead Arrow Quiver
+|class_id                                = Quiver
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 28
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = quiver, default
+|metadata_id                             = Metadata/Items/Quivers/Quiver11
+|implicit1                               = AddedPhysicalDamageImplicitQuiver11
+|purchase_cost_normal1_name              = Orb of Augmentation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+}}

@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Morbid Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
++18 to maximum Mana
++11% to Cold Resistance
++8% to Lightning Resistance

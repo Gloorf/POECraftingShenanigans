@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Vast
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Can you hear the siren's calls,<br>Just beyond the sea?<br>A voice which hearts<br>of men enthralls,<br>I too am hooked to thee.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheVast
+|stack_size                              = 7
+|description                             = {{c|unique|{{il|Song of the Sirens|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Doedre's Madness
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "Hold your tongue before I claim it." - Doedre Darktongue
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardDoedresMadness
+|stack_size                              = 9
+|description                             = {{c|unique|Doedre Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

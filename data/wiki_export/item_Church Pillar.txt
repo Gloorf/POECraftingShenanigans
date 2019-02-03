@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Church Pillar
+|class_id                                = HideoutDoodad
+|size_x                                  = 1
+|size_y                                  = 2
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutChurchColumn1
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Alva, Master Explorer
+|master_favour_cost                      = 3220
+|master_level_requirement                = 4
+|variation_count                         = 4
+}}

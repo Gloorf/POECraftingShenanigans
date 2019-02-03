@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Gloom Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++7 to Evasion Rating
++15 to maximum Mana
++5 Life gained on Kill

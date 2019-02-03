@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Vanguard Apparition Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionVanguardAmuletEffect
+|stack_size                              = 1
+|description                             = The Vanguard Apparition possesses your amulet.
+|cosmetic_type                           = Amulet Effect
+}}

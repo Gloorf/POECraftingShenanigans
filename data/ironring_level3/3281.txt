@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Death Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++9 to Accuracy Rating
++2 to maximum Energy Shield
++3 Life gained on Kill

@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Apex
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Though its power has been shared, there<br>is still more the Apex might unlock.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/BanditAmulets/CombinedAmulet
+}}

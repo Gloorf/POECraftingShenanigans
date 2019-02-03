@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Hypnotic Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++2 to all Attributes
+Adds 1 to 2 Cold Damage to Attacks
++18 to maximum Mana

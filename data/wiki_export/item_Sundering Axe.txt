@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sundering Axe
+|class_id                                = Two Hand Axe
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 60
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = axe, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe15
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 4
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 60
+|required_strength                       = 149
+|required_dexterity                      = 76
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.25
+|physical_damage_min                     = 62
+|physical_damage_max                     = 128
+|weapon_range                            = 11
+}}

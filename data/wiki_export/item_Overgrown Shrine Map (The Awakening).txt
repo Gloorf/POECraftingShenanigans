@@ -1,0 +1,30 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Overgrown Shrine Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 71
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = indoors_area, temple, low_tier_map, not_for_sale, map, default
+|metadata_id                             = Metadata/Items/Maps/Map2Tier4_2
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|purchase_cost_normal1_name              = Orb of Chance
+|purchase_cost_normal1_amount            = 2
+|purchase_cost_magic1_name               = Orb of Chance
+|purchase_cost_magic1_amount             = 3
+|purchase_cost_rare1_name                = Orb of Chance
+|purchase_cost_rare1_amount              = 4
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 10
+|map_tier                                = 4
+|map_guild_character                     = J
+|map_area_id                             = Map2Tier4_2
+|unique_map_guild_character              = Ô
+|unique_map_area_id                      = Map2Tier4_2Unique
+|unique_map_area_level                   = 71
+|map_series                              = The Awakening
+|map_area_level                          = 71
+|inventory_icon                          = Overgrown Shrine Map (The Awakening)
+|drop_enabled                            = False
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Blight Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++5 to Accuracy Rating
+1.9 Life Regenerated per second
++17 to maximum Mana

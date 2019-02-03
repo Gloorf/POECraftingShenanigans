@@ -1,0 +1,26 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Hallowed Life Flask
+|class_id                                = LifeFlask
+|size_x                                  = 1
+|size_y                                  = 2
+|drop_level                              = 42
+|drop_rarities                           = Normal, Magic, Unique
+|tags                                    = life_flask, flask, default
+|metadata_id                             = Metadata/Items/Flasks/FlaskLife9
+|help_text                               = Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+|implicit1                               = FlaskLevelRequirement53
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 3
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 42
+|flask_life                              = 1990
+|flask_duration                          = 8
+|charges_max                             = 30
+|charges_per_use                         = 10
+}}

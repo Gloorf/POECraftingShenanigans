@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rift Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++2 to all Attributes
+Adds 1 to 2 Fire Damage to Attacks
+1.2 Life Regenerated per second
++18 to maximum Mana

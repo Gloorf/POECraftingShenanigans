@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Power Cable
+|class_id                                = HideoutDoodad
+|size_x                                  = 2
+|size_y                                  = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutPowerCable
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Niko, Master of the Depths
+|master_favour_cost                      = 7500
+|master_level_requirement                = 5
+|variation_count                         = 17
+}}

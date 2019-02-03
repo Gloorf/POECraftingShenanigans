@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Radiant Arc
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionSulphiteArc
+|stack_size                              = 1
+|description                             = Your Arc becomes a Radiant Effect.
+|cosmetic_type                           = Arc Skin
+}}

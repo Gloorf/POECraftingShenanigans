@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Demonic Blade Vortex Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionDemonBladeVortex
+|stack_size                              = 20
+|description                             = Your Blade Vortex becomes a black and red demonic vortex.
+|cosmetic_type                           = Blade Vortex Skin
+}}

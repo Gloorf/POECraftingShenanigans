@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Viper Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
+6% increased Cast Speed
++5 to Evasion Rating
++15 to maximum Mana
++11% to Fire Resistance

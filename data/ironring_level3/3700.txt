@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Victory Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
++16 to maximum Mana
+8% increased Rarity of Items found
++9% to Lightning Resistance

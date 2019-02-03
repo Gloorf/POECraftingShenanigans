@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Empyrean Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
+Adds 1 to 2 Fire Damage to Attacks
++6% to Lightning Resistance
++5 Life gained on Kill

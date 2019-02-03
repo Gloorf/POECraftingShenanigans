@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Fleshripper
+|class_id                                = Two Hand Axe
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 70
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, axe, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxeM3
+|implicit1                               = LocalCriticalStrikeChanceImplicitMarakethTwoHandAxe2
+|required_level                          = 70
+|required_strength                       = 156
+|required_dexterity                      = 84
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.2
+|physical_damage_min                     = 80
+|physical_damage_max                     = 125
+|weapon_range                            = 11
+}}

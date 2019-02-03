@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Undisputed
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = To create something truly spectacular, you must risk total failure.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheUndisputed
+|stack_size                              = 8
+|description                             = {{c|magic|Merciless Vaal Axe}}<br>{{c|default|Item Level:}} {{c|normal|100}}<br>{{c|default|Elder Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

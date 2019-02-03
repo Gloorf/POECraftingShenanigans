@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Boot Blade
+|class_id                                = Dagger
+|size_x                                  = 1
+|size_y                                  = 3
+|drop_level                              = 44
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dagger, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Daggers/Dagger12
+|implicit1                               = CriticalStrikeChanceImplicitDaggerNew1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 44
+|required_dexterity                      = 63
+|required_intelligence                   = 90
+|critical_strike_chance                  = 6.3
+|attack_speed                            = 1.4
+|physical_damage_min                     = 15
+|physical_damage_max                     = 59
+|weapon_range                            = 8
+}}

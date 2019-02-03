@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Valentine's Heart Weapon Effect (2013)
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionHeartWeapon
+|stack_size                              = 20
+|description                             = Impales a beating heart upon a sword, dagger, or wand
+|cosmetic_type                           = Weapon Effect
+}}

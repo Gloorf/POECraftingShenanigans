@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Demonic Raise Spectre Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionCultistRaiseSpectreEffect
+|stack_size                              = 1
+|description                             = Your Raised Spectres gain a demonic effect.
+|cosmetic_type                           = Raise Spectre Skin
+}}

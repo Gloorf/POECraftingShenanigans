@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Mesa Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 72
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = low_tier_map, mountain, cave, map, default
+|metadata_id                             = Metadata/Items/Maps/MapAtlasMesa
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|purchase_cost_normal1_name              = Orb of Chance
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Chance
+|purchase_cost_magic1_amount             = 4
+|purchase_cost_rare1_name                = Orb of Chance
+|purchase_cost_rare1_amount              = 5
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 10
+|map_tier                                = 5
+|map_guild_character                     = h
+|map_area_id                             = MapAtlasMesa
+|map_series                              = Atlas of Worlds
+|map_area_level                          = 72
+|inventory_icon                          = Mesa Map (Atlas of Worlds)
+|drop_enabled                            = False
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Gale Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to all Attributes
++18 to maximum Mana
+12% increased Mana Regeneration Rate
++11% to Lightning Resistance

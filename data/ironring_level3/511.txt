@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Glyph Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
++11 to Accuracy Rating
+5% increased Cast Speed
++9 to maximum Life

@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Mind Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
++12 to Accuracy Rating
++9 to Evasion Rating
++6 to maximum Life
++15 to maximum Mana
++6% to Cold Resistance

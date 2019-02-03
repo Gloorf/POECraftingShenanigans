@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Lion
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The Eternals lauded his valour. The Karui relished his defeat. Yet the final thoughts of Marceus Lioneye were naught but lament for his pride.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheLion
+|stack_size                              = 5
+|description                             = {{c|unique|Lioneye Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

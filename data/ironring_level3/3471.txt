@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Cataclysm Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++7 to maximum Life
+1.7 Life Regenerated per second
++6% to Fire Resistance
++3 Life gained on Kill

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Spirit Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
+1.4 Life Regenerated per second
++17 to maximum Mana
++1 Mana gained on Kill

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ebony Character Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionEbonyCharacterEffect
+|stack_size                              = 1
+|description                             = Attaches the Ebony Character Effect to your belt.
+|cosmetic_type                           = Belt Attachment
+}}

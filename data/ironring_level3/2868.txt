@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Maelström Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Attack Speed
++4 to Evasion Rating
+17% increased Mana Regeneration Rate
++10% to Cold Resistance

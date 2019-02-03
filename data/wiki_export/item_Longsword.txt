@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Longsword
+|class_id                                = Two Hand Sword
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 8
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = sword, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword2
+|implicit1                               = IncreasedAccuracy2hSwordImplicit1
+|purchase_cost_normal1_name              = Blacksmith's Whetstone
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 8
+|required_strength                       = 20
+|required_dexterity                      = 17
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.35
+|physical_damage_min                     = 10
+|physical_damage_max                     = 24
+|weapon_range                            = 11
+}}

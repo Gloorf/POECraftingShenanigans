@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Hate Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++4 to all Attributes
+6% increased Cast Speed
++5 to Evasion Rating
+18% increased Mana Regeneration Rate

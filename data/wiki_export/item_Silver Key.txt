@@ -1,0 +1,10 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Silver Key
+|class_id                                = LabyrinthItem
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Labyrinth/SilverKey
+|help_text                               = This item is required to open a Silver Door located in the Labyrinth. This item will drop on the ground when leaving the Labyrinth.
+}}

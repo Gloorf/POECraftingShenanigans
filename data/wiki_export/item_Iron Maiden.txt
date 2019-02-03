@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Iron Maiden
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionIronMaiden
+|stack_size                              = 20
+|description                             = Changes the appearance of any equipped headdress to a dark metal mask
+|cosmetic_type                           = Helmet Skin
+|inventory_icon                          = Iron Maiden
+}}

@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Fragment of the Hydra
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Enter the crucible. The nexus of<br>nothingness and equilibrium of eternity.
+|drop_level                              = 84
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/ShaperFragment4
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ShaperFragmentImplicit
+}}

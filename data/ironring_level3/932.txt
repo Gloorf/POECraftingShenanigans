@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Hate Band
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
++7 to Evasion Rating
++1 to maximum Energy Shield
+1 Life Regenerated per second
++7% to Cold Resistance
++1 Mana gained on Kill

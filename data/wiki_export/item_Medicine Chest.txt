@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Medicine Chest
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 3
+|flavour_text                            = Doctor "Shaky Hands" Opden travelled with only the<br>finest medicines and antidotes... and a curiously<br>generous supply of opiates.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/MedicineSet1
+}}

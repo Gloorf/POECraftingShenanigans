@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Flare Discharge Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionFlareDischarge
+|stack_size                              = 20
+|description                             = Your Discharge becomes an explosive flare effect.
+|cosmetic_type                           = Discharge Skin
+}}

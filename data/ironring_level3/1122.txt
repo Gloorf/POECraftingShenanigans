@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Loath Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++5 to Evasion Rating
++1 to maximum Energy Shield
+15% increased Mana Regeneration Rate
++7% to Cold Resistance

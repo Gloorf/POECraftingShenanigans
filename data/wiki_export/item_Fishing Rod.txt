@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Fishing Rod
+|class_id                                = FishingRod
+|size_x                                  = 1
+|size_y                                  = 4
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, fishing_rod, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapon/FishingRods/FishingRod1
+|purchase_cost_normal1_name              = Exalted Orb
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Exalted Orb
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Exalted Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Mirror of Kalandra
+|purchase_cost_unique1_amount            = 1
+|required_level                          = 1
+|required_strength                       = 8
+|required_dexterity                      = 8
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.2
+|physical_damage_min                     = 7
+|physical_damage_max                     = 13
+|weapon_range                            = 11
+}}

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Pain Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Attack Speed
++10 to Evasion Rating
++3 to maximum Energy Shield
++9 to maximum Life
+1 Life Regenerated per second
+15% increased Mana Regeneration Rate

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Captured Soul of The Gorgon
+|class_id                                = PantheonSoul
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = The mud is cracked and dry. The fields now burn beneath the blistering sun.<br>Even our children are dying in the streets! We've angered Solaris and so<br>we pay tribute to appease her fiery heart...
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/PantheonSouls/PantheonSoulSolarisUpgrade1
+|help_text                               = A captured Soul. Give to Sin to unlock a secondary Pantheon Power.
+}}

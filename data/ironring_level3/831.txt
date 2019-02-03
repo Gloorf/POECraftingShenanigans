@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Foe Coil
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++1 to maximum Energy Shield
+16% increased Mana Regeneration Rate
++11% to Fire Resistance

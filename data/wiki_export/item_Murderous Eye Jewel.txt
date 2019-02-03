@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Murderous Eye Jewel
+|class_id                                = AbyssJewel
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|drop_rarities                           = Magic, Rare, Unique
+|tags                                    = not_for_sale, abyss_jewel_melee, abyss_jewel, default
+|metadata_id                             = Metadata/Items/Jewels/JewelAbyssMelee
+|help_text                               = Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Woe Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to all Attributes
++9 to Evasion Rating
+19% increased Mana Regeneration Rate
++7% to Lightning Resistance

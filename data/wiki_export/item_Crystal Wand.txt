@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Crystal Wand
+|class_id                                = Wand
+|size_x                                  = 1
+|size_y                                  = 3
+|drop_level                              = 45
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = wand, ranged, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Wands/Wand9
+|implicit1                               = SpellDamageOnWeaponImplicitWand13
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 45
+|required_intelligence                   = 146
+|critical_strike_chance                  = 7
+|attack_speed                            = 1.3
+|physical_damage_min                     = 23
+|physical_damage_max                     = 43
+|weapon_range                            = 120
+}}

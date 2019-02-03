@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Heathen Wand
+|class_id                                = Wand
+|size_x                                  = 1
+|size_y                                  = 3
+|drop_level                              = 55
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, wand, ranged, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Wands/WandM2
+|implicit1                               = IncreasedCastSpeedImplicitMarakethWand1
+|required_level                          = 55
+|required_intelligence                   = 184
+|critical_strike_chance                  = 7
+|attack_speed                            = 1.35
+|physical_damage_min                     = 26
+|physical_damage_max                     = 48
+|weapon_range                            = 120
+}}

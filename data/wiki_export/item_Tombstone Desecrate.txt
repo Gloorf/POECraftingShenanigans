@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Tombstone Desecrate
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionTombstoneDesecrate
+|stack_size                              = 20
+|description                             = Your Desecrate summons a cluster of necrotic tombstones
+|cosmetic_type                           = Desecrate Skin
+}}

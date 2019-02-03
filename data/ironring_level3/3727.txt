@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Rune Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
++7 to Evasion Rating
++5 to maximum Life
++15 to maximum Mana
+10% increased Rarity of Items found
++6% to Lightning Resistance

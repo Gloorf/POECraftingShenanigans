@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rapture Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++8 to Accuracy Rating
++16 to maximum Mana
++1 Mana gained on Kill

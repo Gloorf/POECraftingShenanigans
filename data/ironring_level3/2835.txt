@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rage Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
+Adds 1 to 2 Fire Damage to Attacks
+Adds 1 to 2 Cold Damage to Attacks
++10% to Lightning Resistance

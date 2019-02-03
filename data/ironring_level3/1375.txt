@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Apocalypse Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++7 to Evasion Rating
++15 to maximum Mana
++10% to Fire Resistance
++8% to Cold Resistance
++10% to Lightning Resistance

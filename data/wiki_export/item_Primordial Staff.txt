@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Primordial Staff
+|class_id                                = Staff
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 58
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = staff, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Staves/Staff14
+|implicit1                               = StaffBlockPercentImplicitStaff1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 58
+|required_strength                       = 99
+|required_intelligence                   = 99
+|critical_strike_chance                  = 6.2
+|attack_speed                            = 1.15
+|physical_damage_min                     = 47
+|physical_damage_max                     = 141
+|weapon_range                            = 11
+}}

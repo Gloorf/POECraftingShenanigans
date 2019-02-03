@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Bust of Marceus Lioneye
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = The Emperor honours Marceus Lioneye as Supreme Servant.<br>"The road to Glory is paved with Sacrifice."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Busts/Bust3
+}}

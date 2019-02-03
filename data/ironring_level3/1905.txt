@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Gloom Finger
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++3 to maximum Life
+1.6 Life Regenerated per second
+8% increased Rarity of Items found

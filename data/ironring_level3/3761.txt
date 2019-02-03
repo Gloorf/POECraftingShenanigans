@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Pain Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
++3 to maximum Energy Shield
++10% to Fire Resistance
++8% to Lightning Resistance

@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Rage Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++3 to maximum Energy Shield
+15% increased Mana Regeneration Rate
++11% to Lightning Resistance

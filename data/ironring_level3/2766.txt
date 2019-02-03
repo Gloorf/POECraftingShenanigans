@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Victory Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++5 to Accuracy Rating
++3 to Evasion Rating
++9% to Cold Resistance
++8% to Lightning Resistance

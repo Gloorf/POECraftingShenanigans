@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Death
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The end of the old,<br>the beginning of the new.<br>A unique opportunity for transformation,<br>for those with the power<br>to grasp it.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardDeath
+|stack_size                              = 4
+|description                             = {{c|unique|{{il|Mon'tregul's Grasp|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

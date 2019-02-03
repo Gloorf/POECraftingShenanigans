@@ -1,0 +1,29 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Weeping Essence of Contempt
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 30
+|tags                                    = essence, currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyEssenceContempt3
+|stack_size                              = 9
+|description                             = Upgrades a normal item to rare with one guaranteed property<br />Properties restricted to level 60 and below<br /><br />One Handed Weapon: Adds (6-8) to (13-15) [[Physical Damage]]<br />Two Handed Weapon: Adds (9-12) to (18-21) [[Physical Damage]]<br />Gloves: Adds (3-4) to (6-7) [[Physical Damage]] to [[Attack|Attacks]]<br />Other Armour: Reflects (11-24) [[Physical Damage]] to Melee Attackers<br />Quiver: Adds (3-4) to (6-7) [[Physical Damage]] to [[Attack|Attacks]]<br />Belt: Reflects (11-24) [[Physical Damage]] to Melee Attackers<br />Other Jewellery: Adds (4-6) to (9-10) [[Physical Damage]] to [[Attack|Attacks]]
+|help_text                               = Right click this item then left click a normal item to apply it.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+|drop_level_maximum                      = 100
+|essence_level_restriction               = 60
+|essence_level                           = 3
+|essence_monster_modifier_ids            = EssenceDaemonModLifeAndDamageLevel3
+|is_essence                              = True
+|upgraded_from_set1_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceContempt2
+|upgraded_from_set1_group1_amount        = 3
+|upgraded_from_set2_text                 = +1 level {{c|corrupted|corruption}} outcome
+|upgraded_from_set2_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceContempt2
+|upgraded_from_set2_group1_amount        = 1
+|upgraded_from_set2_group2_item_id       = Metadata/Items/Currency/CurrencyCorruptMonolith
+|upgraded_from_set2_group2_amount        = 1
+|upgraded_from_set3_text                 = random {{c|currency|Essence}}
+|upgraded_from_set3_group1_item_id       = Metadata/Items/DivinationCards/DivinationCardThreeVoices
+|upgraded_from_set3_group1_amount        = 3
+}}

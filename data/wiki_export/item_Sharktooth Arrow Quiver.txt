@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sharktooth Arrow Quiver
+|class_id                                = Quiver
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 10
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = quiver, default
+|metadata_id                             = Metadata/Items/Quivers/Quiver8
+|implicit1                               = LifeGainPerTargetImplicitQuiver8
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 3
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+}}

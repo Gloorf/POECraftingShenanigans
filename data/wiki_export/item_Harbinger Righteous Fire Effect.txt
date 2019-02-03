@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Harbinger Righteous Fire Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionHarbingerRighteousFireEffect
+|stack_size                              = 1
+|description                             = Your Righteous Fire becomes a blue harbinger effect.
+|cosmetic_type                           = Righteous Fire Skin
+}}

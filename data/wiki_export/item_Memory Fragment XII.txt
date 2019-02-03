@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment XII
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...Venarius, that bastard... he marched me through the streets.<br>His men beat me within an inch of death... I... I told him everything. <br>He demanded that I take all of us into the dreamlands, to meet with the Elder.<br>Using the device, we stepped through, setting foot in the Atlas of Worlds..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment9_3
+}}

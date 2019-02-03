@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Horror Coil
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
+6% increased Attack Speed
+5% increased Cast Speed
++3 to maximum Energy Shield
++16 to maximum Mana

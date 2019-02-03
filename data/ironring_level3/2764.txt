@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Death Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++3 to maximum Energy Shield
+18% increased Mana Regeneration Rate
++8% to Lightning Resistance
++6 Life gained on Kill

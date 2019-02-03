@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Grim Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++15 to Accuracy Rating
++7 to Evasion Rating
++1 Mana gained on Kill

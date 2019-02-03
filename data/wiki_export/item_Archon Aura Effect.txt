@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Archon Aura Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionArchonDetermination
+|stack_size                              = 20
+|description                             = Your aura effect becomes the archon effect.
+|cosmetic_type                           = Aura Skin
+}}

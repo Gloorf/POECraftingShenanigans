@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Golem Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
+1.6 Life Regenerated per second
++19 to maximum Mana
+11% increased Mana Regeneration Rate

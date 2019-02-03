@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Horror Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
+5% increased Cast Speed
++1 to maximum Energy Shield
+6% increased Rarity of Items found

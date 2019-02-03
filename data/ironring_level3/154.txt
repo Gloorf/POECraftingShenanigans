@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Victory Circle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to maximum Energy Shield
++8 to maximum Life
++16 to maximum Mana
++9% to Fire Resistance
++11% to Cold Resistance

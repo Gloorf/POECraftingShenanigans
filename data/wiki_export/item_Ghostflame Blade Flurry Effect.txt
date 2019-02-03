@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ghostflame Blade Flurry Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionGloomBladeFlurryEffect
+|stack_size                              = 1
+|description                             = Your Blade Flurry becomes a Ghostflame Effect.
+|cosmetic_type                           = Blade Flurry Skin
+}}

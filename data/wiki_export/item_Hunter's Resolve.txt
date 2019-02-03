@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Hunter's Resolve
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Primed, curved and sleek.<br>Decisive and final.<br>For malice and righteousness.<br>There's but one solution.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardHuntersResolve
+|stack_size                              = 8
+|description                             = {{c|unique|Bow}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

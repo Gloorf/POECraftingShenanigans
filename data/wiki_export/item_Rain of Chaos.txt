@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Rain of Chaos
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Fire filled the sky that night <br>Chaos reigned <br>Where the shards fell <br>All was destroyed <br>-Jozen Kasigi, retelling an urban legend of the Cataclysm
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardRainOfChaos
+|stack_size                              = 8
+|description                             = {{c|currency|{{il|Chaos Orb|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

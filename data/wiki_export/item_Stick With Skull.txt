@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Stick With Skull
+|class_id                                = HideoutDoodad
+|size_x                                  = 1
+|size_y                                  = 2
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutForestStickSkull
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Einhar, Beastmaster
+|master_favour_cost                      = 1740
+|master_level_requirement                = 3
+|variation_count                         = 12
+}}

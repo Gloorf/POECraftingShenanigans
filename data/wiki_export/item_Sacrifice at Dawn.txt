@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sacrifice at Dawn
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Only those who aspire can dare to hope.
+|drop_level                              = 36
+|tags                                    = atziri1, default
+|metadata_id                             = Metadata/Items/MapFragments/VaalFragment1_2
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = VaalFragmentImplicit1
+}}

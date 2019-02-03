@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Purple Skull Helmet
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionClassicPurpleSkull
+|stack_size                              = 20
+|description                             = Changes the appearance of any equipped headdress to a burning purple skull
+|cosmetic_type                           = Helmet Skin
+}}

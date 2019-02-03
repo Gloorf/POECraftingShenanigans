@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Foe Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++3 to Evasion Rating
++8% to Fire Resistance
++7% to Cold Resistance

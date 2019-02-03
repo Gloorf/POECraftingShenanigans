@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ethereal Stars Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionEtherealStars
+|stack_size                              = 20
+|description                             = Your Ethereal Knives becomes a volley of spinning throwing stars
+|cosmetic_type                           = Ethereal Knives Skin
+}}

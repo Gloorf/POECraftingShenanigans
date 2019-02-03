@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Broad Sword
+|class_id                                = One Hand Sword
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 15
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = sword, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/OneHandSword4
+|implicit1                               = AccuracyPercentImplicitSword1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Augmentation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 15
+|required_strength                       = 30
+|required_dexterity                      = 30
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.3
+|physical_damage_min                     = 17
+|physical_damage_max                     = 25
+|weapon_range                            = 9
+}}

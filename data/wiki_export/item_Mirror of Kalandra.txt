@@ -1,0 +1,16 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Mirror of Kalandra
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 35
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyDuplicate
+|purchase_cost_normal1_name              = Divine Orb
+|purchase_cost_normal1_amount            = 223
+|stack_size                              = 10
+|description                             = Creates a mirrored copy of an item
+|help_text                               = Right click this item then left click an equipable non-unique item to apply it. Mirrored copies cannot be modified.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

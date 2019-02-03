@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Hate Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Cast Speed
++6 to Evasion Rating
++7 to maximum Life
++11% to Lightning Resistance

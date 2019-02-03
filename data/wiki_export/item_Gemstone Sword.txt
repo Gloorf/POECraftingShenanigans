@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gemstone Sword
+|class_id                                = One Hand Sword
+|size_x                                  = 1
+|size_y                                  = 3
+|drop_level                              = 56
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = sword, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/OneHandSword16
+|implicit1                               = IncreasedAccuracySwordImplicit7
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 56
+|required_strength                       = 96
+|required_dexterity                      = 96
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.3
+|physical_damage_min                     = 39
+|physical_damage_max                     = 83
+|weapon_range                            = 9
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Harmony of Souls
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Shrieking souls locked away <br>Hate splits frozen cells asunder <br>The knot of corruption<br>undone at last
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardHarmonyOfSouls
+|stack_size                              = 9
+|description                             = {{c|currency|9x Shrieking Essence}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

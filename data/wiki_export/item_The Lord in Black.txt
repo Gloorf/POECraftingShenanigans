@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Lord in Black
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Thy knee shall bend<br>in shifting dark,<br>thy blade shall serve his vigil.<br>Thy oath shall bind thee<br>to his mark,<br>thy flesh shall bear his sigil.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheLordInBlack
+|stack_size                              = 6
+|description                             = {{c|magic|Ring of Bameth}}<br>{{c|default|Item Level:}} {{c|normal|83}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Torment Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
+6% increased Cast Speed
++2 to maximum Energy Shield
+15% increased Mana Regeneration Rate
++8% to Lightning Resistance

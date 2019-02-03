@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Plague Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
++15 to Accuracy Rating
++6 to Evasion Rating
++5 Life gained on Kill

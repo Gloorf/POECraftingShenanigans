@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Maligaro's Spike
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 4
+|flavour_text                            = Maligaro loved his tools, and took great<br>pains to keep them excruciatingly sharp.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/PoisonSpear
+}}

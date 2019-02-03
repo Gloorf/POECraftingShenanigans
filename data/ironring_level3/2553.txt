@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Onslaught Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
+5% increased Attack Speed
++9 to Accuracy Rating
++18 to maximum Mana
++9% to Cold Resistance

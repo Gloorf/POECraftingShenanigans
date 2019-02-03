@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Miracle Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++3 to all Attributes
++8 to Evasion Rating
++7 to maximum Life

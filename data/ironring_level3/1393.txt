@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Brood Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++13 to Accuracy Rating
++10 to Evasion Rating
++18 to maximum Mana
++7% to Fire Resistance

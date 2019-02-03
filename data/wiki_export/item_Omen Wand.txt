@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Omen Wand
+|class_id                                = Wand
+|size_x                                  = 1
+|size_y                                  = 3
+|drop_level                              = 53
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = wand, ranged, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Wands/Wand11
+|implicit1                               = SpellDamageOnWeaponImplicitWand12
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 53
+|required_intelligence                   = 200
+|critical_strike_chance                  = 8
+|attack_speed                            = 1.2
+|physical_damage_min                     = 27
+|physical_damage_max                     = 50
+|weapon_range                            = 120
+}}

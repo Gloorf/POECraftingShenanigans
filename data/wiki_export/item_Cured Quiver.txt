@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cured Quiver
+|class_id                                = Quiver
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 2
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = quiver, default
+|metadata_id                             = Metadata/Items/Quivers/Quiver1
+|implicit1                               = AddedFireDamageImplicitQuiver1
+}}

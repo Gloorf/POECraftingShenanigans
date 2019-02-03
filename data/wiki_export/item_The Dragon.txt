@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Dragon
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Scaly beast of the skies,<br>watching with his golden eyes.<br>Shadow that blocks out the sun,<br>it's too late for you to run.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheDragon
+|stack_size                              = 4
+|description                             = {{c|unique|{{il|Coruscating Elixir|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

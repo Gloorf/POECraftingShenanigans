@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Dragon Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
+Adds 1 to 2 Fire Damage to Attacks
++10 to Accuracy Rating
++3 to maximum Energy Shield
++3 to maximum Life
+10% increased Rarity of Items found

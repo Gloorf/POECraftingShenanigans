@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Garish Power
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Maligaro may have valued function over form, but that did not mute his flair for the dramatic.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheGarishPower
+|stack_size                              = 4
+|description                             = {{c|unique|Jewel}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

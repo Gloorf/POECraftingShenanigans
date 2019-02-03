@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Maelström Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Dexterity
+Adds 1 to 2 Cold Damage to Attacks
++6 to maximum Life
+1.2 Life Regenerated per second
+14% increased Mana Regeneration Rate

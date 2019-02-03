@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Apocalypse Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++6 to Evasion Rating
++4 to maximum Life
++8% to Fire Resistance
++10% to Cold Resistance

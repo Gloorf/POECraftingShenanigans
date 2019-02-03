@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Stygian Raise Spectre
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionShadowRaiseSpectre
+|stack_size                              = 20
+|description                             = Your Raise Spectre becomes a shadowy apparition.
+|cosmetic_type                           = Raise Spectre Skin
+}}

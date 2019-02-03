@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Turquoise Imp Mask
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionBatSkullTurquoise
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped headdress to a turquoise imp mask
+|cosmetic_type                           = Helmet Skin
+}}

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Apocalypse Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
+Adds 1 to 5 Lightning Damage to Attacks
++3 to maximum Life
+12% increased Mana Regeneration Rate
++6% to Lightning Resistance

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Iron Maiden Ancestral Warchief
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionIronMaidenAncestralWarchief
+|stack_size                              = 1
+|description                             = Your Ancestral Warchief becomes an Iron Maiden Effect.
+|cosmetic_type                           = Ancestral Warchief Skin
+}}

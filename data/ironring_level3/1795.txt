@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Dusk Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++14 to Accuracy Rating
++6 to maximum Life
++19 to maximum Mana
++3 Life gained on Kill

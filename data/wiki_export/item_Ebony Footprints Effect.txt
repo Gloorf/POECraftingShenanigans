@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ebony Footprints Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionEbonyFootprints
+|stack_size                              = 20
+|description                             = Adds befouling footprints to any equipped pair of boots.
+|cosmetic_type                           = Boots Modifier
+}}

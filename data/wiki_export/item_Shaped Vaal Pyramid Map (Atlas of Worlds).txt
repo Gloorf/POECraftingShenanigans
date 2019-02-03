@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shaped Vaal Pyramid Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 75
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = mid_tier_map, indoors_area, dungeon, not_for_sale, shaped_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapAtlasVaalPyramidShaped
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 8
+|map_guild_character                     = G
+|map_area_id                             = MapAtlasVaalPyramid
+|unique_map_guild_character              = g
+|unique_map_area_id                      = MapAtlasVaalPyramidUnique_
+|unique_map_area_level                   = 70
+|map_series                              = Atlas of Worlds
+|map_area_level                          = 75
+|inventory_icon                          = Shaped Vaal Pyramid Map (Atlas of Worlds)
+|drop_enabled                            = False
+}}

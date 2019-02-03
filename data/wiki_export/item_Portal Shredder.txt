@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Portal Shredder
+|class_id                                = LabyrinthTrinket
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The best way to keep out an unwanted guest<br>Is to simply close the door.
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Labyrinth/Trinkets/PortalShredder
+|description                             = The next Portal you hit will be killed instantly
+}}

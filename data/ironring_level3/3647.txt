@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Agony Gyre
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
++3 to all Attributes
++8 to maximum Life
+9% increased Rarity of Items found

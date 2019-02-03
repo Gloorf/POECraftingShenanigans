@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Storm Loop
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
++12 to Accuracy Rating
+7% increased Rarity of Items found
++1 Mana gained on Kill

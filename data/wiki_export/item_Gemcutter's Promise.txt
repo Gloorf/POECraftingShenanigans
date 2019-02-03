@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gemcutter's Promise
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "I swore to use my position to help the people. What good is power when it just accumulates on the already-powerful?" - Erasmus, Imperial Gemcutter
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardGemcuttersPromise
+|stack_size                              = 3
+|description                             = {{c|gem|Superior Gem}}<br>{{c|default|Quality:}} {{c|augmented|+20%}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

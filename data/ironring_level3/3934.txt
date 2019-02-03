@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Honour Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++5 to maximum Life
+1 Life Regenerated per second
++18 to maximum Mana
++11% to Fire Resistance

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Sorrow Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Dexterity
++6 to maximum Life
++19 to maximum Mana
++6 Life gained on Kill

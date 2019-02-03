@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Volkuur's Key
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = She of Many Bodies, whose very flesh unites all,<br>whose dark whispers draw forth our souls, unfettered.
+|drop_level                              = 60
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/ProphecyFragment4
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ProphecyFragmentImplicit
+}}

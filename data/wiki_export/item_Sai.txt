@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sai
+|class_id                                = Dagger
+|size_x                                  = 1
+|size_y                                  = 3
+|drop_level                              = 70
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, dagger, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Daggers/DaggerM3
+|implicit1                               = BlockPercentMarakethDaggerImplicit2_
+|required_level                          = 70
+|required_dexterity                      = 121
+|required_intelligence                   = 121
+|critical_strike_chance                  = 6.2
+|attack_speed                            = 1.3
+|physical_damage_min                     = 23
+|physical_damage_max                     = 90
+|weapon_range                            = 8
+}}

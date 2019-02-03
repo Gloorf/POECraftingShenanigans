@@ -1,0 +1,29 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Muttering Essence of Greed
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 12
+|tags                                    = essence, currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyEssenceGreed2
+|stack_size                              = 9
+|description                             = Upgrades a normal item to rare with one guaranteed property<br />Properties restricted to level 45 and below<br /><br />Weapon: (0.6-0.8)% of Physical [[Attack Damage]] Leeched as [[Life]]<br />Armour: +(15-30) to maximum [[Life]]<br />Quiver: (0.6-0.8)% of Physical [[Attack Damage]] Leeched as [[Life]]<br />Belt: (12-15)% increased Flask [[Life]] Recovery rate<br />Other Jewellery: (2-4) [[Life]] Regenerated per second
+|help_text                               = Right click this item then left click a normal item to apply it.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+|drop_level_maximum                      = 67
+|essence_level_restriction               = 45
+|essence_level                           = 2
+|essence_monster_modifier_ids            = EssenceDaemonModLifeAndDamageLevel2
+|is_essence                              = True
+|upgraded_from_set1_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceGreed1
+|upgraded_from_set1_group1_amount        = 3
+|upgraded_from_set2_text                 = +1 level {{c|corrupted|corruption}} outcome
+|upgraded_from_set2_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceGreed1
+|upgraded_from_set2_group1_amount        = 1
+|upgraded_from_set2_group2_item_id       = Metadata/Items/Currency/CurrencyCorruptMonolith
+|upgraded_from_set2_group2_amount        = 1
+|upgraded_from_set3_text                 = random {{c|currency|Essence}}
+|upgraded_from_set3_group1_item_id       = Metadata/Items/DivinationCards/DivinationCardThreeVoices
+|upgraded_from_set3_group1_amount        = 3
+}}

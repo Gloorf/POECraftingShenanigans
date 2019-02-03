@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Golem Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++18 to maximum Mana
++8% to Fire Resistance
++10% to Lightning Resistance

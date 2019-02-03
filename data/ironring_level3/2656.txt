@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Morbid Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++7 to Evasion Rating
+2.0 Life Regenerated per second
++15 to maximum Mana
++6% to Lightning Resistance
++1 Mana gained on Kill

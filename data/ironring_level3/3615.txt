@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Pandemonium Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++15 to Accuracy Rating
+5% increased Cast Speed
++5 to maximum Life
++16 to maximum Mana
++3 Life gained on Kill

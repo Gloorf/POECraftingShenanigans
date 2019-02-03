@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Double Claw
+|class_id                                = Claw
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 36
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, claw, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Claws/ClawM1
+|implicit1                               = LifeAndManaOnHitSeparatedImplicitMarakethClaw1
+|required_level                          = 36
+|required_dexterity                      = 67
+|required_intelligence                   = 67
+|critical_strike_chance                  = 6.3
+|attack_speed                            = 1.5
+|physical_damage_min                     = 15
+|physical_damage_max                     = 44
+|weapon_range                            = 9
+}}

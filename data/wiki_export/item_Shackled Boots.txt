@@ -1,0 +1,24 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shackled Boots
+|class_id                                = Boots
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 34
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dex_int_armour, boots, armour, default
+|metadata_id                             = Metadata/Items/Armours/Boots/BootsDexInt4
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 34
+|required_dexterity                      = 34
+|required_intelligence                   = 34
+|evasion                                 = 62
+|energy_shield                           = 12
+}}

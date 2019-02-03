@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ice Weapon Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionIceWeaponEffect
+|stack_size                              = 1
+|description                             = Adds the Ice Weapon Effect to any equipped weapon.
+|cosmetic_type                           = Weapon Effect
+}}

@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Lithe Blade
+|class_id                                = Two Hand Sword
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 56
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, sword, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordM2
+|implicit1                               = CriticalMultiplierImplicitSwordM2
+|required_level                          = 56
+|required_strength                       = 96
+|required_dexterity                      = 113
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.35
+|physical_damage_min                     = 54
+|physical_damage_max                     = 89
+|weapon_range                            = 11
+}}

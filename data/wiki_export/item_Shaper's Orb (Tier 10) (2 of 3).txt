@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shaper's Orb (Tier 10)
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 77
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/MapUpgrades/MapUpgradeTier10_2
+|description                             = Upgrades a Tier 10 map on the Atlas by five tiers
+|help_text                               = Right click this item then left click on a map on the Atlas to upgrade it by five tiers.
+|inventory_icon                          = Shaper's Orb (Tier 10) (2 of 3)
+}}

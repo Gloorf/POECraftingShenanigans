@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Angelic Mask
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionAngelicMask
+|stack_size                              = 20
+|description                             = Changes the appearance of any equipped headdress to a divine angelic mask. Awarded for supporting the Child's Play charity in the May 2014 Ambush/Invasion race.
+|cosmetic_type                           = Helmet Skin
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Destined to Crumble
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "Let us not forget the most important lesson the Vaal taught us:<br>Nothing is eternal."<br>- Siosa Foaga, Imperial Scholar
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardDestinedToCrumble
+|stack_size                              = 5
+|description                             = {{c|rare|Body Armour}}<br>{{c|default|Item Level:}} {{c|normal|100}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

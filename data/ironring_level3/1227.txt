@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Horror Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
+7% increased Attack Speed
++5 to Accuracy Rating
++16 to maximum Mana

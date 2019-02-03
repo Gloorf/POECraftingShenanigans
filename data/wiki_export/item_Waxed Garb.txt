@@ -1,0 +1,25 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Waxed Garb
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 32
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dex_int_armour, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyDexInt6
+|implicit1                               = MovementVelocityPenaltyLightArmourImplicit
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 32
+|required_dexterity                      = 48
+|required_intelligence                   = 48
+|evasion                                 = 178
+|energy_shield                           = 36
+}}

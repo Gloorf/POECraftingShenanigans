@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Empyrean Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++3 to Evasion Rating
+1.8 Life Regenerated per second
+15% increased Mana Regeneration Rate
++1 Mana gained on Kill

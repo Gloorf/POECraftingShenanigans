@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Brimstone Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++14 to Accuracy Rating
++7 to Evasion Rating
++7 to maximum Life
+1.9 Life Regenerated per second
++17 to maximum Mana
+6% increased Rarity of Items found

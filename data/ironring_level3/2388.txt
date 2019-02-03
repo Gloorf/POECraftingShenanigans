@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Pain Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Accuracy Rating
++8 to maximum Life
++15 to maximum Mana
+18% increased Mana Regeneration Rate
++11% to Lightning Resistance

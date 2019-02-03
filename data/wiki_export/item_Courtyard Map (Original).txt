@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Courtyard Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 78
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, forest, swamp, urban, old_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapTier13_2
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|purchase_cost_normal1_name              = Exalted Orb
+|purchase_cost_normal1_amount            = 4
+|purchase_cost_magic1_name               = Exalted Orb
+|purchase_cost_magic1_amount             = 5
+|purchase_cost_rare1_name                = Exalted Orb
+|purchase_cost_rare1_amount              = 8
+|purchase_cost_unique1_name              = Exalted Orb
+|purchase_cost_unique1_amount            = 10
+|map_tier                                = 13
+|map_guild_character                     = ‡
+|map_area_id                             = MapTier13_2
+|map_series                              = Original
+|map_area_level                          = 78
+|inventory_icon                          = Courtyard Map (Original)
+|drop_enabled                            = False
+}}

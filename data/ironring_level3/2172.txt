@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Fate Gyre
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
++3 to all Attributes
+Adds 1 to 5 Lightning Damage to Attacks
++10 to Evasion Rating
+1.8 Life Regenerated per second

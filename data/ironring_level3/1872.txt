@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Vortex Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Cast Speed
++3 to Evasion Rating
+1.4 Life Regenerated per second
++9% to Fire Resistance

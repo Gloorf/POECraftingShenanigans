@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Mystic Cloak
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionMysticCloak
+|stack_size                              = 1
+|description                             = Adds the Mystic Cloak back attachment to any equipped body armour.
+|cosmetic_type                           = Body Armour Attachment
+}}

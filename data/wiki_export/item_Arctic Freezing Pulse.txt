@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Arctic Freezing Pulse
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionArcticFreezingPulse
+|stack_size                              = 1
+|description                             = Your Freezing Pulse becomes an Arctic Effect.
+|cosmetic_type                           = Freezing Pulse Skin
+}}

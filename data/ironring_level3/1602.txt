@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Tempest Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
+10% increased Mana Regeneration Rate
++9% to Cold Resistance

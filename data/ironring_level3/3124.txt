@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Pain Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Cast Speed
++4 to Evasion Rating
++16 to maximum Mana
+19% increased Mana Regeneration Rate
++1 Mana gained on Kill

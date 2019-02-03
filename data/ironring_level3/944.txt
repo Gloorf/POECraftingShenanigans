@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Havoc Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Evasion Rating
++4 to maximum Life
+1.2 Life Regenerated per second
++15 to maximum Mana
+17% increased Mana Regeneration Rate
++9% to Lightning Resistance

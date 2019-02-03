@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Victory Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++14 to Accuracy Rating
++4 to Evasion Rating
+17% increased Mana Regeneration Rate

@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Rotted Round Shield
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 5
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_dex_armour, str_dex_shield, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldStrDex1
+|implicit1                               = MovementVelocityPenaltyLightShieldImplicit
+|implicit2                               = BlockRecoveryImplicitShield1
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Armourer's Scrap
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 5
+|required_strength                       = 10
+|required_dexterity                      = 10
+|armour                                  = 13
+|evasion                                 = 13
+|block                                   = 23
+}}

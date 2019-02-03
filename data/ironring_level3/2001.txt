@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Wrath Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
++5 to Evasion Rating
++8 to maximum Life
+13% increased Mana Regeneration Rate

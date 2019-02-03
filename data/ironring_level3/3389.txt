@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Phoenix Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
++7 to maximum Life
++16 to maximum Mana
++11% to Lightning Resistance
++4 Life gained on Kill

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Pain Finger
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
+7% increased Cast Speed
++1 to maximum Energy Shield
+1.4 Life Regenerated per second
++16 to maximum Mana
+16% increased Mana Regeneration Rate

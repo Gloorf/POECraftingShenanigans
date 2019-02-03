@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Damnation Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
++9 to Evasion Rating
++17 to maximum Mana
++9% to Fire Resistance
++11% to Cold Resistance

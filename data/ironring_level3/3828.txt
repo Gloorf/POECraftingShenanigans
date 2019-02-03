@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Kraken Gyre
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
+18% increased Mana Regeneration Rate
+9% increased Rarity of Items found
++4 Life gained on Kill

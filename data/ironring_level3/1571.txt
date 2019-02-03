@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Sorrow Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++7 to Evasion Rating
++5 to maximum Life
+1.8 Life Regenerated per second
+12% increased Mana Regeneration Rate
++1 Mana gained on Kill

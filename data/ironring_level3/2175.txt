@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Rage Gyre
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
++3 to maximum Energy Shield
++9 to maximum Life
++15 to maximum Mana
+15% increased Mana Regeneration Rate
++6 Life gained on Kill

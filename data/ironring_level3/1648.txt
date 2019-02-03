@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Rage Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
++12 to Accuracy Rating
++3 to Evasion Rating
++3 to maximum Life
+2.0 Life Regenerated per second
++6% to Fire Resistance

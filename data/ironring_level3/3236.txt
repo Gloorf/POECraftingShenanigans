@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Horror Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
+5% increased Cast Speed
+1.7 Life Regenerated per second
++16 to maximum Mana

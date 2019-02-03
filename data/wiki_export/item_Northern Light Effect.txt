@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Northern Light Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionArcticAurora
+|stack_size                              = 100
+|description                             = Create a vibrant aurora above your character.
+|cosmetic_type                           = Consumable Effect
+}}

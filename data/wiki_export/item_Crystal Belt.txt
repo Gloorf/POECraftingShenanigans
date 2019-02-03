@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Crystal Belt
+|class_id                                = Belt
+|size_x                                  = 2
+|size_y                                  = 1
+|drop_level                              = 73
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, atlas_base_type, beltatlas2, belt, default
+|metadata_id                             = Metadata/Items/Belts/BeltAtlas2
+|implicit1                               = IncreasedEnergyShieldImplicitBelt2
+}}

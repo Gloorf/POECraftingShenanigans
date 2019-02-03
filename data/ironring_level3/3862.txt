@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Dire Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
++10 to Intelligence
++9 to Accuracy Rating
++5 to Evasion Rating

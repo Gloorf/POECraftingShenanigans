@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Lingering Remnants
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Never dying, yet not living,<br>Endlessly they wander<br>beneath the harvest moon.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardLingeringRemnants
+|stack_size                              = 16
+|description                             = {{c|rare|{{il|Vaal Temple Map|html=}}}}<br>{{c|default|Item Level:}} {{c|normal|83}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment I
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...A golden machine was found broken in the ruins of Wraeclast. <br>Believing it to contain some dark infernal secret, <br>High Templar Venarius asked that I restore it <br>and weaponize whatever powers it might contain..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment1_1
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Crystal Tornado Shot Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionCrystalTornadoShotEffect
+|stack_size                              = 1
+|description                             = Your Tornado Shot becomes a Crystal Effect.
+|cosmetic_type                           = Tornado Shot Skin
+}}

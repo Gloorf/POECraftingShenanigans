@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Eagle Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++5 to Evasion Rating
++15 to maximum Mana
++9% to Lightning Resistance
++5 Life gained on Kill

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Dusk Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
+7% increased Cast Speed
++17 to maximum Mana
++6 Life gained on Kill

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Apocalypse Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++3 to maximum Life
++4 Life gained on Kill
++1 Mana gained on Kill

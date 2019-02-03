@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Morning Star
+|class_id                                = Two Hand Mace
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 34
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, mace, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMaceM1
+|implicit1                               = AreaOfEffectImplicitMarakethTwoHandMace1
+|required_level                          = 34
+|required_strength                       = 118
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.25
+|physical_damage_min                     = 39
+|physical_damage_max                     = 58
+|weapon_range                            = 11
+}}

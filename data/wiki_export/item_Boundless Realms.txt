@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Boundless Realms
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Boundless is the distance between where we start and where we start again.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardBoundlessRealms
+|stack_size                              = 4
+|description                             = {{c|white|Map}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

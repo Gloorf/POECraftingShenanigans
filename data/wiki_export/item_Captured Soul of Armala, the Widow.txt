@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Captured Soul of Armala, the Widow
+|class_id                                = PantheonSoul
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = Records of Arakaali's violent reign suggest she kept her citizens<br>sedated with 'juices of lust' and venoms of the spider. Perhaps her<br>guise of seductress was in fact her way of farming those 'juices'.<br>- "Legends of the Vaal" by Eramir, Scholar at Theopolis
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/PantheonSouls/PantheonSoulArakaaliUpgrade3
+|help_text                               = A captured Soul. Give to Sin to unlock a secondary Pantheon Power.
+}}

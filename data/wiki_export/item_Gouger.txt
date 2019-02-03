@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gouger
+|class_id                                = Claw
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 40
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = claw, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Claws/Claw10
+|implicit1                               = LifeGainPerTargetImplicit2Claw7
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 40
+|required_dexterity                      = 70
+|required_intelligence                   = 70
+|critical_strike_chance                  = 6.3
+|attack_speed                            = 1.5
+|physical_damage_min                     = 15
+|physical_damage_max                     = 51
+|weapon_range                            = 9
+}}

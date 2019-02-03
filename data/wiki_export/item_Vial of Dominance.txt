@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Vial of Dominance
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Blood, slaves and stone.<br>The timeless edifice of Dominance.
+|drop_level                              = 50
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyIncursionVialTrap
+|stack_size                              = 10
+|help_text                               = Sacrifice this item on the Altar of Sacrifice along with Architect's Hand to transform it. <br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

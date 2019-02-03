@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Crystal Ore Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 79
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, indoors_area, cave, map, default
+|metadata_id                             = Metadata/Items/Maps/MapWorldsCrystalOre
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 12
+|map_guild_character                     = å
+|map_area_id                             = MapWorldsCrystalOre
+|map_series                              = War for the Atlas
+|map_area_level                          = 79
+|inventory_icon                          = Crystal Ore Map (War for the Atlas)
+|drop_enabled                            = False
+}}

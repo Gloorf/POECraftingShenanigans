@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Woe Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++5 to maximum Life
+1.7 Life Regenerated per second
++6 Life gained on Kill
++1 Mana gained on Kill

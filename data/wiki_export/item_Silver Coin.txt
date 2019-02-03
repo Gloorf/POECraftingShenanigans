@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Silver Coin
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencySilverCoin
+|stack_size                              = 30
+|help_text                               = Cross Navali's palm with silver to receive a prophecy.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

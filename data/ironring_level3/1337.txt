@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Horror Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
++15 to maximum Mana
+12% increased Mana Regeneration Rate
++8% to Cold Resistance

@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Coiled Staff
+|class_id                                = Staff
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 23
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = staff, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Staves/Staff5
+|implicit1                               = StaffBlockPercentImplicitStaff2
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 23
+|required_strength                       = 43
+|required_intelligence                   = 43
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.2
+|physical_damage_min                     = 23
+|physical_damage_max                     = 48
+|weapon_range                            = 11
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sin and Innocence Helmet Attachment
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionSinandInnocenceHelmetAttachment
+|stack_size                              = 1
+|description                             = Adds the Sin and Innocence Helmet Attachment to your headdress.
+|cosmetic_type                           = Helmet Attachment
+}}

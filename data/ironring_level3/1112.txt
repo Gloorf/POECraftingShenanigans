@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Corruption Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++9 to Accuracy Rating
++15 to maximum Mana
++8% to Fire Resistance

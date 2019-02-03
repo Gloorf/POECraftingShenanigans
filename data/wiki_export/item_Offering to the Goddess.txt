@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Offering to the Goddess
+|class_id                                = LabyrinthMapItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = It is time for the Goddess to give her final verdict.<br>Your fate rests in her even hands.
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Labyrinth/OfferingToTheGoddess
+|help_text                               = Travel to the Aspirants' Plaza and spend this item to open the Eternal Labyrinth. You must have completed the six different Trials of Ascendancy found in Maps in order to access this area.
+}}

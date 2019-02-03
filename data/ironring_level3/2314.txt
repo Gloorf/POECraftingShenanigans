@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Golem Circle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++7 to maximum Life
++18 to maximum Mana
+9% increased Rarity of Items found
++6% to Fire Resistance

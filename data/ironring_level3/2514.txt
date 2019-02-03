@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Wrath Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
+7% increased Cast Speed
++4 to Evasion Rating
++3 to maximum Life
+13% increased Mana Regeneration Rate

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Wrath Grasp
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
++10 to Accuracy Rating
++6 to Evasion Rating
++9 to maximum Life
+1.8 Life Regenerated per second
+17% increased Mana Regeneration Rate

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Agony Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++14 to Accuracy Rating
++7 to maximum Life
++15 to maximum Mana
++1 Mana gained on Kill

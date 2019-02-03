@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment XIV
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...Before we knew it, we stood at the base of that blasphemous effigy.<br>"Pull the sword from my chest." The Elder imposed, and Venarius didn't hesitate.<br>The earth shook in the face of the Elder's reunion with its body. The true scope of the<br>Elder befell the High Templar and his men, and as it began to feed, I began to run..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment10_2
+}}

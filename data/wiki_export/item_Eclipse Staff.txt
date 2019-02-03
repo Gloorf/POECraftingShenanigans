@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Eclipse Staff
+|class_id                                = Staff
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 70
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, staff, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3
+|implicit1                               = CriticalStrikeChanceImplicitMarakethStaff2
+|required_level                          = 70
+|required_strength                       = 117
+|required_intelligence                   = 117
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.2
+|physical_damage_min                     = 60
+|physical_damage_max                     = 125
+|weapon_range                            = 11
+}}

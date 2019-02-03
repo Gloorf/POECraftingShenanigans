@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Brood Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++17 to maximum Mana
+10% increased Mana Regeneration Rate
++8% to Lightning Resistance

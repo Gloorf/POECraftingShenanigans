@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Armageddon Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
+Adds 1 to 2 Fire Damage to Attacks
++17 to maximum Mana
++8% to Lightning Resistance

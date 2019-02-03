@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Decanter Spiritus
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 3
+|flavour_text                            = "Man is blinded by the mud of his corporeal self. Only<br>through the transformation of the material into the<br>spiritual can we hope to taste the full body of life."<br>- Malachai the Soulless
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Fairgraves/Decanter
+}}

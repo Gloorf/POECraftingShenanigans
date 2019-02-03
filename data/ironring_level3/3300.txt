@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Agony Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++6 to maximum Life
+1.3 Life Regenerated per second
++15 to maximum Mana
++11% to Lightning Resistance
++6 Life gained on Kill

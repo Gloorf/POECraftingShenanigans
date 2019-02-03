@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Orb of Binding
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyUpgradeToRareAndSetSockets
+|stack_size                              = 20
+|description                             = Upgrades a normal item to a rare item with up to four linked sockets
+|help_text                               = Right click this item then left click a normal item to apply it.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

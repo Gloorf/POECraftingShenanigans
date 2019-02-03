@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Black Headband
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionBlackHeadband
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped helmet to the Black Headband.
+|cosmetic_type                           = Helmet Skin
+}}

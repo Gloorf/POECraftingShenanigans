@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Steel Ring
+|class_id                                = Ring
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 78
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, atlas_base_type, ringatlas1, ring, default
+|metadata_id                             = Metadata/Items/Rings/RingAtlas1
+|implicit1                               = AddedPhysicalDamageImplicitRing2
+}}

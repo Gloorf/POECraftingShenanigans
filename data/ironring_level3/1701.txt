@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Spirit Hold
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
++1 to maximum Energy Shield
++3 to maximum Life
++8% to Lightning Resistance
++4 Life gained on Kill

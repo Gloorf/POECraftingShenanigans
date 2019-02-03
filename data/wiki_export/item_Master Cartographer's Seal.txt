@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Master Cartographer's Seal
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencySealMapHigh
+|stack_size                              = 10
+|description                             = Uncompletes any map on the Atlas
+|help_text                               = Right click this item then left click any map on the Atlas to apply it.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

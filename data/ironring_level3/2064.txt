@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Soul Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++9 to Evasion Rating
++2 to maximum Energy Shield
++4 to maximum Life
+2.0 Life Regenerated per second
++9% to Fire Resistance

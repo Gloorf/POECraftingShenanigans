@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Faith Guard Whirling Blades Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionFaithGuardWhirlingBladesEffect
+|stack_size                              = 1
+|description                             = Your Whirling Blades becomes a Faith Guard Effect.
+|cosmetic_type                           = Guard Whirling Blades Skin
+}}

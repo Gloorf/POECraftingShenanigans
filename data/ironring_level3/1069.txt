@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Soul Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
+Adds 1 to 5 Lightning Damage to Attacks
+6% increased Cast Speed
+1.6 Life Regenerated per second

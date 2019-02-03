@@ -1,0 +1,10 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Key
+|class_id                                = LabyrinthItem
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Labyrinth/GoldenKey
+|help_text                               = This item is required to open a Golden Door located in the Labyrinth. This item will drop on the ground when leaving the Labyrinth.
+}}

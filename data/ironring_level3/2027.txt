@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Honour Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++6 to Accuracy Rating
++4 to Evasion Rating
+14% increased Mana Regeneration Rate
++1 Mana gained on Kill

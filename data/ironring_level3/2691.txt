@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Dread Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++19 to maximum Mana
++7% to Fire Resistance
++11% to Cold Resistance
++6 Life gained on Kill

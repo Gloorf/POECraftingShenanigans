@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Inoculated
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Chaos spread, wreaking havoc and death. They said none would be spared, and yet here I stand.
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheInoculated
+|stack_size                              = 4
+|description                             = {{c|magic|Seraphim's Armour}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

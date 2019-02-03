@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Blight Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++5 to Evasion Rating
++8 to maximum Life
+1.3 Life Regenerated per second
++1 Mana gained on Kill

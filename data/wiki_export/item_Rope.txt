@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Rope
+|class_id                                = HideoutDoodad
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutRuinedCityCranesRope
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Einhar, Beastmaster
+|master_favour_cost                      = 720
+|master_level_requirement                = 2
+|variation_count                         = 2
+}}

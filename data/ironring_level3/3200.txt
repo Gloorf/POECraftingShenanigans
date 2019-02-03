@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Vengeance Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++10 to Dexterity
+5% increased Attack Speed
++6 to maximum Life
++19 to maximum Mana

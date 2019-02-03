@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ochre Sceptre
+|class_id                                = Sceptre
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 24
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = sceptre, sceptre, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandMaces/Sceptre6
+|implicit1                               = ElementalDamagePercentImplicitSceptreNew6
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 24
+|required_strength                       = 44
+|required_intelligence                   = 44
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.4
+|physical_damage_min                     = 17
+|physical_damage_max                     = 32
+|weapon_range                            = 9
+}}

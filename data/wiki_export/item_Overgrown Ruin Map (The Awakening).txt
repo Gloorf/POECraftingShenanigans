@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Overgrown Ruin Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 79
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = indoors_area, temple, top_tier_map, not_for_sale, cannot_be_twinned, map, default
+|metadata_id                             = Metadata/Items/Maps/Map2Tier12_2
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 12
+|map_guild_character                     = §
+|map_area_id                             = Map2Tier12_2
+|map_series                              = The Awakening
+|map_area_level                          = 79
+|inventory_icon                          = Overgrown Ruin Map (The Awakening)
+|drop_enabled                            = False
+}}

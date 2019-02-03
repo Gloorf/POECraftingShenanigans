@@ -1,0 +1,1393 @@
+[
+    {
+        "filename": "DelveCraftingModifiers.dat",
+        "header": [
+            {
+                "name": "BaseItemTypesKey",
+                "rowid": 0,
+                "type": "ulong",
+                "key": "BaseItemTypes.dat",
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Mods_Keys0",
+                "rowid": 1,
+                "type": "ref|list|ulong",
+                "key": "Mods.dat",
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Unknown_TagsKeys",
+                "rowid": 2,
+                "type": "ref|list|ulong",
+                "key": "Tags.dat",
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Unknown_Values",
+                "rowid": 3,
+                "type": "ref|list|int",
+                "key": null,
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Mods_Keys1",
+                "rowid": 4,
+                "type": "ref|list|ulong",
+                "key": "Mods.dat",
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "DelveCraftingTagsKeys0",
+                "rowid": 5,
+                "type": "ref|list|ulong",
+                "key": "DelveCraftingTags.dat",
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "DelveCraftingTagsKeys1",
+                "rowid": 6,
+                "type": "ref|list|ulong",
+                "key": "DelveCraftingTags.dat",
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Flag0",
+                "rowid": 7,
+                "type": "bool",
+                "key": null,
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Unknown0",
+                "rowid": 8,
+                "type": "int",
+                "key": null,
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Flag1",
+                "rowid": 9,
+                "type": "bool",
+                "key": null,
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Flag2",
+                "rowid": 10,
+                "type": "bool",
+                "key": null,
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Flag3",
+                "rowid": 11,
+                "type": "bool",
+                "key": null,
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "SellPrice_ModsKeys",
+                "rowid": 12,
+                "type": "ref|list|ulong",
+                "key": "Mods.dat",
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Flag4",
+                "rowid": 13,
+                "type": "bool",
+                "key": null,
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Weight_TagsKeys",
+                "rowid": 14,
+                "type": "ref|list|ulong",
+                "key": "Tags.dat",
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Weight_Values",
+                "rowid": 15,
+                "type": "ref|list|int",
+                "key": null,
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "DelveCraftingModifierDescriptionsKeys",
+                "rowid": 16,
+                "type": "ref|list|ulong",
+                "key": "DelveCraftingModifierDescriptions.dat",
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            },
+            {
+                "name": "Keys9",
+                "rowid": 17,
+                "type": "ref|list|ulong",
+                "key": null,
+                "key_id": null,
+                "key_offset": 0,
+                "enum": null,
+                "unique": false,
+                "file_path": false,
+                "file_ext": null,
+                "display": null,
+                "display_type": "{0}",
+                "description": null
+            }
+        ],
+        "data": [
+            [
+                198,
+                [
+                    12784,
+                    12785,
+                    12791,
+                    12792,
+                    12793,
+                    12786,
+                    12788,
+                    12789,
+                    12790
+                ],
+                [
+                    310
+                ],
+                [
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    309
+                ],
+                [
+                    1000
+                ],
+                [
+                    11,
+                    29
+                ],
+                [
+                    12
+                ]
+            ],
+            [
+                199,
+                [
+                    12794,
+                    12795,
+                    12801,
+                    12802,
+                    12803,
+                    12796,
+                    12798,
+                    12799,
+                    12800
+                ],
+                [
+                    309
+                ],
+                [
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    310
+                ],
+                [
+                    1000
+                ],
+                [
+                    12,
+                    28
+                ],
+                [
+                    11
+                ]
+            ],
+            [
+                200,
+                [
+                    12804,
+                    12805,
+                    12811,
+                    12812,
+                    12813,
+                    12806,
+                    12808,
+                    12809,
+                    12810
+                ],
+                [
+                    313,
+                    315
+                ],
+                [
+                    0,
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    311
+                ],
+                [
+                    1000
+                ],
+                [
+                    13,
+                    27
+                ],
+                [
+                    10
+                ]
+            ],
+            [
+                201,
+                [
+                    12814,
+                    12816,
+                    12817,
+                    12818,
+                    12822,
+                    12823,
+                    12824,
+                    12819,
+                    12820,
+                    12821,
+                    12825
+                ],
+                [
+                    312,
+                    314
+                ],
+                [
+                    0,
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    313,
+                    315
+                ],
+                [
+                    1000,
+                    500
+                ],
+                [
+                    10,
+                    31
+                ],
+                [
+                    14
+                ]
+            ],
+            [
+                202,
+                [
+                    12826,
+                    12827,
+                    12828,
+                    12832,
+                    12833,
+                    12834,
+                    12835,
+                    12829,
+                    12830,
+                    12831
+                ],
+                [
+                    311
+                ],
+                [
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    312,
+                    314
+                ],
+                [
+                    1000,
+                    500
+                ],
+                [
+                    14,
+                    30
+                ],
+                [
+                    13
+                ]
+            ],
+            [
+                203,
+                [
+                    12836,
+                    12838,
+                    12839,
+                    12840,
+                    12841,
+                    12843
+                ],
+                [
+                    317,
+                    326
+                ],
+                [
+                    0,
+                    10
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    316
+                ],
+                [
+                    1000
+                ],
+                [
+                    17,
+                    33
+                ],
+                [
+                    18
+                ]
+            ],
+            [
+                204,
+                [
+                    12842,
+                    12844,
+                    12846,
+                    12847,
+                    12849,
+                    12850,
+                    12852,
+                    12853,
+                    12854,
+                    12855,
+                    12856,
+                    12857,
+                    12858,
+                    12859,
+                    12860,
+                    12861,
+                    12862,
+                    12845,
+                    12848,
+                    12851
+                ],
+                [
+                    316
+                ],
+                [
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    317
+                ],
+                [
+                    1000
+                ],
+                [
+                    18,
+                    32
+                ],
+                [
+                    17
+                ]
+            ],
+            [
+                205,
+                [
+                    12863,
+                    12864,
+                    12865,
+                    12866,
+                    12867,
+                    12870,
+                    12869,
+                    12868
+                ],
+                [
+                    318,
+                    309,
+                    310,
+                    311
+                ],
+                [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    315,
+                    314
+                ],
+                [
+                    1000,
+                    1000
+                ],
+                [
+                    16,
+                    34
+                ],
+                [
+                    15
+                ]
+            ],
+            [
+                206,
+                [
+                    12871,
+                    12874,
+                    12875,
+                    12876,
+                    12877,
+                    12878,
+                    12879,
+                    12880,
+                    12881,
+                    12882,
+                    12883,
+                    12885,
+                    12884
+                ],
+                [
+                    315,
+                    314
+                ],
+                [
+                    0,
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    309,
+                    310,
+                    311,
+                    318
+                ],
+                [
+                    500,
+                    500,
+                    500,
+                    1000
+                ],
+                [
+                    15,
+                    35
+                ],
+                [
+                    16
+                ]
+            ],
+            [
+                207,
+                [
+                    12886,
+                    12887,
+                    12888,
+                    12889,
+                    12890,
+                    12891
+                ],
+                [
+                    319
+                ],
+                [
+                    15
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    34
+                ],
+                [
+                    1000
+                ],
+                [
+                    19,
+                    26
+                ],
+                [
+                    25
+                ]
+            ],
+            [
+                208,
+                [
+                    12892,
+                    12893,
+                    12894,
+                    12895,
+                    12896,
+                    12897
+                ],
+                [
+                    34
+                ],
+                [
+                    15
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    319
+                ],
+                [
+                    1000
+                ],
+                [
+                    20,
+                    25
+                ],
+                [
+                    26
+                ]
+            ],
+            [
+                209,
+                [
+                    12898,
+                    12899,
+                    12900,
+                    12901,
+                    12902,
+                    12903,
+                    12904,
+                    12905,
+                    12906,
+                    12907
+                ],
+                [
+                    325
+                ],
+                [
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    324
+                ],
+                [
+                    1000
+                ],
+                [
+                    21,
+                    37
+                ],
+                [
+                    22
+                ]
+            ],
+            [
+                210,
+                [
+                    12908,
+                    12909,
+                    12910,
+                    12911,
+                    12912,
+                    12913,
+                    12914,
+                    12915,
+                    12916,
+                    12917,
+                    12918
+                ],
+                [
+                    324
+                ],
+                [
+                    0
+                ],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    325
+                ],
+                [
+                    1000
+                ],
+                [
+                    22,
+                    36
+                ],
+                [
+                    21
+                ]
+            ],
+            [
+                211,
+                [
+                    12919,
+                    12920,
+                    12921,
+                    12922,
+                    12923,
+                    12924,
+                    12925,
+                    12926,
+                    12927,
+                    12928,
+                    12929,
+                    12930,
+                    12931,
+                    12932,
+                    12933,
+                    12934,
+                    12935,
+                    12936
+                ],
+                [],
+                [],
+                [],
+                [
+                    7
+                ],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    320,
+                    322
+                ],
+                [
+                    1000,
+                    1000
+                ],
+                [
+                    23
+                ],
+                []
+            ],
+            [
+                212,
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    0,
+                    2,
+                    5,
+                    6,
+                    4,
+                    3,
+                    7
+                ],
+                false,
+                0,
+                true,
+                false,
+                false,
+                [],
+                false,
+                [],
+                [],
+                [
+                    9
+                ],
+                []
+            ],
+            [
+                213,
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    4,
+                    5,
+                    6
+                ],
+                false,
+                0,
+                false,
+                true,
+                false,
+                [],
+                false,
+                [],
+                [],
+                [
+                    8
+                ],
+                []
+            ],
+            [
+                214,
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    0,
+                    2,
+                    5,
+                    6,
+                    4,
+                    3
+                ],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                true,
+                [],
+                [],
+                [
+                    7
+                ],
+                []
+            ],
+            [
+                215,
+                [
+                    12937,
+                    12938,
+                    12939
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    0,
+                    2,
+                    5,
+                    6,
+                    4,
+                    3,
+                    10
+                ],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [
+                    321
+                ],
+                [
+                    1000
+                ],
+                [
+                    24
+                ],
+                []
+            ],
+            [
+                216,
+                [],
+                [],
+                [],
+                [
+                    12941,
+                    12942,
+                    12943,
+                    12945,
+                    12946,
+                    12947,
+                    12944,
+                    4069
+                ],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [],
+                [],
+                [
+                    6
+                ],
+                []
+            ],
+            [
+                217,
+                [],
+                [],
+                [],
+                [
+                    12940
+                ],
+                [],
+                [
+                    0,
+                    4,
+                    6,
+                    5,
+                    2
+                ],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [],
+                [],
+                [
+                    5
+                ],
+                []
+            ],
+            [
+                218,
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                true,
+                0,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [],
+                [],
+                [
+                    4
+                ],
+                []
+            ],
+            [
+                219,
+                [],
+                [],
+                [],
+                [],
+                [
+                    1,
+                    7,
+                    12
+                ],
+                [],
+                false,
+                100,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [],
+                [],
+                [
+                    3
+                ],
+                []
+            ],
+            [
+                220,
+                [
+                    12784,
+                    12785,
+                    12791,
+                    12792,
+                    12793,
+                    12786,
+                    12794,
+                    12795,
+                    12801,
+                    12802,
+                    12803,
+                    12796,
+                    12804,
+                    12805,
+                    12811,
+                    12812,
+                    12813,
+                    12806,
+                    12814,
+                    12816,
+                    12817,
+                    12818,
+                    12822,
+                    12823,
+                    12824,
+                    12819,
+                    12820,
+                    12821,
+                    12825,
+                    12826,
+                    12827,
+                    12828,
+                    12832,
+                    12833,
+                    12834,
+                    12835,
+                    12836,
+                    12838,
+                    12839,
+                    12840,
+                    12841,
+                    12843,
+                    12842,
+                    12844,
+                    12846,
+                    12847,
+                    12849,
+                    12850,
+                    12852,
+                    12853,
+                    12854,
+                    12855,
+                    12856,
+                    12857,
+                    12858,
+                    12859,
+                    12860,
+                    12861,
+                    12862,
+                    12863,
+                    12864,
+                    12865,
+                    12866,
+                    12867,
+                    12870,
+                    12869,
+                    12868,
+                    12871,
+                    12874,
+                    12875,
+                    12876,
+                    12877,
+                    12878,
+                    12879,
+                    12880,
+                    12881,
+                    12882,
+                    12883,
+                    12885,
+                    12884,
+                    12886,
+                    12887,
+                    12888,
+                    12889,
+                    12890,
+                    12891,
+                    12892,
+                    12893,
+                    12894,
+                    12895,
+                    12896,
+                    12897,
+                    12898,
+                    12899,
+                    12900,
+                    12901,
+                    12902,
+                    12903,
+                    12904,
+                    12905,
+                    12906,
+                    12907,
+                    12908,
+                    12909,
+                    12910,
+                    12911,
+                    12912,
+                    12913,
+                    12914,
+                    12915,
+                    12916,
+                    12917,
+                    12918,
+                    12919,
+                    12920,
+                    12921,
+                    12922,
+                    12923,
+                    12924,
+                    12925,
+                    12926,
+                    12927,
+                    12928,
+                    12929,
+                    12930,
+                    12931,
+                    12932,
+                    12933,
+                    12934,
+                    12935,
+                    12936,
+                    12937,
+                    12938,
+                    12939,
+                    12941,
+                    12942,
+                    12943,
+                    12945,
+                    12946,
+                    12947,
+                    12944,
+                    4069,
+                    12940,
+                    12788,
+                    12789,
+                    12790,
+                    12798,
+                    12799,
+                    12800,
+                    12808,
+                    12809,
+                    12810,
+                    12829,
+                    12830,
+                    12831,
+                    12845,
+                    12848,
+                    12851
+                ],
+                [],
+                [],
+                [],
+                [
+                    7
+                ],
+                [],
+                false,
+                10,
+                false,
+                false,
+                false,
+                [],
+                false,
+                [],
+                [],
+                [
+                    2
+                ],
+                []
+            ],
+            [
+                221,
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                true,
+                [],
+                false,
+                [],
+                [],
+                [
+                    1
+                ],
+                []
+            ],
+            [
+                222,
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                false,
+                0,
+                false,
+                false,
+                false,
+                [
+                    12622,
+                    12623,
+                    12624,
+                    12625,
+                    12626,
+                    12627,
+                    12628,
+                    12629,
+                    12630
+                ],
+                false,
+                [],
+                [],
+                [
+                    0
+                ],
+                []
+            ]
+        ]
+    }
+]

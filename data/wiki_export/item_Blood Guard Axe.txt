@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Blood Guard Axe
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionBloodGuardAxe
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped one-handed sword, mace, sceptre or axe to the Blood Guard Axe.
+|cosmetic_type                           = Weapon Skin
+}}

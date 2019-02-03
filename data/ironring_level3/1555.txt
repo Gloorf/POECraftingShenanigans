@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Skull Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++5 to Evasion Rating
++5 to maximum Life
++11% to Cold Resistance
++4 Life gained on Kill

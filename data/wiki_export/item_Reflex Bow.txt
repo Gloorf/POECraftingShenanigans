@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Reflex Bow
+|class_id                                = Bow
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 36
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, bow, ranged, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Bows/BowM1
+|implicit1                               = MovementVelocityMarakethBowImplicit1
+|required_level                          = 36
+|required_dexterity                      = 124
+|critical_strike_chance                  = 5.5
+|attack_speed                            = 1.4
+|physical_damage_min                     = 27
+|physical_damage_max                     = 40
+|weapon_range                            = 120
+}}

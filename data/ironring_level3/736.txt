@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Victory Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
+7% increased Attack Speed
++5 Life gained on Kill
++1 Mana gained on Kill

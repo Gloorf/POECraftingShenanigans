@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Tul's Pure Breachstone
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 70
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/CurrencyBreachFragmentCold4
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+}}

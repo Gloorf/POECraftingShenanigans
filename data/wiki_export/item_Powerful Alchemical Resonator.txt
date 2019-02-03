@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Powerful Alchemical Resonator
+|class_id                                = DelveSocketableCurrency
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 34
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Delve/DelveSocketableCurrencyUpgrade3
+|stack_size                              = 1
+|description                             = Upgrades a normal item to a rare item
+|help_text                               = Right click this item then left click a normal item to apply it.
+}}

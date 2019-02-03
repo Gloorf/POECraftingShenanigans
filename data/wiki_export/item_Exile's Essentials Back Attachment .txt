@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Exile's Essentials Back Attachment 
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionWings1
+|stack_size                              = 20
+|description                             = Adds the Exile's Essentials back attachment to any equipped body armour.
+|cosmetic_type                           = Body Armour Attachment
+}}

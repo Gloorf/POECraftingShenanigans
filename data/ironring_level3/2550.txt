@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Death Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++8 to Intelligence
++5 to maximum Life
++6% to Fire Resistance

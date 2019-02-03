@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Harbinger Magma Orb Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionHarbingerMagmaOrbEffect
+|stack_size                              = 1
+|description                             = Your Magma Orb becomes a blue harbinger effect.
+|cosmetic_type                           = Magma Orb Skin
+}}

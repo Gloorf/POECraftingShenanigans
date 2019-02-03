@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Onslaught Leaguestone
+|class_id                                = Leaguestone
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 25
+|drop_rarities                           = Normal, Magic, Unique
+|tags                                    = onslaught_leaguestone, default
+|metadata_id                             = Metadata/Items/Leaguestones/OnslaughtLeaguestone
+|help_text                               = Right-click to open your Legacy Panel and place a Leaguestone in an empty slot. It will apply to the next new area you enter.
+|implicit1                               = MapOnslaughtLeaguestoneImplicit
+}}

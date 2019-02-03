@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Agony Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
+7% increased Attack Speed
++4 to Evasion Rating
++1 to maximum Energy Shield
+1.2 Life Regenerated per second
++10% to Fire Resistance

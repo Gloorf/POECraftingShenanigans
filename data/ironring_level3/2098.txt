@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Agony Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++2 to all Attributes
+1.8 Life Regenerated per second
++15 to maximum Mana

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Fox
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "Masters of wit, strength and cunning. To survive the harsh winters, you must be like the fox."<br>- Ezomyte Proverb
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheFox
+|stack_size                              = 6
+|description                             = {{c|gem|Level 20 Gem}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

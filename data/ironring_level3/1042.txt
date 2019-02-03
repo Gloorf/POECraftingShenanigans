@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Doom Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Evasion Rating
++2 to maximum Energy Shield
++4 Life gained on Kill
++1 Mana gained on Kill

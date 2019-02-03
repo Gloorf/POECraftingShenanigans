@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rapture Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Evasion Rating
++9 to maximum Life
+1 Life Regenerated per second
++11% to Cold Resistance

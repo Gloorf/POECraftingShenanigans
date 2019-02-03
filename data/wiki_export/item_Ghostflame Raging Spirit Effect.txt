@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ghostflame Raging Spirit Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionGhostflameSummonRagingSpirit
+|stack_size                              = 20
+|description                             = Your Summon Raging Spirit now creates skulls infused with a ghostly green fire.
+|cosmetic_type                           = Summon Raging Spirit Skin
+}}

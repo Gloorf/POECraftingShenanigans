@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Hubris
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "This one? It is NOT for sale. You would sooner pry it from my lifeless hand."<br>- Jonfé Darontos, Ringmaker
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardHubris
+|stack_size                              = 5
+|description                             = {{c|unique|Ring}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

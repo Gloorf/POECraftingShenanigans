@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Chateau Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 71
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, urban, dungeon, temple, map, default
+|metadata_id                             = Metadata/Items/Maps/MapWorldsChateau
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 4
+|map_guild_character                     = O
+|map_area_id                             = MapWorldsChateau
+|unique_map_guild_character              = ™
+|unique_map_area_id                      = MapWorldsChateauUnique
+|unique_map_area_level                   = 71
+|map_series                              = War for the Atlas
+|map_area_level                          = 71
+|inventory_icon                          = Chateau Map (War for the Atlas)
+|drop_enabled                            = False
+}}

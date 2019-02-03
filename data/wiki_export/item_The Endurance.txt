@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Endurance
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Crimson rubies, drops of vigour,<br>flowing through my veins,<br>flesh like coal, try to crush me,<br>diamond is what remains.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheEndurance
+|stack_size                              = 4
+|description                             = {{c|magic|Vivid Crimson Jewel}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

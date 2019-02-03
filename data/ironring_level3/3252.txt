@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Kraken Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Cast Speed
+1 Life Regenerated per second
++17 to maximum Mana
++4 Life gained on Kill

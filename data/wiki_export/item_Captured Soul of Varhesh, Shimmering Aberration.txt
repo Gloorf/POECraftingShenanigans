@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Captured Soul of Varhesh, Shimmering Aberration
+|class_id                                = PantheonSoul
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = In nature, there are many feelings exclusive only to man. But terror is not one.<br>Terror flourishes in our world, transcending all things. It is the bedrock on<br>which our great cosmos is formed. I am Yugul and I deign to understand this<br>mystery, to explore its depths and unlock its secrets...
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/PantheonSouls/PantheonSoulYugulUpgrade1
+|help_text                               = A captured Soul. Give to Sin to unlock a secondary Pantheon Power.
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Captured Soul of Stalker of the Endless Dunes
+|class_id                                = PantheonSoul
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = Garukhan wished once more for the skies. If she were to die,<br>she wanted it to be up there in the clouds. This world had never<br>been her home. She required greater things. She required adventure.<br>But die she would, here in the dirt...
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/PantheonSouls/PantheonSoulGarukhanUpgrade1
+|help_text                               = A captured Soul. Give to Sin to unlock a secondary Pantheon Power.
+}}

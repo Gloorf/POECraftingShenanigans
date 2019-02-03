@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Spoiled Prince
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A boy who grows up with everything learns to appreciate nothing.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheSpoiledPrince
+|stack_size                              = 4
+|description                             = {{c|magic|Dictator's Prophecy Wand}}<br>{{c|default|Item Level:}} {{c|normal|100}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

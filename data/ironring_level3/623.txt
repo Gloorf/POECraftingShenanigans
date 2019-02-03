@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Corruption Finger
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Accuracy Rating
+5% increased Cast Speed
++17 to maximum Mana
+7% increased Rarity of Items found

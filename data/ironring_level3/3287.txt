@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Rapture Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Attack Speed
++8 to Evasion Rating
++6 to maximum Life
++15 to maximum Mana
++7% to Cold Resistance

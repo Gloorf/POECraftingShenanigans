@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Gloom Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to all Attributes
++12 to Accuracy Rating
++5 to Evasion Rating
++5 to maximum Life
+7% increased Rarity of Items found

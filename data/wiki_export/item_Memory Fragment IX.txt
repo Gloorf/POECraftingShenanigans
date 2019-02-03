@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment IX
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...They called it the Elder. A creature of malignant madness... it cannot be killed.<br>The Watchers built the device to lock tight its kingdom, bringing with them the<br>blade - 'Starforge'. A weapon to give the Elder eternal rest. But the Shade...<br>I must find a way to put a stop to it before it finds a path to freedom..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment8_2
+}}

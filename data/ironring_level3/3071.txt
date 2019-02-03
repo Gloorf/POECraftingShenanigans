@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Gale Loop
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
+7% increased Attack Speed
++16 to maximum Mana
+10% increased Rarity of Items found

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Maelström Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++4 to all Attributes
+Adds 1 to 2 Cold Damage to Attacks
+1.8 Life Regenerated per second
++3 Life gained on Kill

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Celestial Stone
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Stare into its depths too long, and you may lose yourself entirely.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheCelestialStone
+|stack_size                              = 10
+|description                             = {{c|white|{{il|Opal Ring|html=}}}}<br>{{c|default|Item Level:}} {{c|normal|100}}<br>{{c|default|Shaper Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

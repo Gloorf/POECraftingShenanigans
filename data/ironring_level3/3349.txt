@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Fate Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
+Adds 1 to 2 Cold Damage to Attacks
+7% increased Attack Speed
+2.0 Life Regenerated per second

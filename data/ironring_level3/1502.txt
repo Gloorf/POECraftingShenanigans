@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Victory Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Dexterity
++11 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
++4 to maximum Life
+1.7 Life Regenerated per second
++18 to maximum Mana

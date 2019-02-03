@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Onslaught Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++11 to Dexterity
++8 to Intelligence
++5 to maximum Life

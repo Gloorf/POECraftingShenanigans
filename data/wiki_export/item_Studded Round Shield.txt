@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Studded Round Shield
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 20
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_dex_armour, str_dex_shield, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldStrDex3
+|implicit1                               = MovementVelocityPenaltyLightShieldImplicit
+|implicit2                               = BlockRecoveryImplicitShield1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 20
+|required_strength                       = 28
+|required_dexterity                      = 28
+|armour                                  = 46
+|evasion                                 = 46
+|block                                   = 26
+}}

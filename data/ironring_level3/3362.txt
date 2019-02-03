@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Pandemonium Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
+5% increased Attack Speed
++6 to maximum Life
+1.9 Life Regenerated per second

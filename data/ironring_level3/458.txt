@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Foe Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++1 to all Attributes
++4 to Evasion Rating
++8 to maximum Life
++8% to Fire Resistance
++8% to Lightning Resistance

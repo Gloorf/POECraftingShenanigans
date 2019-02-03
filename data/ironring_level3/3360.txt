@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Golem Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++10 to Accuracy Rating
++5 to maximum Life
+1.5 Life Regenerated per second
++9% to Lightning Resistance

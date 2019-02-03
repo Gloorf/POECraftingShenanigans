@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Woe Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
+5% increased Cast Speed
++4 to Evasion Rating
++3 to maximum Life
+13% increased Mana Regeneration Rate

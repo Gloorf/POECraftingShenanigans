@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Mystery Box
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 3
+|tags                                    = not_for_sale, default, currency
+|metadata_id                             = Metadata/Items/MicrotransactionCurrency/MysteryBox2x3
+|stack_size                              = 1
+|description                             = Contains an unknown item.
+|inventory_icon                          = Mystery Box (2x3)
+}}

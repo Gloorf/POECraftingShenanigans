@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Greust's Necklace
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "A boy becomes a man when he has faced the animal<br>in his heart and wet the forest floor with its blood."<br> - Azmeri Proverb
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act7/GreustNecklace
+}}

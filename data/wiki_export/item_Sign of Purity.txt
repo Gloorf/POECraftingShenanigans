@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sign of Purity
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 3
+|flavour_text                            = Wrought from blood and gold, Innocence fashioned a weapon of tempered purity,<br>capable of banishing darkness, and bringing order to the chaos in men's hearts.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act5/KitavaKey
+}}

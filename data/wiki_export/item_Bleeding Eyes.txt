@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Bleeding Eyes
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionBleedingEyes
+|stack_size                              = 1
+|description                             = Bleeding Eyes replace or attach to any equipped helmet or headdress.
+|cosmetic_type                           = Helmet Skin
+}}

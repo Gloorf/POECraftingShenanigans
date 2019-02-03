@@ -1,0 +1,30 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Quartz Flask
+|class_id                                = UtilityFlask
+|size_x                                  = 1
+|size_y                                  = 2
+|drop_level                              = 27
+|drop_rarities                           = Normal, Magic, Unique
+|tags                                    = not_for_sale, utility_flask, flask, default
+|metadata_id                             = Metadata/Items/Flasks/FlaskUtility8
+|help_text                               = Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+|implicit1                               = FlaskLevelRequirement27
+|purchase_cost_normal1_name              = Chaos Orb
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 27
+|flask_duration                          = 4
+|buff_id                                 = flask_utility_phase
+|buff_value1                             = 1
+|buff_value2                             = 10
+|buff_value3                             = 10
+|buff_stat_text                          = Phasing<br>10% chance to [[Dodge]] [[Attack]] [[Hit|Hits]]<br>10% chance to [[Dodge]] [[Spell]] [[Hit|Hits]]
+|charges_max                             = 60
+|charges_per_use                         = 30
+}}

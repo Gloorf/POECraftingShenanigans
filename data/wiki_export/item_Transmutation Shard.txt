@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Transmutation Shard
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = currency_shard, currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyUpgradeToMagicShard
+|stack_size                              = 20
+|help_text                               = A stack of 20 shards becomes an Orb of Transmutation.<br>Shift click to unstack.
+}}

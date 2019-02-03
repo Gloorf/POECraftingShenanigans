@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Black Hole Vortex Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionBlackholeVortex
+|stack_size                              = 20
+|description                             = Your Vortex becomes a stationary black hole.
+|cosmetic_type                           = Vortex Skin
+}}

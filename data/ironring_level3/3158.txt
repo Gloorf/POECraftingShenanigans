@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Corruption Knot
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
+7% increased Cast Speed
++5 to Evasion Rating
++1 to maximum Energy Shield

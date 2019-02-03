@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Havoc Grasp
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++3 to maximum Energy Shield
++6% to Cold Resistance
++8% to Lightning Resistance

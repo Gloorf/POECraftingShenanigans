@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cartographer's Delight
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A map is similar<br>to a pair of eyes,<br>without one you stumble<br>around, unable to find your way.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardCartographersDelight
+|stack_size                              = 3
+|description                             = {{c|normal|Map}}<br>{{c|default|Map Tier:}} {{c|normal|5}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

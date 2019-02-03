@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Cataclysm Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
+6% increased Cast Speed
+19% increased Mana Regeneration Rate

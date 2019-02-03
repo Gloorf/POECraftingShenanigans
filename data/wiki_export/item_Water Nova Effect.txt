@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Water Nova Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionWaterNova
+|stack_size                              = 20
+|description                             = Your Ice Nova becomes a rippling burst of cold water
+|cosmetic_type                           = Ice Nova Skin
+}}

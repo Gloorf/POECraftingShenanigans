@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rapture Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Accuracy Rating
++4 to Evasion Rating
+1.6 Life Regenerated per second
++10% to Cold Resistance

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Doom Gyre
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
++13 to Accuracy Rating
++1 to maximum Energy Shield
++6 to maximum Life
++16 to maximum Mana
+16% increased Mana Regeneration Rate

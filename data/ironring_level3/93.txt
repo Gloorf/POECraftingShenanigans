@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Dragon Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++3 to Evasion Rating
++3 to maximum Life
++17 to maximum Mana
+12% increased Mana Regeneration Rate
++8% to Fire Resistance

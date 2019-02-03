@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Upgrade Scroll
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MicrotransactionCurrency/MicrotransactionUpgradeScroll
+|stack_size                              = 2
+|description                             = Can be used with an Upgradeable Microtransaction
+|help_text                               = Combine this item with an Upgradeable Microtransaction to use it
+}}

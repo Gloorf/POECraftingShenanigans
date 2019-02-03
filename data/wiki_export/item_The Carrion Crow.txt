@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Carrion Crow
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = From death, life. <br>From life, death. <br>The wheel turns, <br>and the corbies wheel overhead.
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheCarrionCrow
+|stack_size                              = 4
+|description                             = {{c|magic|Life Armour}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

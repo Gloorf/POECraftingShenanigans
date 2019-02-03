@@ -1,0 +1,16 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Deadhand Talisman
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The Empire poisons our blood with sweet wine.<br>Poisons our flesh with silk.<br>Poisons our minds with civil lies.<br>Poisons our children with servitude.<br>- The Wolven King 
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = talisman, amulet, default
+|metadata_id                             = Metadata/Items/Amulets/Talismans/Talisman1_7
+|implicit1                               = TalismanIncreasedChaosDamage
+|implicit2                               = TalismanCanBePickedUpByMonster
+|is_talisman                             = True
+|talisman_tier                           = 1
+}}

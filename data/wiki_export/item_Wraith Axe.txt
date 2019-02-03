@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Wraith Axe
+|class_id                                = One Hand Axe
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 54
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = axe, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe15
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 54
+|required_strength                       = 134
+|required_dexterity                      = 59
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.3
+|physical_damage_min                     = 45
+|physical_damage_max                     = 75
+|weapon_range                            = 9
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Chains that Bind
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Scarier than any criminal is an innocent man in chains, for when he breaks free, his revenge will be justified.
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheChainsThatBind
+|stack_size                              = 11
+|description                             = {{c|white|Six-Link Body Armour}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Dusk Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++1 to all Attributes
++9 to Accuracy Rating
++7 to Evasion Rating
++2 to maximum Energy Shield

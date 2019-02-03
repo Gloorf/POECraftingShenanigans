@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Victory Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++19 to maximum Mana
+14% increased Mana Regeneration Rate
++1 Mana gained on Kill

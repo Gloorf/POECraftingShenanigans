@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Crimson Imp Mask
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionBatSkullCrimson
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped headdress to a crimson imp mask
+|cosmetic_type                           = Helmet Skin
+}}

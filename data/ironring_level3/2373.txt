@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Carrion Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
+Adds 1 to 2 Cold Damage to Attacks
+1.9 Life Regenerated per second
+10% increased Mana Regeneration Rate
++10% to Cold Resistance

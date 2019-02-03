@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Beast Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to maximum Energy Shield
+1.5 Life Regenerated per second
++9% to Fire Resistance
++3 Life gained on Kill

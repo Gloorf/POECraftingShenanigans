@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Blue Cyclone
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionBlueCyclone
+|stack_size                              = 20
+|description                             = Your Cyclone becomes blue.
+|cosmetic_type                           = Cyclone Skin
+}}

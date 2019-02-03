@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rapture Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Attack Speed
+5% increased Cast Speed
++10 to Evasion Rating
++6% to Fire Resistance

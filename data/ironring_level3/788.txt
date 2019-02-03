@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Eagle Hold
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
+5% increased Attack Speed
++15 to Accuracy Rating
++9 to Evasion Rating
++15 to maximum Mana
++9% to Fire Resistance

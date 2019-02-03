@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Assassin's Favour
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = By the time their eyes meet, <br>the dark deal has long since been made, <br>and his fate long since sealed.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardAssassinsFavour
+|stack_size                              = 9
+|description                             = {{c|unique|Dagger}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

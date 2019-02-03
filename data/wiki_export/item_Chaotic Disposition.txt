@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Chaotic Disposition
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Life isn't what you make of it, it's already been made for you.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardChaoticDisposition
+|stack_size                              = 1
+|description                             = {{c|currency|5x {{il|Chaos Orb|html=}}}}
+|stack_size_currency_tab                 = 5000
+}}

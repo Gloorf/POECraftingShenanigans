@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Gale Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
++4 to all Attributes
++3 to Evasion Rating
++16 to maximum Mana
+16% increased Mana Regeneration Rate

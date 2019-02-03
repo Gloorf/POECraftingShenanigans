@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Hanging Brazier
+|class_id                                = HideoutDoodad
+|size_x                                  = 1
+|size_y                                  = 2
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutSarnFirePit2
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Niko, Master of the Depths
+|master_favour_cost                      = 22500
+|master_level_requirement                = 5
+|variation_count                         = 3
+}}

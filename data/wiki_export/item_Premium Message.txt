@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Premium Message
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MicrotransactionCurrency/MicrotransactionTencentPremiumMessage
+|stack_size                              = 100
+|description                             = Allows you to send a chat message to all players.
+}}

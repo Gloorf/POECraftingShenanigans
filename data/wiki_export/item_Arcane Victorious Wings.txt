@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Arcane Victorious Wings
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionArcaneVictoriousWings
+|stack_size                              = 20
+|description                             = Adds a pair of arcane wings to your headdress.
+|cosmetic_type                           = Helmet Attachment
+}}

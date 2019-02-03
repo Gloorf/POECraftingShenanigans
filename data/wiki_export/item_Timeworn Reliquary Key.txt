@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Timeworn Reliquary Key
+|class_id                                = MiscMapItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Though flesh may decay, and bones turn to dust, the spirit fades not.<br>Floundering eternal in pools of tranquil dark.
+|drop_level                              = 50
+|drop_rarities                           = Normal
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/340VaultKey
+|help_text                               = Travel to the Timeworn Reliquary by using this item in the Templar Laboratory or a personal Map Device. Can only be used once.
+}}

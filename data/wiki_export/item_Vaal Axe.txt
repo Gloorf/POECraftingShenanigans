@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Vaal Axe
+|class_id                                = Two Hand Axe
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 64
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = axe, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe17
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 4
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 64
+|required_strength                       = 158
+|required_dexterity                      = 76
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.2
+|physical_damage_min                     = 79
+|physical_damage_max                     = 131
+|weapon_range                            = 11
+}}

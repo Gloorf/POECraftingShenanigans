@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Occultist Portrait
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionTencentCharacterPortrait5
+|stack_size                              = 1
+|description                             = Adds the Occultist Character Portrait to this character.
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Red Pirate Bandana
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionRedPirateBandana
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped helmet to the Red Pirate Bandana.
+|cosmetic_type                           = Helmet Skin
+}}

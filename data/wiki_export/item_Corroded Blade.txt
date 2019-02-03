@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Corroded Blade
+|class_id                                = Two Hand Sword
+|size_x                                  = 1
+|size_y                                  = 4
+|drop_level                              = 3
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = sword, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword1
+|implicit1                               = AccuracyPercentImplicitSword1
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Scroll of Wisdom
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 3
+|required_strength                       = 11
+|required_dexterity                      = 11
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.45
+|physical_damage_min                     = 7
+|physical_damage_max                     = 13
+|weapon_range                            = 11
+}}

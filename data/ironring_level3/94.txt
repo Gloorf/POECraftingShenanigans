@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Maelström Knot
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++2 to maximum Energy Shield
+1.6 Life Regenerated per second
++15 to maximum Mana

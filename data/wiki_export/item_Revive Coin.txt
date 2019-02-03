@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Revive Coin
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MicrotransactionCurrency/MicrotransactionTencentPremiumRevive
+|stack_size                              = 100
+|description                             = Allows you to revive at the most recent checkpoint without losing experience to the death penalty.
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Mitts
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Those whose hands are their livelihood know the importance of keeping them safe and warm.
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardMitts
+|stack_size                              = 5
+|description                             = {{c|unique|Gloves}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

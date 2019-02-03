@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Rune Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+7% increased Cast Speed
++1 to maximum Energy Shield
++9% to Lightning Resistance

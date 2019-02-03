@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Wasteland Herald Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionWastelandHeraldEffect
+|stack_size                              = 1
+|description                             = Your Herald of Ash, Thunder or Ice becomes a Wasteland Effect.
+|cosmetic_type                           = Herald Skin
+}}

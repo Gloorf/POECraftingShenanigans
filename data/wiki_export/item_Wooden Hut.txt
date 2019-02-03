@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Wooden Hut
+|class_id                                = HideoutDoodad
+|size_x                                  = 3
+|size_y                                  = 3
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutSarnHut
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Niko, Master of the Depths
+|master_favour_cost                      = 60000
+|master_level_requirement                = 5
+|variation_count                         = 1
+}}

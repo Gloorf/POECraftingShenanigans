@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Entropy Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++10 to Dexterity
++1 to all Attributes
+Adds 1 to 2 Cold Damage to Attacks

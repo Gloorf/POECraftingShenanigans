@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Innocence Lightning Warp Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionInnocenceLightningWarpEffect
+|stack_size                              = 1
+|description                             = Your Lightning Warp becomes an innocence effect.
+|cosmetic_type                           = Lightning Warp Skin
+}}

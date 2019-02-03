@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Pain Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Attack Speed
+6% increased Cast Speed
++3 to Evasion Rating
++8 to maximum Life
+1.5 Life Regenerated per second

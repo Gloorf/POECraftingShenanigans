@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Winged Statue
+|class_id                                = HideoutDoodad
+|size_x                                  = 2
+|size_y                                  = 3
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutGraveyardStatue
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Alva, Master Explorer
+|master_favour_cost                      = 57000
+|master_level_requirement                = 7
+|variation_count                         = 2
+}}

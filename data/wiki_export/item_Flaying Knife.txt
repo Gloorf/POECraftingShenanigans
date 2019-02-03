@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Flaying Knife
+|class_id                                = Dagger
+|size_x                                  = 1
+|size_y                                  = 3
+|drop_level                              = 35
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dagger, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Daggers/Dagger9
+|implicit1                               = CriticalStrikeChanceImplicitDaggerNew1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 35
+|required_dexterity                      = 73
+|required_intelligence                   = 51
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.2
+|physical_damage_min                     = 16
+|physical_damage_max                     = 64
+|weapon_range                            = 8
+}}

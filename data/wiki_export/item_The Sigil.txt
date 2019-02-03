@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Sigil
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Three men travel<br>through the gate;<br>they carry a protective ward.<br>A faction conspires<br>against their fate,<br>but magic unravels the sword.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheSigil
+|stack_size                              = 3
+|description                             = {{c|magic|Unassailable Amulet}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Abyss Eyes
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionAbyssEyes
+|stack_size                              = 1
+|description                             = Abyss Eyes replace or attach to any equipped helmet or headdress.
+|cosmetic_type                           = Helmet Skin
+}}

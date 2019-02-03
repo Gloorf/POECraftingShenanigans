@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Immortal Resolve
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The threads of fate are the strongest ties.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardImmortalResolve
+|stack_size                              = 6
+|description                             = {{c|prophecy|Fated Connections}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

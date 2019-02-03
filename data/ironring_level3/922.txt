@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Demon Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++10 to Intelligence
++5 to Evasion Rating
+1 Life Regenerated per second

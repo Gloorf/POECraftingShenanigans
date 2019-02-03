@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Maelström Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
+1.3 Life Regenerated per second
+6% increased Rarity of Items found
++9% to Lightning Resistance

@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Bottled Storm
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = "One should not entice the storm; one cannot invite the storm, or give warrant<br>to its tyrant-soul. We survive only by appeasing the storm, with gifts and<br>offerings of adoration. We hope that, in its mercy, it shall pass us by."<br>- Tempestology of the Maraketh, Repudion IV 
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act9/BottledStorm
+}}

@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Sorrow Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to all Attributes
+Adds 1 to 2 Cold Damage to Attacks
++6 to Evasion Rating
+1.7 Life Regenerated per second
++19 to maximum Mana
+15% increased Mana Regeneration Rate

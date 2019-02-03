@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Damnation Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++5 to Accuracy Rating
++15 to maximum Mana
++10% to Cold Resistance

@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment III
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...I awoke in the most beautiful of places, and as I wandered this strange new land, <br>I felt a growing sense of realization that I was not alone. <br>A Shade, a whisper of embodied smoke, spoke to me through thoughts and pictures.<br>I found myself enthusiastically volunteering information in detail of Oriath..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment3_1
+}}

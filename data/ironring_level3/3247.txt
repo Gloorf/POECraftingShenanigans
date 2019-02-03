@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Victory Coil
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
+Adds 1 to 5 Lightning Damage to Attacks
+14% increased Mana Regeneration Rate
++10% to Lightning Resistance

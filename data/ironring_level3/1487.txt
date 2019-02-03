@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Kraken Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++10 to Intelligence
+Adds 1 to 5 Lightning Damage to Attacks
+5% increased Cast Speed
++1 to maximum Energy Shield
++15 to maximum Mana

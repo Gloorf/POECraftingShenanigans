@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Sol Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++6 to Evasion Rating
++3 to maximum Life
++16 to maximum Mana
+19% increased Mana Regeneration Rate
++8% to Fire Resistance
++1 Mana gained on Kill

@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Corpse Knot
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Cast Speed
++1 to maximum Energy Shield
++10% to Fire Resistance
++8% to Lightning Resistance

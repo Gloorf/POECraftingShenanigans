@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Skull Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++11 to Dexterity
++6 to Evasion Rating
+1.4 Life Regenerated per second
++17 to maximum Mana

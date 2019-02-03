@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Prime Chaotic Resonator
+|class_id                                = DelveSocketableCurrency
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 68
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Delve/DelveSocketableCurrencyReroll4
+|stack_size                              = 1
+|description                             = Reforges a rare item with new random modifiers
+|help_text                               = Right click this item then left click a rare item to apply it.
+}}

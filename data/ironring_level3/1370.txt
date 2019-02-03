@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Morbid Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++2 to all Attributes
+Adds 1 to 2 Fire Damage to Attacks
++9 to Evasion Rating
++8 to maximum Life
+1.3 Life Regenerated per second
+18% increased Mana Regeneration Rate

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Tentacle Caustic Arrow Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionEtherealPoisonArrow
+|stack_size                              = 20
+|description                             = Your Caustic Arrow becomes an area of ethereal purple tentacles.
+|cosmetic_type                           = Caustic Arrow Skin
+}}

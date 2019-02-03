@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Quicksilver Flask
+|class_id                                = UtilityFlask
+|size_x                                  = 1
+|size_y                                  = 2
+|drop_level                              = 4
+|drop_rarities                           = Normal, Magic, Unique
+|tags                                    = not_for_sale, utility_flask, flask, default
+|metadata_id                             = Metadata/Items/Flasks/FlaskUtility6
+|help_text                               = Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+|purchase_cost_normal1_name              = Chaos Orb
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 4
+|flask_duration                          = 4
+|buff_id                                 = flask_utility_sprint
+|buff_value1                             = 40
+|buff_stat_text                          = 40% increased [[Movement Speed]]
+|charges_max                             = 50
+|charges_per_use                         = 20
+}}

@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Behemoth Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
+Adds 1 to 2 Cold Damage to Attacks
++10 to Accuracy Rating
++16 to maximum Mana
++6% to Cold Resistance

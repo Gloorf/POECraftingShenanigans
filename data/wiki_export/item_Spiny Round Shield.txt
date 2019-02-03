@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Spiny Round Shield
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 62
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_dex_armour, str_dex_shield, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldStrDex11
+|implicit1                               = MovementVelocityPenaltyLightShieldImplicit
+|implicit2                               = BlockRecoveryImplicitShield1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 4
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 62
+|required_strength                       = 85
+|required_dexterity                      = 85
+|armour                                  = 154
+|evasion                                 = 154
+|block                                   = 26
+}}

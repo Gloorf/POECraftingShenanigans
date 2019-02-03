@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Miracle Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Dexterity
++9 to Evasion Rating
++6 to maximum Life
++7% to Lightning Resistance
++1 Mana gained on Kill

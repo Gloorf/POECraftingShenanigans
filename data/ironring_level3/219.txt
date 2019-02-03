@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Blight Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
++7 to Evasion Rating
+1.4 Life Regenerated per second
++11% to Cold Resistance

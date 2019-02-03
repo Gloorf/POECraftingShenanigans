@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Demon Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++2 to all Attributes
++1 to maximum Energy Shield
++15 to maximum Mana
+10% increased Rarity of Items found

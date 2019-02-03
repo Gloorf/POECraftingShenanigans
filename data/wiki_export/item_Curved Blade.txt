@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Curved Blade
+|class_id                                = Two Hand Sword
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 35
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, sword, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordM1
+|implicit1                               = CriticalMultiplierImplicitSwordM2
+|required_level                          = 35
+|required_strength                       = 62
+|required_dexterity                      = 73
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.35
+|physical_damage_min                     = 35
+|physical_damage_max                     = 58
+|weapon_range                            = 11
+}}

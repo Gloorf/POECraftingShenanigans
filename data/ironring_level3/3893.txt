@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Mind Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++16 to maximum Mana
+18% increased Mana Regeneration Rate
++8% to Lightning Resistance
++1 Mana gained on Kill

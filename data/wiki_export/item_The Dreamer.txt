@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Dreamer
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A dark note drips <br>from the dreamer's lips, <br>A honeyed melody. <br>We stand, we fall <br>on his beck and call, <br>for in his dream we're free.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheDreamer
+|stack_size                              = 6
+|description                             = {{c|unique|Chayula Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

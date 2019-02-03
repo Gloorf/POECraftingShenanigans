@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Cataclysm Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
++9 to maximum Life
++16 to maximum Mana
+16% increased Mana Regeneration Rate
+10% increased Rarity of Items found

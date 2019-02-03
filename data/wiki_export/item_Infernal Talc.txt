@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Infernal Talc
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = "A Virtue Gem is a raging thunderstorm imprisoned within a single raindrop.<br>Infernal Talc simply lets the storm out." - Malachai the Soulless
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/InfernalTalc
+}}

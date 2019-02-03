@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Maelström Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Accuracy Rating
++10 to Evasion Rating
++9 to maximum Life
+12% increased Mana Regeneration Rate
++11% to Fire Resistance

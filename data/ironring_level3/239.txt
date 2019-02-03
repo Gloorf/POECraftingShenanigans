@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Golem Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
++6 to Accuracy Rating
++7 to maximum Life
+1.3 Life Regenerated per second

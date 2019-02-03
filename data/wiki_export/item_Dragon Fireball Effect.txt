@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Dragon Fireball Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionDragonFireball
+|stack_size                              = 20
+|description                             = Your Fireball becomes a flaming dragon whelp skeleton that explodes on impact
+|cosmetic_type                           = Fireball Skin
+}}

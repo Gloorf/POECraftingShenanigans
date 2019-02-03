@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Life Thief
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "The process of eternal youth is a give and take. You give them death and take their youth."<br>- Zerphi of the Vaal
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheLifeThief
+|stack_size                              = 6
+|description                             = {{c|unique|{{il|Zerphi's Last Breath|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

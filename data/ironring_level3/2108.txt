@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Rift Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++12 to Accuracy Rating
++4 to maximum Life
++17 to maximum Mana
+13% increased Mana Regeneration Rate
++11% to Cold Resistance

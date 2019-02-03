@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Captured Soul of Sebbert, Crescent's Point
+|class_id                                = PantheonSoul
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = And so it was, that Lunaris, in her compulsion to nurture and protect,<br>killed her son beneath the light of a waning moon. She stood silent, in<br>trial before her tribe, as her fiery sister fought in vain to defend her...
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/PantheonSouls/PantheonSoulLunarisUpgrade2
+|help_text                               = A captured Soul. Give to Sin to unlock a secondary Pantheon Power.
+}}

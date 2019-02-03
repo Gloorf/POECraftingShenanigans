@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Pandemonium Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Attack Speed
++10 to Accuracy Rating
++4 to maximum Life
++19 to maximum Mana
+15% increased Mana Regeneration Rate

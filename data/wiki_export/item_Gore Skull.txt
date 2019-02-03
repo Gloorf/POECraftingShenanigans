@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gore Skull
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionBloodSkull
+|stack_size                              = 20
+|description                             = Changes the appearance of any equipped headdress to the a blood-drenched gore skull.
+|cosmetic_type                           = Helmet Skin
+}}

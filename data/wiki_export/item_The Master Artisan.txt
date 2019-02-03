@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Master Artisan
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Perfection is the standard, excellence will be handled on a case by case basis.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheMasterArtisan
+|stack_size                              = 5
+|description                             = {{c|currency|20x Quality Currency}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

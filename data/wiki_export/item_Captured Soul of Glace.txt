@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Captured Soul of Glace
+|class_id                                = PantheonSoul
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = Though his mind decayed with each passing wave,<br>the Brine King stood steadfast in his hatred,<br>and wore it like a shell, protecting himself <br>from his failure to sire a worthy heir.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/PantheonSouls/PantheonSoulBrineKingUpgrade1
+|help_text                               = A captured Soul. Give to Sin to unlock a secondary Pantheon Power.
+}}

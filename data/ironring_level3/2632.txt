@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Carrion Gyre
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++4 to all Attributes
+5% increased Attack Speed
++3 to Evasion Rating
++1 to maximum Energy Shield
++19 to maximum Mana
+9% increased Rarity of Items found

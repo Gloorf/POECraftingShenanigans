@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Carrion Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++5 to maximum Life
+1.6 Life Regenerated per second
++7% to Cold Resistance
++1 Mana gained on Kill

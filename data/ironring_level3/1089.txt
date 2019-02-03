@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Wrath Spiral
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++8 to Evasion Rating
++1 to maximum Energy Shield
++10% to Cold Resistance

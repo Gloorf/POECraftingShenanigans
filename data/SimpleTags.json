@@ -1,0 +1,1410 @@
+[
+  {
+    "rowId": 0,
+    "Id": "default"
+  },
+  {
+    "rowId": 1,
+    "Id": "shield"
+  },
+  {
+    "rowId": 2,
+    "Id": "ring"
+  },
+  {
+    "rowId": 3,
+    "Id": "amulet"
+  },
+  {
+    "rowId": 4,
+    "Id": "boots"
+  },
+  {
+    "rowId": 5,
+    "Id": "bow"
+  },
+  {
+    "rowId": 6,
+    "Id": "equipment"
+  },
+  {
+    "rowId": 7,
+    "Id": "armour"
+  },
+  {
+    "rowId": 8,
+    "Id": "weapon"
+  },
+  {
+    "rowId": 9,
+    "Id": "wand"
+  },
+  {
+    "rowId": 10,
+    "Id": "staff"
+  },
+  {
+    "rowId": 11,
+    "Id": "mace"
+  },
+  {
+    "rowId": 12,
+    "Id": "sword"
+  },
+  {
+    "rowId": 13,
+    "Id": "dagger"
+  },
+  {
+    "rowId": 14,
+    "Id": "claw"
+  },
+  {
+    "rowId": 15,
+    "Id": "axe"
+  },
+  {
+    "rowId": 16,
+    "Id": "body_armour"
+  },
+  {
+    "rowId": 17,
+    "Id": "life_flask"
+  },
+  {
+    "rowId": 18,
+    "Id": "mana_flask"
+  },
+  {
+    "rowId": 19,
+    "Id": "hybrid_flask"
+  },
+  {
+    "rowId": 20,
+    "Id": "flask"
+  },
+  {
+    "rowId": 21,
+    "Id": "quiver"
+  },
+  {
+    "rowId": 22,
+    "Id": "gloves"
+  },
+  {
+    "rowId": 23,
+    "Id": "onehand"
+  },
+  {
+    "rowId": 24,
+    "Id": "twohand"
+  },
+  {
+    "rowId": 25,
+    "Id": "helmet"
+  },
+  {
+    "rowId": 26,
+    "Id": "belt"
+  },
+  {
+    "rowId": 27,
+    "Id": "gem"
+  },
+  {
+    "rowId": 28,
+    "Id": "relic"
+  },
+  {
+    "rowId": 29,
+    "Id": "not_str"
+  },
+  {
+    "rowId": 30,
+    "Id": "not_dex"
+  },
+  {
+    "rowId": 31,
+    "Id": "not_int"
+  },
+  {
+    "rowId": 32,
+    "Id": "ranged"
+  },
+  {
+    "rowId": 33,
+    "Id": "not_for_sale"
+  },
+  {
+    "rowId": 34,
+    "Id": "caster"
+  },
+  {
+    "rowId": 35,
+    "Id": "magic"
+  },
+  {
+    "rowId": 36,
+    "Id": "rare"
+  },
+  {
+    "rowId": 37,
+    "Id": "sceptre"
+  },
+  {
+    "rowId": 38,
+    "Id": "str_armour"
+  },
+  {
+    "rowId": 39,
+    "Id": "dex_armour"
+  },
+  {
+    "rowId": 40,
+    "Id": "int_armour"
+  },
+  {
+    "rowId": 41,
+    "Id": "str_dex_armour"
+  },
+  {
+    "rowId": 42,
+    "Id": "str_int_armour"
+  },
+  {
+    "rowId": 43,
+    "Id": "dex_int_armour"
+  },
+  {
+    "rowId": 44,
+    "Id": "str_dex_int_armour"
+  },
+  {
+    "rowId": 45,
+    "Id": "focus"
+  },
+  {
+    "rowId": 46,
+    "Id": "utility_flask"
+  },
+  {
+    "rowId": 47,
+    "Id": "critical_utility_flask"
+  },
+  {
+    "rowId": 48,
+    "Id": "humanoid"
+  },
+  {
+    "rowId": 49,
+    "Id": "mammal_beast"
+  },
+  {
+    "rowId": 50,
+    "Id": "reptile_beast"
+  },
+  {
+    "rowId": 51,
+    "Id": "skeleton"
+  },
+  {
+    "rowId": 52,
+    "Id": "zombie"
+  },
+  {
+    "rowId": 53,
+    "Id": "ghost"
+  },
+  {
+    "rowId": 54,
+    "Id": "earth_elemental"
+  },
+  {
+    "rowId": 55,
+    "Id": "water_elemental"
+  },
+  {
+    "rowId": 56,
+    "Id": "demon"
+  },
+  {
+    "rowId": 57,
+    "Id": "map"
+  },
+  {
+    "rowId": 58,
+    "Id": "rapier"
+  },
+  {
+    "rowId": 59,
+    "Id": "necromancer_raisable"
+  },
+  {
+    "rowId": 60,
+    "Id": "lots_of_life"
+  },
+  {
+    "rowId": 61,
+    "Id": "indoors_area"
+  },
+  {
+    "rowId": 62,
+    "Id": "beach"
+  },
+  {
+    "rowId": 63,
+    "Id": "dungeon"
+  },
+  {
+    "rowId": 64,
+    "Id": "cave"
+  },
+  {
+    "rowId": 65,
+    "Id": "forest"
+  },
+  {
+    "rowId": 66,
+    "Id": "swamp"
+  },
+  {
+    "rowId": 67,
+    "Id": "mountain"
+  },
+  {
+    "rowId": 68,
+    "Id": "temple"
+  },
+  {
+    "rowId": 69,
+    "Id": "urban"
+  },
+  {
+    "rowId": 70,
+    "Id": "high_level_map"
+  },
+  {
+    "rowId": 71,
+    "Id": "human"
+  },
+  {
+    "rowId": 72,
+    "Id": "beast"
+  },
+  {
+    "rowId": 73,
+    "Id": "undead"
+  },
+  {
+    "rowId": 74,
+    "Id": "construct"
+  },
+  {
+    "rowId": 75,
+    "Id": "insect"
+  },
+  {
+    "rowId": 76,
+    "Id": "spider"
+  },
+  {
+    "rowId": 77,
+    "Id": "undying"
+  },
+  {
+    "rowId": 78,
+    "Id": "goatman"
+  },
+  {
+    "rowId": 79,
+    "Id": "stone_construct"
+  },
+  {
+    "rowId": 80,
+    "Id": "fishing_rod"
+  },
+  {
+    "rowId": 81,
+    "Id": "one_hand_weapon"
+  },
+  {
+    "rowId": 82,
+    "Id": "two_hand_weapon"
+  },
+  {
+    "rowId": 83,
+    "Id": "atziri1"
+  },
+  {
+    "rowId": 84,
+    "Id": "atziri2"
+  },
+  {
+    "rowId": 85,
+    "Id": "drops_no_mods"
+  },
+  {
+    "rowId": 86,
+    "Id": "drops_no_rares"
+  },
+  {
+    "rowId": 87,
+    "Id": "drops_no_quality"
+  },
+  {
+    "rowId": 88,
+    "Id": "drops_no_sockets"
+  },
+  {
+    "rowId": 89,
+    "Id": "drops_not_dupeable"
+  },
+  {
+    "rowId": 90,
+    "Id": "shore"
+  },
+  {
+    "rowId": 91,
+    "Id": "darkshore"
+  },
+  {
+    "rowId": 92,
+    "Id": "inland"
+  },
+  {
+    "rowId": 93,
+    "Id": "prison"
+  },
+  {
+    "rowId": 94,
+    "Id": "axis"
+  },
+  {
+    "rowId": 95,
+    "Id": "cavern"
+  },
+  {
+    "rowId": 96,
+    "Id": "southernforest"
+  },
+  {
+    "rowId": 97,
+    "Id": "southernforest2"
+  },
+  {
+    "rowId": 98,
+    "Id": "church"
+  },
+  {
+    "rowId": 99,
+    "Id": "sins"
+  },
+  {
+    "rowId": 100,
+    "Id": "forestdark"
+  },
+  {
+    "rowId": 101,
+    "Id": "weavers"
+  },
+  {
+    "rowId": 102,
+    "Id": "inca"
+  },
+  {
+    "rowId": 103,
+    "Id": "city1"
+  },
+  {
+    "rowId": 104,
+    "Id": "city2"
+  },
+  {
+    "rowId": 105,
+    "Id": "city3"
+  },
+  {
+    "rowId": 106,
+    "Id": "crematorium"
+  },
+  {
+    "rowId": 107,
+    "Id": "catacombs"
+  },
+  {
+    "rowId": 108,
+    "Id": "solaris"
+  },
+  {
+    "rowId": 109,
+    "Id": "docks"
+  },
+  {
+    "rowId": 110,
+    "Id": "sewers"
+  },
+  {
+    "rowId": 111,
+    "Id": "barracks"
+  },
+  {
+    "rowId": 112,
+    "Id": "lunaris"
+  },
+  {
+    "rowId": 113,
+    "Id": "gardens"
+  },
+  {
+    "rowId": 114,
+    "Id": "library"
+  },
+  {
+    "rowId": 115,
+    "Id": "scepter"
+  },
+  {
+    "rowId": 116,
+    "Id": "secret_area"
+  },
+  {
+    "rowId": 117,
+    "Id": "limited_strongbox_benefits"
+  },
+  {
+    "rowId": 118,
+    "Id": "no_caster_mods"
+  },
+  {
+    "rowId": 119,
+    "Id": "no_attack_mods"
+  },
+  {
+    "rowId": 120,
+    "Id": "red_blood"
+  },
+  {
+    "rowId": 121,
+    "Id": "ghost_blood"
+  },
+  {
+    "rowId": 122,
+    "Id": "mud_blood"
+  },
+  {
+    "rowId": 123,
+    "Id": "insect_blood"
+  },
+  {
+    "rowId": 124,
+    "Id": "bones"
+  },
+  {
+    "rowId": 125,
+    "Id": "water"
+  },
+  {
+    "rowId": 126,
+    "Id": "noblood"
+  },
+  {
+    "rowId": 127,
+    "Id": "unusable_corpse"
+  },
+  {
+    "rowId": 128,
+    "Id": "hidden_monster"
+  },
+  {
+    "rowId": 129,
+    "Id": "devourer"
+  },
+  {
+    "rowId": 130,
+    "Id": "wb_basic"
+  },
+  {
+    "rowId": 131,
+    "Id": "wb_support"
+  },
+  {
+    "rowId": 132,
+    "Id": "wb_elite"
+  },
+  {
+    "rowId": 133,
+    "Id": "wb_leader"
+  },
+  {
+    "rowId": 134,
+    "Id": "rare_minion"
+  },
+  {
+    "rowId": 135,
+    "Id": "undeletable_corpse"
+  },
+  {
+    "rowId": 136,
+    "Id": "jewel"
+  },
+  {
+    "rowId": 137,
+    "Id": "strjewel"
+  },
+  {
+    "rowId": 138,
+    "Id": "dexjewel"
+  },
+  {
+    "rowId": 139,
+    "Id": "intjewel"
+  },
+  {
+    "rowId": 140,
+    "Id": "gladiator"
+  },
+  {
+    "rowId": 141,
+    "Id": "karui"
+  },
+  {
+    "rowId": 142,
+    "Id": "flying"
+  },
+  {
+    "rowId": 143,
+    "Id": "large_model"
+  },
+  {
+    "rowId": 144,
+    "Id": "specific_weapon"
+  },
+  {
+    "rowId": 145,
+    "Id": "two_handed_mod"
+  },
+  {
+    "rowId": 146,
+    "Id": "dual_wielding_mod"
+  },
+  {
+    "rowId": 147,
+    "Id": "shield_mod"
+  },
+  {
+    "rowId": 148,
+    "Id": "one_handed_mod"
+  },
+  {
+    "rowId": 149,
+    "Id": "melee_mod"
+  },
+  {
+    "rowId": 150,
+    "Id": "twostonering"
+  },
+  {
+    "rowId": 151,
+    "Id": "poison_zombie"
+  },
+  {
+    "rowId": 152,
+    "Id": "divination_card"
+  },
+  {
+    "rowId": 153,
+    "Id": "currency"
+  },
+  {
+    "rowId": 154,
+    "Id": "no_divine"
+  },
+  {
+    "rowId": 155,
+    "Id": "unique_map"
+  },
+  {
+    "rowId": 156,
+    "Id": "low_tier_map"
+  },
+  {
+    "rowId": 157,
+    "Id": "mid_tier_map"
+  },
+  {
+    "rowId": 158,
+    "Id": "top_tier_map"
+  },
+  {
+    "rowId": 159,
+    "Id": "old_map"
+  },
+  {
+    "rowId": 160,
+    "Id": "act_boss_area"
+  },
+  {
+    "rowId": 161,
+    "Id": "no_tempests"
+  },
+  {
+    "rowId": 162,
+    "Id": "cannot_be_twinned"
+  },
+  {
+    "rowId": 163,
+    "Id": "no_shroud_walker"
+  },
+  {
+    "rowId": 164,
+    "Id": "no_echo"
+  },
+  {
+    "rowId": 165,
+    "Id": "immobile"
+  },
+  {
+    "rowId": 166,
+    "Id": "limited_tempests"
+  },
+  {
+    "rowId": 167,
+    "Id": "small_staff"
+  },
+  {
+    "rowId": 168,
+    "Id": "support_gem"
+  },
+  {
+    "rowId": 169,
+    "Id": "level_capped_gem"
+  },
+  {
+    "rowId": 170,
+    "Id": "no_effect_flask_mod"
+  },
+  {
+    "rowId": 171,
+    "Id": "area_with_water"
+  },
+  {
+    "rowId": 172,
+    "Id": "no_bloodlines"
+  },
+  {
+    "rowId": 173,
+    "Id": "has_caster_mod"
+  },
+  {
+    "rowId": 174,
+    "Id": "has_attack_mod"
+  },
+  {
+    "rowId": 175,
+    "Id": "maraketh"
+  },
+  {
+    "rowId": 176,
+    "Id": "uses_suicide_explode"
+  },
+  {
+    "rowId": 177,
+    "Id": "cannot_be_monolith"
+  },
+  {
+    "rowId": 178,
+    "Id": "no_zana_quests"
+  },
+  {
+    "rowId": 179,
+    "Id": "atlas_base_type"
+  },
+  {
+    "rowId": 180,
+    "Id": "ringatlas1"
+  },
+  {
+    "rowId": 181,
+    "Id": "ringatlas2"
+  },
+  {
+    "rowId": 182,
+    "Id": "amuletatlas1"
+  },
+  {
+    "rowId": 183,
+    "Id": "amuletatlas2"
+  },
+  {
+    "rowId": 184,
+    "Id": "beltatlas1"
+  },
+  {
+    "rowId": 185,
+    "Id": "beltatlas2"
+  },
+  {
+    "rowId": 186,
+    "Id": "helmetatlas1"
+  },
+  {
+    "rowId": 187,
+    "Id": "bootsatlas1"
+  },
+  {
+    "rowId": 188,
+    "Id": "bootsatlas2"
+  },
+  {
+    "rowId": 189,
+    "Id": "bootsatlas3"
+  },
+  {
+    "rowId": 190,
+    "Id": "glovesatlasstr"
+  },
+  {
+    "rowId": 191,
+    "Id": "glovesatlasdex"
+  },
+  {
+    "rowId": 192,
+    "Id": "glovesatlasint"
+  },
+  {
+    "rowId": 193,
+    "Id": "shaped_map"
+  },
+  {
+    "rowId": 194,
+    "Id": "no_boss"
+  },
+  {
+    "rowId": 195,
+    "Id": "no_monster_packs"
+  },
+  {
+    "rowId": 196,
+    "Id": "no_strongboxes"
+  },
+  {
+    "rowId": 197,
+    "Id": "hall_of_grandmasters"
+  },
+  {
+    "rowId": 198,
+    "Id": "vaults_of_atziri"
+  },
+  {
+    "rowId": 199,
+    "Id": "cowards_trial"
+  },
+  {
+    "rowId": 200,
+    "Id": "breach_map"
+  },
+  {
+    "rowId": 201,
+    "Id": "breach_commander"
+  },
+  {
+    "rowId": 202,
+    "Id": "breach_leaguestone"
+  },
+  {
+    "rowId": 203,
+    "Id": "breachstone"
+  },
+  {
+    "rowId": 204,
+    "Id": "breachstone_splinter"
+  },
+  {
+    "rowId": 205,
+    "Id": "essence_leaguestone"
+  },
+  {
+    "rowId": 206,
+    "Id": "prophecy_leaguestone"
+  },
+  {
+    "rowId": 207,
+    "Id": "perandus_leaguestone"
+  },
+  {
+    "rowId": 208,
+    "Id": "talisman_leaguestone"
+  },
+  {
+    "rowId": 209,
+    "Id": "warbands_leaguestone"
+  },
+  {
+    "rowId": 210,
+    "Id": "torment_leaguestone"
+  },
+  {
+    "rowId": 211,
+    "Id": "rampage_leaguestone"
+  },
+  {
+    "rowId": 212,
+    "Id": "domination_leaguestone"
+  },
+  {
+    "rowId": 213,
+    "Id": "tempest_leaguestone"
+  },
+  {
+    "rowId": 214,
+    "Id": "bloodlines_leaguestone"
+  },
+  {
+    "rowId": 215,
+    "Id": "beyond_leaguestone"
+  },
+  {
+    "rowId": 216,
+    "Id": "ambush_leaguestone"
+  },
+  {
+    "rowId": 217,
+    "Id": "invasion_leaguestone"
+  },
+  {
+    "rowId": 218,
+    "Id": "nemesis_leaguestone"
+  },
+  {
+    "rowId": 219,
+    "Id": "anarchy_leaguestone"
+  },
+  {
+    "rowId": 220,
+    "Id": "onslaught_leaguestone"
+  },
+  {
+    "rowId": 221,
+    "Id": "god"
+  },
+  {
+    "rowId": 222,
+    "Id": "unset_ring"
+  },
+  {
+    "rowId": 223,
+    "Id": "no_leaguestone"
+  },
+  {
+    "rowId": 224,
+    "Id": "chaos_warband"
+  },
+  {
+    "rowId": 225,
+    "Id": "templar"
+  },
+  {
+    "rowId": 226,
+    "Id": "cultist"
+  },
+  {
+    "rowId": 227,
+    "Id": "female"
+  },
+  {
+    "rowId": 228,
+    "Id": "str_shield"
+  },
+  {
+    "rowId": 229,
+    "Id": "dex_shield"
+  },
+  {
+    "rowId": 230,
+    "Id": "str_dex_shield"
+  },
+  {
+    "rowId": 231,
+    "Id": "str_int_shield"
+  },
+  {
+    "rowId": 232,
+    "Id": "dex_int_shield"
+  },
+  {
+    "rowId": 233,
+    "Id": "currency_shard"
+  },
+  {
+    "rowId": 234,
+    "Id": "harbinger_orb_shard"
+  },
+  {
+    "rowId": 235,
+    "Id": "not_harbinger_minion"
+  },
+  {
+    "rowId": 236,
+    "Id": "abyss_jewel_melee"
+  },
+  {
+    "rowId": 237,
+    "Id": "abyss_jewel_ranged"
+  },
+  {
+    "rowId": 238,
+    "Id": "abyss_jewel_caster"
+  },
+  {
+    "rowId": 239,
+    "Id": "abyss_jewel_summoner"
+  },
+  {
+    "rowId": 240,
+    "Id": "abyss_jewel"
+  },
+  {
+    "rowId": 241,
+    "Id": "abyssal"
+  },
+  {
+    "rowId": 242,
+    "Id": "unarmed"
+  },
+  {
+    "rowId": 243,
+    "Id": "worlds_map"
+  },
+  {
+    "rowId": 244,
+    "Id": "shaper_item"
+  },
+  {
+    "rowId": 245,
+    "Id": "elder_item"
+  },
+  {
+    "rowId": 246,
+    "Id": "boots_shaper"
+  },
+  {
+    "rowId": 247,
+    "Id": "boots_elder"
+  },
+  {
+    "rowId": 248,
+    "Id": "sword_shaper"
+  },
+  {
+    "rowId": 249,
+    "Id": "sword_elder"
+  },
+  {
+    "rowId": 250,
+    "Id": "gloves_shaper"
+  },
+  {
+    "rowId": 251,
+    "Id": "gloves_elder"
+  },
+  {
+    "rowId": 252,
+    "Id": "helmet_shaper"
+  },
+  {
+    "rowId": 253,
+    "Id": "helmet_elder"
+  },
+  {
+    "rowId": 254,
+    "Id": "body_armour_shaper"
+  },
+  {
+    "rowId": 255,
+    "Id": "body_armour_elder"
+  },
+  {
+    "rowId": 256,
+    "Id": "amulet_shaper"
+  },
+  {
+    "rowId": 257,
+    "Id": "amulet_elder"
+  },
+  {
+    "rowId": 258,
+    "Id": "ring_shaper"
+  },
+  {
+    "rowId": 259,
+    "Id": "ring_elder"
+  },
+  {
+    "rowId": 260,
+    "Id": "belt_shaper"
+  },
+  {
+    "rowId": 261,
+    "Id": "belt_elder"
+  },
+  {
+    "rowId": 262,
+    "Id": "quiver_shaper"
+  },
+  {
+    "rowId": 263,
+    "Id": "quiver_elder"
+  },
+  {
+    "rowId": 264,
+    "Id": "shield_shaper"
+  },
+  {
+    "rowId": 265,
+    "Id": "shield_elder"
+  },
+  {
+    "rowId": 266,
+    "Id": "2h_sword_shaper"
+  },
+  {
+    "rowId": 267,
+    "Id": "2h_sword_elder"
+  },
+  {
+    "rowId": 268,
+    "Id": "axe_shaper"
+  },
+  {
+    "rowId": 269,
+    "Id": "axe_elder"
+  },
+  {
+    "rowId": 270,
+    "Id": "mace_shaper"
+  },
+  {
+    "rowId": 271,
+    "Id": "mace_elder"
+  },
+  {
+    "rowId": 272,
+    "Id": "claw_shaper"
+  },
+  {
+    "rowId": 273,
+    "Id": "claw_elder"
+  },
+  {
+    "rowId": 274,
+    "Id": "bow_shaper"
+  },
+  {
+    "rowId": 275,
+    "Id": "bow_elder"
+  },
+  {
+    "rowId": 276,
+    "Id": "dagger_shaper"
+  },
+  {
+    "rowId": 277,
+    "Id": "dagger_elder"
+  },
+  {
+    "rowId": 278,
+    "Id": "2h_axe_shaper"
+  },
+  {
+    "rowId": 279,
+    "Id": "2h_axe_elder"
+  },
+  {
+    "rowId": 280,
+    "Id": "2h_mace_shaper"
+  },
+  {
+    "rowId": 281,
+    "Id": "2h_mace_elder"
+  },
+  {
+    "rowId": 282,
+    "Id": "staff_shaper"
+  },
+  {
+    "rowId": 283,
+    "Id": "staff_elder"
+  },
+  {
+    "rowId": 284,
+    "Id": "sceptre_shaper"
+  },
+  {
+    "rowId": 285,
+    "Id": "sceptre_elder"
+  },
+  {
+    "rowId": 286,
+    "Id": "wand_shaper"
+  },
+  {
+    "rowId": 287,
+    "Id": "wand_elder"
+  },
+  {
+    "rowId": 288,
+    "Id": "grants_crit_chance_support"
+  },
+  {
+    "rowId": 289,
+    "Id": "no_legacy_of_zeal"
+  },
+  {
+    "rowId": 290,
+    "Id": "bestiary_beast_boss"
+  },
+  {
+    "rowId": 291,
+    "Id": "elder_occupied_map"
+  },
+  {
+    "rowId": 292,
+    "Id": "bestiary_wilds"
+  },
+  {
+    "rowId": 293,
+    "Id": "bestiary_sands"
+  },
+  {
+    "rowId": 294,
+    "Id": "bestiary_caverns"
+  },
+  {
+    "rowId": 295,
+    "Id": "bestiary_deep"
+  },
+  {
+    "rowId": 296,
+    "Id": "no_elemental_damage_mods"
+  },
+  {
+    "rowId": 297,
+    "Id": "no_physical_damage_mods"
+  },
+  {
+    "rowId": 298,
+    "Id": "no_cannot_die_aura"
+  },
+  {
+    "rowId": 299,
+    "Id": "bestiary_net"
+  },
+  {
+    "rowId": 300,
+    "Id": "up_to_level_2_gem"
+  },
+  {
+    "rowId": 301,
+    "Id": "up_to_level_8_gem"
+  },
+  {
+    "rowId": 302,
+    "Id": "essence"
+  },
+  {
+    "rowId": 303,
+    "Id": "talisman"
+  },
+  {
+    "rowId": 304,
+    "Id": "armour_divination"
+  },
+  {
+    "rowId": 305,
+    "Id": "weapon_divination"
+  },
+  {
+    "rowId": 306,
+    "Id": "jewellery_divination"
+  },
+  {
+    "rowId": 307,
+    "Id": "delve_chest"
+  },
+  {
+    "rowId": 308,
+    "Id": "incursion_monster"
+  },
+  {
+    "rowId": 309,
+    "Id": "fire"
+  },
+  {
+    "rowId": 310,
+    "Id": "cold"
+  },
+  {
+    "rowId": 311,
+    "Id": "lightning"
+  },
+  {
+    "rowId": 312,
+    "Id": "chaos"
+  },
+  {
+    "rowId": 313,
+    "Id": "physical"
+  },
+  {
+    "rowId": 314,
+    "Id": "poison"
+  },
+  {
+    "rowId": 315,
+    "Id": "bleed"
+  },
+  {
+    "rowId": 316,
+    "Id": "life"
+  },
+  {
+    "rowId": 317,
+    "Id": "defences"
+  },
+  {
+    "rowId": 318,
+    "Id": "elemental"
+  },
+  {
+    "rowId": 319,
+    "Id": "attack"
+  },
+  {
+    "rowId": 320,
+    "Id": "minion"
+  },
+  {
+    "rowId": 321,
+    "Id": "gem_level"
+  },
+  {
+    "rowId": 322,
+    "Id": "aura"
+  },
+  {
+    "rowId": 323,
+    "Id": "vaal"
+  },
+  {
+    "rowId": 324,
+    "Id": "mana"
+  },
+  {
+    "rowId": 325,
+    "Id": "speed"
+  },
+  {
+    "rowId": 326,
+    "Id": "flat_life_regen"
+  },
+  {
+    "rowId": 327,
+    "Id": "einharbeast"
+  },
+  {
+    "rowId": 328,
+    "Id": "einharmonkey"
+  },
+  {
+    "rowId": 329,
+    "Id": "einharcavespiders"
+  },
+  {
+    "rowId": 330,
+    "Id": "einhardropbear"
+  },
+  {
+    "rowId": 331,
+    "Id": "einharsnake"
+  },
+  {
+    "rowId": 332,
+    "Id": "einharthornspiders"
+  },
+  {
+    "rowId": 333,
+    "Id": "einharrhoa"
+  },
+  {
+    "rowId": 334,
+    "Id": "einharbonerhoa"
+  },
+  {
+    "rowId": 335,
+    "Id": "einharinsectspawner"
+  },
+  {
+    "rowId": 336,
+    "Id": "einharspiker"
+  },
+  {
+    "rowId": 337,
+    "Id": "einharkiweth"
+  },
+  {
+    "rowId": 338,
+    "Id": "einharchimeral"
+  },
+  {
+    "rowId": 339,
+    "Id": "einharvultureparasite"
+  },
+  {
+    "rowId": 340,
+    "Id": "einharsandleaper"
+  },
+  {
+    "rowId": 341,
+    "Id": "einharfuryhound"
+  },
+  {
+    "rowId": 342,
+    "Id": "einharbull"
+  },
+  {
+    "rowId": 343,
+    "Id": "einhargoatman"
+  },
+  {
+    "rowId": 344,
+    "Id": "einharmountaingoat"
+  },
+  {
+    "rowId": 345,
+    "Id": "einharshieldcrab"
+  },
+  {
+    "rowId": 346,
+    "Id": "einharcrabparasite"
+  },
+  {
+    "rowId": 347,
+    "Id": "einharparasite"
+  },
+  {
+    "rowId": 348,
+    "Id": "einharscorpion"
+  },
+  {
+    "rowId": 349,
+    "Id": "quality_currency"
+  },
+  {
+    "rowId": 350,
+    "Id": "einharmaps"
+  },
+  {
+    "rowId": 351,
+    "Id": "rusted_scarab"
+  }
+]

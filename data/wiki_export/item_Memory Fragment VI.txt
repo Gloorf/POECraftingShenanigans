@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment VI
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...The missing part of the great device had finally been formed.<br>The Shade requested its one favour. I was shown images of the past,<br>the Shade as King of the dreamlands, the hateful Watchers of Decay...<br>It led me deep into a cave, to a statue pierced by a sword..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment6_1
+}}

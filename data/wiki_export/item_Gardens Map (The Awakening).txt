@@ -1,0 +1,29 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gardens Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 74
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = forest, swamp, mid_tier_map, not_for_sale, map, default
+|metadata_id                             = Metadata/Items/Maps/Map2Tier7_5
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|purchase_cost_normal1_name              = Orb of Alchemy
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alchemy
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_magic2_name               = Orb of Chance
+|purchase_cost_magic2_amount             = 1
+|purchase_cost_rare1_name                = Orb of Alchemy
+|purchase_cost_rare1_amount              = 2
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 10
+|map_tier                                = 7
+|map_guild_character                     = 4
+|map_area_id                             = Map2Tier7_5
+|map_series                              = The Awakening
+|map_area_level                          = 74
+|inventory_icon                          = Gardens Map (The Awakening)
+|drop_enabled                            = False
+}}

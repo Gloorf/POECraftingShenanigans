@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Undertaker Portrait Frame
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionUndertakerPortraitFrame
+|stack_size                              = 1
+|description                             = Adds the Undertaker Portrait Frame to this character.
+|cosmetic_type                           = Portrait Frame Modification
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Spirit Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
++15 to Accuracy Rating
++18 to maximum Mana

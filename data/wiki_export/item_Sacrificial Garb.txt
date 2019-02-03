@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sacrificial Garb
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 72
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_dex_int_armour, not_for_sale, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyStrDexInt1
+|implicit1                               = MovementVelocityPenaltyLightArmourImplicit
+|required_level                          = 72
+|required_strength                       = 66
+|required_dexterity                      = 66
+|required_intelligence                   = 66
+|armour                                  = 329
+|evasion                                 = 329
+|energy_shield                           = 64
+}}

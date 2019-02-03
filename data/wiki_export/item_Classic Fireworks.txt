@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Classic Fireworks
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionFireworksClassic
+|stack_size                              = 100
+|description                             = Celebrate in style with these flashy fireworks.
+|cosmetic_type                           = Consumable Effect
+}}

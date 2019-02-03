@@ -1,0 +1,18 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Colossus Sword
+|class_id                                = HideoutDoodad
+|size_x                                  = 3
+|size_y                                  = 4
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutColossusSword
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Alva, Master Explorer
+|master_favour_cost                      = 244000
+|master_level_requirement                = 6
+|variation_count                         = 5
+|inventory_icon                          = Colossus Sword (Alva 6 decoration)
+}}

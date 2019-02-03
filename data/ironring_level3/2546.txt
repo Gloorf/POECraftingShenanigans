@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Gloom Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
++13 to Accuracy Rating
+7% increased Cast Speed
++3 Life gained on Kill

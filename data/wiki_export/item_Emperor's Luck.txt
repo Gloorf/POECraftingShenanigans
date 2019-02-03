@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Emperor's Luck
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The house always wins.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardEmperorsLuck
+|stack_size                              = 5
+|description                             = {{c|currency|5x Currency}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

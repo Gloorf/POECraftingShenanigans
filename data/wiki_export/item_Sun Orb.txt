@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sun Orb
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = "The sun is a devoted mother. She casts her golden blessings on<br>the crops of the pious and makes barren the fields of heresy.<br>Sunlight is belief. Sunlight is life."<br> - The Solar Verses
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act8/SolarisOrb
+}}

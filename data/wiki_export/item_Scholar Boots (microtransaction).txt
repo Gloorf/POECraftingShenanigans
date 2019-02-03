@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Scholar Boots
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionScholarBoots
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped boots to the Scholar boots.
+|cosmetic_type                           = Boots Skin
+|inventory_icon                          = Scholar Boots (microtransaction)
+}}

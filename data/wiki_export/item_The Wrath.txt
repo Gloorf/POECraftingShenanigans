@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Wrath
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "Daughter of catastrophe, mother of pain. Amongst the filth of Wraeclast, she wanders, and her wrath follows." - Quintoon the Returned
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheWrath
+|stack_size                              = 8
+|description                             = {{c|currency|10x {{il|Chaos Orb|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

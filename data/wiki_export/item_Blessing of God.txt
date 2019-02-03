@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Blessing of God
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = When the darkness weighs upon you, grow light from within.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardBlessingOfGod
+|stack_size                              = 3
+|description                             = {{c|magic|Elreon's Jewellery}}<br>{{c|default|Item Level:}} {{c|normal|85}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

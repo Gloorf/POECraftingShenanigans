@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Inya's Key
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The Infinite Mind, unbound by the tethers of sanity,<br>whose thirst for knowledge is all-consuming,<br>whose every word stands our hair on end.
+|drop_level                              = 60
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/ProphecyFragment3
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ProphecyFragmentImplicit
+}}

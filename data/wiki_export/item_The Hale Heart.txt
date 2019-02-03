@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Hale Heart
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Though the years weakened his mind, his body remained deadly as ever.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheHaleHeart
+|stack_size                              = 4
+|description                             = {{c|rare|Item}}<br>{{c|default|Item Level:}} {{c|normal|100}}<br>{{c|default|Elder Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

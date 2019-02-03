@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Jeweller's Boon
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The jeweller's true talent is the capacity to see a jewel's beauty before they draw it out.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheJewellersBoon
+|stack_size                              = 5
+|description                             = {{c|prophecy|The Jeweller's Touch}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

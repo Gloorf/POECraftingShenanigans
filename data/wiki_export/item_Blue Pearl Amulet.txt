@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Blue Pearl Amulet
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 77
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, atlas_base_type, amuletatlas1, amulet, default
+|metadata_id                             = Metadata/Items/Amulet/AmuletAtlas1
+|implicit1                               = ManaRegenerationImplicitAmulet2
+}}

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Sorrow Grip
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++2 to maximum Energy Shield
++8 to maximum Life
++17 to maximum Mana
+18% increased Mana Regeneration Rate
+10% increased Rarity of Items found

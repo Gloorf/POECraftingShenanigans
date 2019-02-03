@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Soul Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
++8 to Evasion Rating
++7 to maximum Life
++5 Life gained on Kill

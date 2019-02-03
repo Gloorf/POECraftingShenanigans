@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Radiant Scorching Ray Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionDivineScorchingRay
+|stack_size                              = 1
+|description                             = Your Scorching Ray becomes a Radiant effect.
+|cosmetic_type                           = Scorching Ray Skin
+}}

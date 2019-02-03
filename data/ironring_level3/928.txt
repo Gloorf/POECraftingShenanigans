@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Maelström Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++16 to maximum Mana
+17% increased Mana Regeneration Rate
++11% to Fire Resistance
++5 Life gained on Kill

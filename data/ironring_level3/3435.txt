@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Victory Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
+7% increased Cast Speed
++4 to Evasion Rating
+1.5 Life Regenerated per second
++18 to maximum Mana
++1 Mana gained on Kill

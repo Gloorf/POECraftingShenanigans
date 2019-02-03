@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment VIII
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...Months have now passed since the Shade revealed its true nature.<br>Each morning, I lock myself inside my study, searching for some knowledge <br>that might save us. I have found at last, some information on the Watchers of Decay. <br>The truth is so unutterable that I hesitate, even now, to write it down..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment8_1
+}}

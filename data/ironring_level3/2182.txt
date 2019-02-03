@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Plague Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Cast Speed
++3 to Evasion Rating
++6% to Cold Resistance
++7% to Lightning Resistance

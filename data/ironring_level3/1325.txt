@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Honour Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++8 to Evasion Rating
++15 to maximum Mana
++7% to Cold Resistance
++1 Mana gained on Kill

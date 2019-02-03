@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Cataclysm Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++9 to Dexterity
+5% increased Cast Speed
++9 to Evasion Rating

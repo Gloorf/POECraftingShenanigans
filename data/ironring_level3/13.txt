@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Apocalypse Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++11 to Intelligence
++15 to maximum Mana
++3 Life gained on Kill

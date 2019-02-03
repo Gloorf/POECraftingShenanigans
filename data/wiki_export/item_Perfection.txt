@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Perfection
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = There are countless worlds, but only those with limitless potential will be able to achieve perfection.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardPerfection
+|stack_size                              = 5
+|description                             = {{c|rare|Jewellery}}<br>{{c|default|Item Level:}} {{c|normal|100}}<br>{{c|default|Shaper Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

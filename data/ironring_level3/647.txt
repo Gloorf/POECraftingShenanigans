@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Viper Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++2 to all Attributes
+Adds 1 to 2 Cold Damage to Attacks
++5 to Evasion Rating
+1.7 Life Regenerated per second
++7% to Cold Resistance

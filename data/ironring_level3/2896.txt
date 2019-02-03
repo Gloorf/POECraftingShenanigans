@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Ghoul Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++3 to maximum Energy Shield
++6 to maximum Life
++11% to Fire Resistance

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Reaper Spectral Throw Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionEbonySpectralThrow
+|stack_size                              = 20
+|description                             = Your Spectral Throw becomes a deadly scythe.
+|cosmetic_type                           = Spectral Throw Skin
+}}

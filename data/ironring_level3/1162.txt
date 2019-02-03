@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Havoc Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
++19 to maximum Mana
++3 Life gained on Kill

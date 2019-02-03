@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Carrion Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++7 to Accuracy Rating
++5 to maximum Life
+1.5 Life Regenerated per second
+14% increased Mana Regeneration Rate

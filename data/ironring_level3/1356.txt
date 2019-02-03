@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Morbid Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++16 to maximum Mana
+16% increased Mana Regeneration Rate
++3 Life gained on Kill

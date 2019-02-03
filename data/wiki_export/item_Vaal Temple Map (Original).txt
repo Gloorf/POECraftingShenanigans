@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Vaal Temple Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 79
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, indoors_area, dungeon, temple, old_map, cannot_be_twinned, map, default
+|metadata_id                             = Metadata/Items/Maps/MapTier14_1
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 14
+|map_guild_character                     = §
+|map_area_id                             = MapTier14_1
+|map_series                              = Original
+|map_area_level                          = 79
+|inventory_icon                          = Vaal Temple Map (Original)
+|drop_enabled                            = False
+}}

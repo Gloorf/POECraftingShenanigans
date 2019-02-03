@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Carrion Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++17 to maximum Mana
+11% increased Mana Regeneration Rate
++7% to Lightning Resistance

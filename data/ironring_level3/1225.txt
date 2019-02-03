@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Damnation Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++11 to Dexterity
++8 to maximum Life
++6% to Cold Resistance

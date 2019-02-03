@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment VII
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "Pull the blade from my chest. Free me!" the Shade imposed.<br>But doubt entered my mind, and the Shade flew into a fury!<br>I felt my mind torn asunder as images of murder and mutilation were forced upon me. <br>I fled in a panic, cursing myself for ever trusting such a strange creature so blindly..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment7_1
+}}

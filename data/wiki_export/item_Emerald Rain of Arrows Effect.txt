@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Emerald Rain of Arrows Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionEmeraldRainOfArrows
+|stack_size                              = 20
+|description                             = Your Rain of Arrows glow a ghostly green
+|cosmetic_type                           = Rain of Arrows Skin
+}}

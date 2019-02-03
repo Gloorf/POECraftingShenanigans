@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Dragon Mace
+|class_id                                = One Hand Mace
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 55
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, mace, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandMaces/OneHandMaceM2
+|implicit1                               = LocalIncreasedAttackSpeedImplicitMarakethOneHandMace1
+|required_level                          = 55
+|required_strength                       = 184
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.35
+|physical_damage_min                     = 44
+|physical_damage_max                     = 66
+|weapon_range                            = 9
+}}

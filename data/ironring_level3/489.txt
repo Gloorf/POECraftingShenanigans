@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Morbid Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to maximum Life
+15% increased Mana Regeneration Rate
++7% to Fire Resistance
++8% to Lightning Resistance

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Blood Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Attack Speed
+2.0 Life Regenerated per second
++17 to maximum Mana
++1 Mana gained on Kill

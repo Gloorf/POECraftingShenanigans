@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Brimstone Loop
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Attack Speed
++1 to maximum Energy Shield
++6 to maximum Life
++17 to maximum Mana
++7% to Lightning Resistance

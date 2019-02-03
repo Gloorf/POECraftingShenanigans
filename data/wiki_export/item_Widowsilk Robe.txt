@@ -1,0 +1,23 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Widowsilk Robe
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 65
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = int_armour, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyInt16
+|implicit1                               = MovementVelocityPenaltyLightArmourImplicit
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 65
+|required_intelligence                   = 187
+|energy_shield                           = 150
+}}

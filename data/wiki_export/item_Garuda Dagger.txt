@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Garuda Dagger
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionGarudaDagger
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped dagger, wand or claw to the Garuda Dagger.
+|cosmetic_type                           = Weapon Skin
+}}

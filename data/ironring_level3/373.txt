@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Dire Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++2 to all Attributes
++4 to Evasion Rating
++6 Life gained on Kill

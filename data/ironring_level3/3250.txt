@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Soul Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
+1.8 Life Regenerated per second
++19 to maximum Mana
+16% increased Mana Regeneration Rate

@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment II
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...Though the device seemed to be mostly functioning, <br>something important appeared to be missing...<br>...I worked tirelessly in search of answers, until finally, <br>at the base of that cruel device, I fell into a deep, deep sleep..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment2_1
+}}

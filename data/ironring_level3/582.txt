@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Foe Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
+7% increased Cast Speed
++4 to maximum Life
+1.3 Life Regenerated per second

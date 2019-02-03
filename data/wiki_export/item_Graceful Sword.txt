@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Graceful Sword
+|class_id                                = One Hand Sword
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 50
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = sword, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/OneHandSword14
+|implicit1                               = IncreasedAccuracySwordImplicit6
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 50
+|required_strength                       = 78
+|required_dexterity                      = 94
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.5
+|physical_damage_min                     = 34
+|physical_damage_max                     = 55
+|weapon_range                            = 9
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Flora's Gift
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Sturdy and strong,<br>grown from the stream.<br>The Flora that live here,<br>A combatant's dream.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheFlorasGift
+|stack_size                              = 5
+|description                             = {{c|white|Five-Link Staff}}<br>{{c|default|Item Level:}} {{c|normal|66}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

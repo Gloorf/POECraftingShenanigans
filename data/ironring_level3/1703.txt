@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Soul Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
++5 to Accuracy Rating
++9 to maximum Life
++9% to Fire Resistance

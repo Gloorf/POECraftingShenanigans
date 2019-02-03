@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Tempest Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
+Adds 1 to 2 Cold Damage to Attacks
++6 to maximum Life
++19 to maximum Mana
+11% increased Mana Regeneration Rate
++9% to Fire Resistance

@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shaped Promenade Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 81
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = top_tier_map, urban, not_for_sale, shaped_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapAtlasPromenadeShaped
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 14
+|map_guild_character                     = Ó
+|map_area_id                             = MapAtlasPromenade
+|unique_map_guild_character              = Ù
+|unique_map_area_id                      = MapAtlasPromenadeUnique
+|unique_map_area_level                   = 76
+|map_series                              = Atlas of Worlds
+|map_area_level                          = 81
+|inventory_icon                          = Shaped Promenade Map (Atlas of Worlds)
+|drop_enabled                            = False
+}}

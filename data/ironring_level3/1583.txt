@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Plague Loop
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Attack Speed
++12 to Accuracy Rating
++5 to Evasion Rating
++7 to maximum Life
+8% increased Rarity of Items found

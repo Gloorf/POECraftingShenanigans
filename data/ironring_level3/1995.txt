@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Hate Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
++6 to Evasion Rating
+18% increased Mana Regeneration Rate
++1 Mana gained on Kill

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Prismatic Jewel
+|class_id                                = Jewel
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|drop_rarities                           = Magic, Rare, Unique
+|tags                                    = jewel, intjewel, dexjewel, strjewel, not_for_sale, default
+|metadata_id                             = Metadata/Items/Jewels/JewelPrismatic
+|help_text                               = Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
+}}

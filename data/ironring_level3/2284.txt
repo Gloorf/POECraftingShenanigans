@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Glyph Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
++14 to Accuracy Rating
++3 to Evasion Rating
++9 to maximum Life
+1.5 Life Regenerated per second
++1 Mana gained on Kill

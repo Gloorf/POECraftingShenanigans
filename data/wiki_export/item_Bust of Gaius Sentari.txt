@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Bust of Gaius Sentari
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = The Emperor honours Gaius Sentari as Supreme Servant.<br>"A man's thoughts are his shackles. A man's thoughts are his wings."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Busts/Bust2
+}}

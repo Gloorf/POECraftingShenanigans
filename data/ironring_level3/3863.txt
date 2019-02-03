@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Viper Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++6 to Accuracy Rating
++5 to Evasion Rating
++8% to Fire Resistance
++4 Life gained on Kill

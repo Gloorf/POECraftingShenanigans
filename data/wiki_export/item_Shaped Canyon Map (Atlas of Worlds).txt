@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shaped Canyon Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 78
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = top_tier_map, mountain, not_for_sale, shaped_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapAtlasCanyonShaped
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 11
+|map_guild_character                     = 6
+|map_area_id                             = MapAtlasCanyon
+|map_series                              = Atlas of Worlds
+|map_area_level                          = 78
+|inventory_icon                          = Shaped Canyon Map (Atlas of Worlds)
+|drop_enabled                            = False
+}}

@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment XIII
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...It wasn't long before we were met by the Shade itself.<br>The very essence of the Elder, demanding of me in visions to<br>tell it why I had returned. But before I could answer,<br>Venarius stepped forward and greeted the phantom..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment10_1
+}}

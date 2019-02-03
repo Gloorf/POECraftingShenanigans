@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Armageddon Loop
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++13 to Accuracy Rating
++19 to maximum Mana
+15% increased Mana Regeneration Rate
+9% increased Rarity of Items found

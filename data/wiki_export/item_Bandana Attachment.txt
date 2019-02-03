@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Bandana Attachment
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionBandanaEffect
+|stack_size                              = 1
+|description                             = Adds a villainous bandana to your headdress.
+|cosmetic_type                           = Helmet Attachment
+}}

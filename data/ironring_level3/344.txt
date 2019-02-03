@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Honour Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++15 to Accuracy Rating
++5 to Evasion Rating
++9% to Fire Resistance
++8% to Cold Resistance

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/ggpk/DelveCraftingModifiers.json</file>
+        <file>data/ggpk/Mods.json</file>
+        <file>data/ggpk/ModType.json</file>
+        <file>data/ggpk/Stats.json</file>
+        <file>data/ggpk/Tags.json</file>
+        <file>data/IronRingData.json</file>
+        <file>data/SimpleBaseItemTypes.json</file>
+        <file>data/SimpleTags.json</file>
+    </qresource>
+</RCC>

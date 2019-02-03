@@ -1,0 +1,23 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Silken Vest
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 11
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = int_armour, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyInt2
+|implicit1                               = MovementVelocityPenaltyLightArmourImplicit
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 11
+|required_intelligence                   = 37
+|energy_shield                           = 27
+}}

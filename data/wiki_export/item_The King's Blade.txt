@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The King's Blade
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "To know for what you fight. To get up again when you've been struck down. To outmanoeuvre someone faster, trick someone smarter, crush someone stronger. That's what it takes to claim the crown."<br>- Daresso, the King of Swords
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheKingsBlade
+|stack_size                              = 5
+|description                             = {{c|magic|Bloodthirsty Eternal Sword}}<br>{{c|default|Item Level:}} {{c|normal|66}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

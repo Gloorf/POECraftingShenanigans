@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Cacophony
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Nothing can be heard above the din or seen amongst the turmoil. The senses are shattered. All is left to fate.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheCacophony
+|stack_size                              = 8
+|description                             = {{c|currency|3x Deafening Essence}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Doom Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++16 to maximum Mana
+8% increased Rarity of Items found
++10% to Lightning Resistance

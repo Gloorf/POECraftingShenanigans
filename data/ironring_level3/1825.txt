@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Golem Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
+Adds 1 to 5 Lightning Damage to Attacks
++7 to Evasion Rating
++3 to maximum Energy Shield
+12% increased Mana Regeneration Rate
++5 Life gained on Kill

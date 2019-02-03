@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Valkyrie
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The villain strikes,<br>the world is torn.<br>A war begins, a hero is born,<br>The nemesis sets the sky alight.<br>A hero's sacrifice<br>sets everything right.<br>- Drake's Epitaph
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheValkyrie
+|stack_size                              = 8
+|description                             = {{c|unique|Nemesis Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

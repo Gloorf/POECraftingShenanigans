@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Morbid Spiral
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++15 to maximum Mana
+11% increased Mana Regeneration Rate
+7% increased Rarity of Items found

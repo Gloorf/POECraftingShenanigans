@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Legacy Portrait Frame
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionPremiumClassicFrame
+|stack_size                              = 1
+|description                             = Adds the Legacy Portrait Frame to this character.
+|cosmetic_type                           = Portrait Frame Modification
+}}

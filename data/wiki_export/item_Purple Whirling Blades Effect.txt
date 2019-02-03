@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Purple Whirling Blades Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionPurpleWhirlingBladesEffect
+|stack_size                              = 1
+|description                             = Your Whirling Blades becomes a purple effect.
+|cosmetic_type                           = Whirling Blades Skin
+}}

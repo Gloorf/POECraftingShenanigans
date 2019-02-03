@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Eagle Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
+7% increased Cast Speed
++6 to Evasion Rating
++7 to maximum Life
++10% to Cold Resistance

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Entropy Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++4 to maximum Life
++18 to maximum Mana
++3 Life gained on Kill

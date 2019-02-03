@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Cataclysm Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Cast Speed
++6 to maximum Life
++19 to maximum Mana
++9% to Lightning Resistance
++4 Life gained on Kill

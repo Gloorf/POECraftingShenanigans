@@ -1,0 +1,24 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ringmail Boots
+|class_id                                = Boots
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 13
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_int_armour, boots, armour, default
+|metadata_id                             = Metadata/Items/Armours/Boots/BootsStrInt2
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Augmentation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 13
+|required_strength                       = 15
+|required_intelligence                   = 15
+|armour                                  = 25
+|energy_shield                           = 5
+}}

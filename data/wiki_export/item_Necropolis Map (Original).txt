@@ -1,0 +1,30 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Necropolis Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 75
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = indoors_area, dungeon, not_for_sale, old_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapTier10_1
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|purchase_cost_normal1_name              = Chaos Orb
+|purchase_cost_normal1_amount            = 10
+|purchase_cost_magic1_name               = Exalted Orb
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Exalted Orb
+|purchase_cost_rare1_amount              = 2
+|purchase_cost_unique1_name              = Exalted Orb
+|purchase_cost_unique1_amount            = 4
+|map_tier                                = 10
+|map_guild_character                     = (
+|map_area_id                             = MapTier10_1
+|unique_map_guild_character              = p
+|unique_map_area_id                      = MapTier10_1Unique
+|unique_map_area_level                   = 75
+|map_series                              = Original
+|map_area_level                          = 75
+|inventory_icon                          = Necropolis Map (Original)
+|drop_enabled                            = False
+}}

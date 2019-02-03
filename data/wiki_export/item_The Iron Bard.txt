@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Iron Bard
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Do the simple words used <br>alone cause men to cheer? <br>One hundred others might <br>just as soon make a jeer. <br>Perchance it was the turn <br>of the tone in this bit. <br>See how their hearts shone once, <br>by my song, they were lit.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheIronBard
+|stack_size                              = 9
+|description                             = {{c|prophecy|Trash to Treasure}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

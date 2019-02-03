@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Maraketh Bow
+|class_id                                = Bow
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 71
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, bow, ranged, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Bows/BowM3
+|implicit1                               = MovementVelocityMarakethBowImplicit2
+|required_level                          = 71
+|required_dexterity                      = 222
+|critical_strike_chance                  = 5.5
+|attack_speed                            = 1.4
+|physical_damage_min                     = 44
+|physical_damage_max                     = 65
+|weapon_range                            = 120
+}}

@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Vial of Fate
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Ancient myths of flame, frost and thunder.<br>Will we ever know the way forward?
+|drop_level                              = 50
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyIncursionVialFire
+|stack_size                              = 10
+|help_text                               = Sacrifice this item on the Altar of Sacrifice along with Story of the Vaal to transform it. <br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rune Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
+6% increased Attack Speed
++8 to Evasion Rating
++8% to Cold Resistance

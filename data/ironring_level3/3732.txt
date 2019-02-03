@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Tempest Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Attack Speed
++8 to maximum Life
+1.3 Life Regenerated per second
++7% to Cold Resistance

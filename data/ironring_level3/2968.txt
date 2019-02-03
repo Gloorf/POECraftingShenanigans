@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Glyph Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to maximum Energy Shield
+1.4 Life Regenerated per second
+7% increased Rarity of Items found
++7% to Lightning Resistance

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Storm Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++3 to maximum Life
++6% to Cold Resistance
++7% to Lightning Resistance

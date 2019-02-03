@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cloth Belt
+|class_id                                = Belt
+|size_x                                  = 2
+|size_y                                  = 1
+|drop_level                              = 20
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = belt, default
+|metadata_id                             = Metadata/Items/Belts/Belt5
+|implicit1                               = StunRecoveryImplicitBelt1
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 2
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+}}

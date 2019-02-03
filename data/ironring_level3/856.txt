@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Agony Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++6 to Accuracy Rating
++4 to Evasion Rating
+1.4 Life Regenerated per second

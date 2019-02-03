@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Jack-o'-Lantern
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionPumpkinHead
+|stack_size                              = 20
+|description                             = Changes the appearance of any equipped headdress to a fearsome jack-o'-lantern.
+|cosmetic_type                           = Helmet Skin
+}}

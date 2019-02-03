@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Deshret's Banner
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 3
+|flavour_text                            = When the sun sets, the plains should be red.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act4/RedBanner
+}}

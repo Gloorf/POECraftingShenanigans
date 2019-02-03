@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Harpy Rapier
+|class_id                                = Thrusting One Hand Sword
+|size_x                                  = 1
+|size_y                                  = 4
+|drop_level                              = 70
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = rapier, sword, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandThrustingSwords/Rapier22
+|implicit1                               = CriticalMultiplierImplicitSword2
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 4
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 70
+|required_dexterity                      = 212
+|critical_strike_chance                  = 5.7
+|attack_speed                            = 1.4
+|physical_damage_min                     = 31
+|physical_damage_max                     = 72
+|weapon_range                            = 12
+}}

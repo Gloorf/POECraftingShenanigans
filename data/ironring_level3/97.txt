@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Hate Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++3 to all Attributes
++5 to Evasion Rating
++11% to Lightning Resistance

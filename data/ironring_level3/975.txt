@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Loath Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++4 to maximum Life
++6% to Cold Resistance
++9% to Lightning Resistance
++1 Mana gained on Kill

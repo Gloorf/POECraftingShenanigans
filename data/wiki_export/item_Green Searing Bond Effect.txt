@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Green Searing Bond Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionGreenSearingBond
+|stack_size                              = 20
+|description                             = Your Searing Bond beam becomes green.
+|cosmetic_type                           = Searing Bond Skin
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Enchant
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyLabyrinthEnchant
+|stack_size                              = 3
+|description                             = Replaces the implicit mod on an item
+|help_text                               = Left click on the skull and then left click on the item you wish to modify.<br>Shift click to unstack.
+}}

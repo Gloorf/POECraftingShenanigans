@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Steam-powered Weapon
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionSteampoweredBlade
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped one-handed sword, axe, mace or sceptre to the Steam-powered Weapon.
+|cosmetic_type                           = Weapon Skin
+}}

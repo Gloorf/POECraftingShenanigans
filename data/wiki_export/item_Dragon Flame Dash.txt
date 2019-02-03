@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Dragon Flame Dash
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionDragonFlameDash
+|stack_size                              = 1
+|description                             = Your Flame Dash gains a draconic effect.
+|cosmetic_type                           = Flame Dash Skin
+}}

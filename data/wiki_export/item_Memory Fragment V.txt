@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment V
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...Every night, I found myself asleep at the foot of the strange device, <br>awoken to the reality of another world within my own.<br>The Shade taught me how to shape and build things from my imagination,<br>how to transport such phantasmagorical treasures back into the world of man..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment5_1
+}}

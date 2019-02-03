@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cobalt Jewel
+|class_id                                = Jewel
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 20
+|drop_rarities                           = Magic, Rare, Unique
+|tags                                    = jewel, not_dex, not_str, not_for_sale, intjewel, default
+|metadata_id                             = Metadata/Items/Jewels/JewelInt
+|help_text                               = Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+}}

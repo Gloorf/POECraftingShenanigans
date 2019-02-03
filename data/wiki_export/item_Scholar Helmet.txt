@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Scholar Helmet
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionScholarHelmet
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped headdress to the Scholar helmet.
+|cosmetic_type                           = Helmet Skin
+}}

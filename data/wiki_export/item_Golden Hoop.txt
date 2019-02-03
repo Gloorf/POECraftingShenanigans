@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Hoop
+|class_id                                = Ring
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 12
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, ring, default
+|metadata_id                             = Metadata/Items/Rings/RingDemigods1
+|implicit1                               = AllAttributesImplicitDemigodRing1
+}}

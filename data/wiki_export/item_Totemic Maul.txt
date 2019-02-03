@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Totemic Maul
+|class_id                                = Two Hand Mace
+|size_x                                  = 2
+|size_y                                  = 4
+|drop_level                              = 36
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = mace, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace8
+|implicit1                               = StunDurationImplicitMace1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 36
+|required_strength                       = 119
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.1
+|physical_damage_min                     = 49
+|physical_damage_max                     = 73
+|weapon_range                            = 11
+}}

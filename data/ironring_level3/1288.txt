@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Dire Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
+Adds 1 to 2 Fire Damage to Attacks
++1 to maximum Energy Shield
++6 to maximum Life
++9% to Lightning Resistance
++1 Mana gained on Kill

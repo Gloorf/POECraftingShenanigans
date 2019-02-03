@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Onslaught Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
+7% increased Attack Speed
++14 to Accuracy Rating
++8 to Evasion Rating

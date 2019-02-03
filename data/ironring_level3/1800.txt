@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Cataclysm Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
++5 to Accuracy Rating
++18 to maximum Mana
++6% to Fire Resistance

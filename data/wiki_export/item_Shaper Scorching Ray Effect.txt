@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shaper Scorching Ray Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionShaperScorchingRayEffect
+|stack_size                              = 1
+|description                             = Your Scorching Ray becomes a Shaper Effect.
+|cosmetic_type                           = Scorching Ray Skin
+}}

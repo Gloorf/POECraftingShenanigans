@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Sol Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
++5 to Evasion Rating
++5 to maximum Life
++3 Life gained on Kill
++1 Mana gained on Kill

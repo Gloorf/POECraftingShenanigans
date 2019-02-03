@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Gloom Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
+6% increased Attack Speed
++7 to maximum Life
++16 to maximum Mana
+14% increased Mana Regeneration Rate

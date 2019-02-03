@@ -1,0 +1,25 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Light Brigandine
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 8
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_dex_armour, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyStrDex2
+|implicit1                               = MovementVelocityPenaltyLightArmourImplicit
+|purchase_cost_normal1_name              = Armourer's Scrap
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 8
+|required_strength                       = 16
+|required_dexterity                      = 16
+|armour                                  = 48
+|evasion                                 = 48
+}}

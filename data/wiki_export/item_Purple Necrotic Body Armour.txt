@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Purple Necrotic Body Armour
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionClassicNecroticBody
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped body armour to the Classic Necrotic body armour.
+|cosmetic_type                           = Body Armour Skin
+}}

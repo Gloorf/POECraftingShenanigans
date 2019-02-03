@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Carnage Aura Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionDemonVitality
+|stack_size                              = 20
+|description                             = Your aura effect becomes the red carnage effect.
+|cosmetic_type                           = Aura Skin
+}}

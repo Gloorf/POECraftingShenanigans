@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Kaom's Plate
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_armour, not_for_sale, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyStrTemp
+|required_level                          = 1
+|required_strength                       = 14
+|armour                                  = 23
+}}

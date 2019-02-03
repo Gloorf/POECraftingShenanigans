@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Viper Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
+6% increased Cast Speed
++10 to Evasion Rating
++16 to maximum Mana
++6 Life gained on Kill

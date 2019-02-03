@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Entropy Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++7 to maximum Life
++17 to maximum Mana
++8% to Cold Resistance
++1 Mana gained on Kill

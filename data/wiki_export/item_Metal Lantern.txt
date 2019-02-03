@@ -1,0 +1,17 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Metal Lantern
+|class_id                                = HideoutDoodad
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Hideout/HideoutMetalLantern
+|stack_size                              = 20
+|description                             = Creates an object in your hideout
+|help_text                               = Shift click to unstack.
+|is_master_doodad                        = True
+|master                                  = Niko, Master of the Depths
+|master_favour_cost                      = 5200
+|master_level_requirement                = 3
+|variation_count                         = 1
+}}

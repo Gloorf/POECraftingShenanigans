@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Woe Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++17 to maximum Mana
++6% to Fire Resistance
++6% to Cold Resistance
++8% to Lightning Resistance

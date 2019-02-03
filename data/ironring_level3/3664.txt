@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Morbid Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++18 to maximum Mana
++4 Life gained on Kill
++1 Mana gained on Kill

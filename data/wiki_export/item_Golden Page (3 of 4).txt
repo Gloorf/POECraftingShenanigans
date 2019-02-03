@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Page
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = "A waking Nightmare. <br>Madness of the mind? <br>Or madness of the flesh?"<br>- Icius Perandus 
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/GoldenPages/Page3
+|inventory_icon                          = Golden Page (3 of 4)
+}}

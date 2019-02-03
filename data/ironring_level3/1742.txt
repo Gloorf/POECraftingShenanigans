@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Fate Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++1 to maximum Energy Shield
+1.6 Life Regenerated per second
++19 to maximum Mana
++11% to Fire Resistance
++7% to Cold Resistance

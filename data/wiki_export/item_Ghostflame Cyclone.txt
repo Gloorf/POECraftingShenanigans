@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ghostflame Cyclone
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionGhostflameCyclone
+|stack_size                              = 1
+|description                             = Your Cyclone becomes a Ghostflame Effect.
+|cosmetic_type                           = Cyclone Skin
+}}

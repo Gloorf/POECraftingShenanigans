@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Swordfish Ice Spear Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionSwordfishIceSpear
+|stack_size                              = 20
+|description                             = Your Ice Spear becomes a shattering icy swordfish.
+|cosmetic_type                           = Ice Spear Skin
+}}

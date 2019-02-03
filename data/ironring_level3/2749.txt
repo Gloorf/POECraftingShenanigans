@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Dire Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
+Adds 1 to 2 Cold Damage to Attacks
++9 to maximum Life
+1.4 Life Regenerated per second

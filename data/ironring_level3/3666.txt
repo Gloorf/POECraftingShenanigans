@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Corpse Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++17 to maximum Mana
+17% increased Mana Regeneration Rate
++10% to Lightning Resistance

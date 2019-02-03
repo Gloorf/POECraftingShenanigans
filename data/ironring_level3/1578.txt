@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Corruption Grasp
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
++1 to maximum Energy Shield
++19 to maximum Mana
+15% increased Mana Regeneration Rate

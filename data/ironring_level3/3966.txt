@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Apocalypse Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Attack Speed
++2 to maximum Energy Shield
++4 to maximum Life
++19 to maximum Mana
+11% increased Mana Regeneration Rate
++5 Life gained on Kill

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Classic Weapon Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionClassicWeaponEffect
+|stack_size                              = 20
+|description                             = Adds the Classic effect to any equipped weapon.
+|cosmetic_type                           = Weapon Effect
+}}

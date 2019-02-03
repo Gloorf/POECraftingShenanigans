@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Carrion Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+6% increased Cast Speed
++3 to maximum Life
++1 Mana gained on Kill

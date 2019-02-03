@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Corpse Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
++16 to maximum Mana
+10% increased Mana Regeneration Rate
++8% to Cold Resistance

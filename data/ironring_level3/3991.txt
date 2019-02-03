@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Doom Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
+1.9 Life Regenerated per second
++16 to maximum Mana
++3 Life gained on Kill

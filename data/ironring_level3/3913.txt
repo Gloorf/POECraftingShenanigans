@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Death Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
+5% increased Cast Speed
++9 to Evasion Rating
+16% increased Mana Regeneration Rate

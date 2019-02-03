@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Boon of the First Ones
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Wreathed in the skin and bones<br>of the beasts she slew, <br>her gift came from what she lost: <br>her humanity.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardBoonOfTheFirstOnes
+|stack_size                              = 6
+|description                             = {{c|unique|Bestiary Item}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

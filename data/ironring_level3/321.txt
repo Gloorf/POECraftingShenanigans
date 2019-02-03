@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Phoenix Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++3 to maximum Energy Shield
++5 to maximum Life
+1.4 Life Regenerated per second

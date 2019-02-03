@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Hypnotic Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
++9 to Evasion Rating
++1 to maximum Energy Shield
++16 to maximum Mana
++10% to Lightning Resistance
++4 Life gained on Kill

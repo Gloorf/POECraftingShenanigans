@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Driftwood Spiked Shield
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 12
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dex_int_armour, dex_int_shield, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldDexInt2
+|implicit1                               = MovementVelocityPenaltyLightShieldImplicit
+|implicit2                               = ChanceToDodgeImplicitShield1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 12
+|required_dexterity                      = 19
+|required_intelligence                   = 19
+|evasion                                 = 46
+|energy_shield                           = 10
+|block                                   = 24
+}}

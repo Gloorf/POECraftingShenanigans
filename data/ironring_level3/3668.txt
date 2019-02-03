@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Viper Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++12 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
++6 to maximum Life
+1 Life Regenerated per second

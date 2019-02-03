@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Prosperity
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Accumulating wealth has its own costs.
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardProsperity
+|stack_size                              = 10
+|description                             = {{c|magic|Perandus' Gold Ring}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

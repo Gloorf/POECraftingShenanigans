@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Stygian Molten Strike Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionStygianMoltenStrikeEffect
+|stack_size                              = 1
+|description                             = Your Molten Strike becomes a Stygian Effect.
+|cosmetic_type                           = Molten Strike Skin
+}}

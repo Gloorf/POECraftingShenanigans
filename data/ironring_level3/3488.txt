@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Blight Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++12 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
++11 to Accuracy Rating
++19 to maximum Mana

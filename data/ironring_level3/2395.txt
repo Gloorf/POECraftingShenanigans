@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Apocalypse Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to all Attributes
++8 to Accuracy Rating
++9 to Evasion Rating
++8 to maximum Life
+1.3 Life Regenerated per second

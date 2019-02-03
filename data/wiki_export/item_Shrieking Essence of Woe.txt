@@ -1,0 +1,30 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shrieking Essence of Woe
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 0
+|tags                                    = essence, currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyEssenceWoe6
+|stack_size                              = 9
+|description                             = Upgrades a normal item to rare or reforges a rare item, guaranteeing one property<br />One Handed Weapon: (57-62)% increased [[Spell Damage]]<br />Two Handed Weapon: (85-94)% increased [[Spell Damage]]<br />Body Armour: +(73-82) to maximum [[Energy Shield]]<br />Helmet: +(46-51) to maximum [[Energy Shield]]<br />Shield: +(60-69) to maximum [[Energy Shield]]<br />Other Armour: +(28-35) to maximum [[Energy Shield]]<br />Quiver: (35-38)% increased [[Elemental Damage]] with [[Attack]] [[Skill|Skills]]<br />Amulet: (17-18)% increased maximum [[Energy Shield]]<br />Ring: +(38-43) to maximum [[Energy Shield]]<br />Belt: +(32-37) to maximum [[Energy Shield]]
+|help_text                               = Right click this item then left click a normal or rare item to apply it.<br>Shift click to unstack.
+|stack_size_currency_tab                 = 5000
+|essence_level                           = 6
+|essence_monster_modifier_ids            = EssenceDaemonModLifeAndDamageLevel6
+|is_essence                              = True
+|upgraded_from_set1_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceWoe5
+|upgraded_from_set1_group1_amount        = 3
+|upgraded_from_set2_text                 = +1 level {{c|corrupted|corruption}} outcome
+|upgraded_from_set2_group1_item_id       = Metadata/Items/Currency/CurrencyEssenceWoe5
+|upgraded_from_set2_group1_amount        = 1
+|upgraded_from_set2_group2_item_id       = Metadata/Items/Currency/CurrencyCorruptMonolith
+|upgraded_from_set2_group2_amount        = 1
+|upgraded_from_set3_text                 = random {{c|currency|Shrieking Essence}}
+|upgraded_from_set3_group1_item_id       = Metadata/Items/DivinationCards/DivinationCardHarmonyOfSouls
+|upgraded_from_set3_group1_amount        = 9
+|upgraded_from_set4_text                 = random {{c|currency|Essence}}
+|upgraded_from_set4_group1_item_id       = Metadata/Items/DivinationCards/DivinationCardThreeVoices
+|upgraded_from_set4_group1_amount        = 3
+}}

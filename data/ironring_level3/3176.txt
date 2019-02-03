@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Spirit Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++18 to maximum Mana
+15% increased Mana Regeneration Rate
++3 Life gained on Kill

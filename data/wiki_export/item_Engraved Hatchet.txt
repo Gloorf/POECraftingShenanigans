@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Engraved Hatchet
+|class_id                                = One Hand Axe
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 56
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, maraketh, axe, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandAxes/OneHandAxeM2
+|implicit1                               = IncreasedPhysicalDamagePercentImplicitMarakethOneHandAxe1
+|required_level                          = 56
+|required_strength                       = 143
+|required_dexterity                      = 66
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.35
+|physical_damage_min                     = 40
+|physical_damage_max                     = 71
+|weapon_range                            = 9
+}}

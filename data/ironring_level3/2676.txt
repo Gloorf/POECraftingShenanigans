@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Agony Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Evasion Rating
++5 to maximum Life
+1.9 Life Regenerated per second
++1 Mana gained on Kill

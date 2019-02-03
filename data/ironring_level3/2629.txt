@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Eagle Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++2 to all Attributes
+5% increased Attack Speed
++9 to Evasion Rating
+8% increased Rarity of Items found

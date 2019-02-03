@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Foe Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++3 to maximum Energy Shield
++16 to maximum Mana
++8% to Cold Resistance
++3 Life gained on Kill

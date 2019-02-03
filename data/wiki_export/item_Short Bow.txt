@@ -1,0 +1,26 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Short Bow
+|class_id                                = Bow
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 5
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = bow, ranged, two_hand_weapon, twohand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/TwoHandWeapons/Bows/Bow2
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Blacksmith's Whetstone
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 5
+|required_dexterity                      = 26
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.5
+|physical_damage_min                     = 6
+|physical_damage_max                     = 16
+|weapon_range                            = 120
+}}

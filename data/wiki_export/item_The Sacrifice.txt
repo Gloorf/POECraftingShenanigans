@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Sacrifice
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = For some, the price of power is never too great.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheSacrifice
+|stack_size                              = 4
+|description                             = {{c|white|Six-Link Sacrificial Garb}}<br>{{c|default|Item Level:}} {{c|normal|100}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

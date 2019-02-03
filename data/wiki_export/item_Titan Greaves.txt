@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Titan Greaves
+|class_id                                = Boots
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 68
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_armour, boots, armour, default
+|metadata_id                             = Metadata/Items/Armours/Boots/BootsStr9
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 68
+|required_strength                       = 120
+|armour                                  = 241
+}}

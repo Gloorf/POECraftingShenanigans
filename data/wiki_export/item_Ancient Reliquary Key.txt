@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ancient Reliquary Key
+|class_id                                = MiscMapItem
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Whispered memory,<br>A shimmer in the darkness.<br>Forgotten no more.
+|drop_level                              = 35
+|drop_rarities                           = Normal
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/ClassicVaultKey
+|help_text                               = Travel to the Ancient Reliquary by using this item in the Templar Laboratory or a personal Map Device. Can only be used once.
+}}

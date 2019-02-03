@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Hate Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Attack Speed
++5 to Evasion Rating
+1 Life Regenerated per second
+11% increased Mana Regeneration Rate

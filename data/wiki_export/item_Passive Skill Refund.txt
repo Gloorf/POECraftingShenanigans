@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Passive Skill Refund
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MicrotransactionCurrency/MicrotransactionGarenaPassiveRefund
+|stack_size                              = 100
+|description                             = Grants a passive skill refund point
+}}

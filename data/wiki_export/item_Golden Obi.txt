@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Obi
+|class_id                                = Belt
+|size_x                                  = 2
+|size_y                                  = 1
+|drop_level                              = 12
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, belt, default
+|metadata_id                             = Metadata/Items/Belts/BeltDemigods1
+|implicit1                               = ItemFoundRarityIncreaseImplicitDemigodsBelt1
+}}

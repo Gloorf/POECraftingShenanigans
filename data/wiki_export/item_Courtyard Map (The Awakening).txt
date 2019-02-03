@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Courtyard Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 80
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = forest, swamp, urban, top_tier_map, not_for_sale, map, default
+|metadata_id                             = Metadata/Items/Maps/Map2Tier13_2
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 13
+|map_guild_character                     = ~
+|map_area_id                             = Map2Tier13_2
+|unique_map_guild_character              = ²
+|unique_map_area_id                      = Map2Tier13_2Unique
+|unique_map_area_level                   = 80
+|map_series                              = The Awakening
+|map_area_level                          = 80
+|inventory_icon                          = Courtyard Map (The Awakening)
+|drop_enabled                            = False
+}}

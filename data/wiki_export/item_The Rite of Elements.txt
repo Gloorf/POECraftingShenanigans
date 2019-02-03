@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Rite of Elements
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A mind as quick as lightning, <br>fists as hard as stone, <br>a heart that burns with fury, <br>and eyes that chill to the bone.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheRiteOfElements
+|stack_size                              = 5
+|description                             = {{c|gem|Level 21 Golem Gem}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

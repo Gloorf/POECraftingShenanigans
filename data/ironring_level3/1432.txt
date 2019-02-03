@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Carrion Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++6 to Accuracy Rating
+5% increased Cast Speed
++10 to Evasion Rating
++7% to Lightning Resistance

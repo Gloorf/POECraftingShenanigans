@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Cold Grasp Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionColdSnapHand
+|stack_size                              = 20
+|description                             = Your Cold Snap becomes a grasping hand of frost
+|cosmetic_type                           = Cold Snap Skin
+}}

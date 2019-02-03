@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Chimeric Spiral
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 5 Lightning Damage to Attacks
++13 to Accuracy Rating
++3 to maximum Energy Shield
++6 to maximum Life
++3 Life gained on Kill
++1 Mana gained on Kill

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Behemoth Grasp
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Strength
++4 to Evasion Rating
++3 to maximum Energy Shield
+1.5 Life Regenerated per second
++17 to maximum Mana
+7% increased Rarity of Items found

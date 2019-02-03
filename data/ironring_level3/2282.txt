@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Onslaught Twirl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
+5% increased Cast Speed
++1 to maximum Energy Shield
++7 to maximum Life
+14% increased Mana Regeneration Rate

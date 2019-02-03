@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Vengeance Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++6 to Evasion Rating
+1.3 Life Regenerated per second
++19 to maximum Mana
++5 Life gained on Kill

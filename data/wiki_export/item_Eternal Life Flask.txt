@@ -1,0 +1,26 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Eternal Life Flask
+|class_id                                = LifeFlask
+|size_x                                  = 1
+|size_y                                  = 2
+|drop_level                              = 65
+|drop_rarities                           = Normal, Magic, Unique
+|tags                                    = not_for_sale, life_flask, flask, default
+|metadata_id                             = Metadata/Items/Flasks/FlaskLife12
+|help_text                               = Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+|implicit1                               = FlaskLevelRequirement70
+|purchase_cost_normal1_name              = Chaos Orb
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 65
+|flask_life                              = 2080
+|flask_duration                          = 4
+|charges_max                             = 45
+|charges_per_use                         = 15
+}}

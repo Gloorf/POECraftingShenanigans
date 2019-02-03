@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Chimeric Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++9 to Evasion Rating
++18 to maximum Mana
+13% increased Mana Regeneration Rate
++6% to Lightning Resistance

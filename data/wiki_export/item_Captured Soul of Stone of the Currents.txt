@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Captured Soul of Stone of the Currents
+|class_id                                = PantheonSoul
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = Once beneath a moonlit sky, Lunaris bathed her child in the ocean's tide.<br>Though the waters were frigid with icy death, the boy was sick and<br>couldn't be healthy until he was silent, clean and still...
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/PantheonSouls/PantheonSoulLunarisUpgrade1
+|help_text                               = A captured Soul. Give to Sin to unlock a secondary Pantheon Power.
+}}

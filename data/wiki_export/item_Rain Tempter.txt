@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Rain Tempter
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Be like water, friend.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardRainTempter
+|stack_size                              = 9
+|description                             = {{c|white|{{il|Strand Map|html=}}}}<br>{{c|default|Item Level:}} {{c|normal|73}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

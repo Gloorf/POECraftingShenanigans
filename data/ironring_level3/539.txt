@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Entropy Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++13 to Accuracy Rating
++7 to Evasion Rating
++3 to maximum Energy Shield
+15% increased Mana Regeneration Rate
++9% to Cold Resistance

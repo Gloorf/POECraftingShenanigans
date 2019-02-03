@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Allflame
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = Distilled from naked ambition and unfettered obsession,<br>the Allflame emanates a silvern warmth like no other, <br>and engulfs those moths fool enough to embrace it.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/AllFlameLantern1
+}}

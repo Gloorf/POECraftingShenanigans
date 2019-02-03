@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Spirit Grasp
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
++1 to maximum Energy Shield
++7% to Fire Resistance
++1 Mana gained on Kill

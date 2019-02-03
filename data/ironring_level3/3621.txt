@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Skull Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Evasion Rating
++9 to maximum Life
+6% increased Rarity of Items found
++8% to Fire Resistance
++8% to Lightning Resistance

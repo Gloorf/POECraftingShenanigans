@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Apocalypse Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Attack Speed
++3 to Evasion Rating
++3 to maximum Life
+1.5 Life Regenerated per second
++15 to maximum Mana
+18% increased Mana Regeneration Rate

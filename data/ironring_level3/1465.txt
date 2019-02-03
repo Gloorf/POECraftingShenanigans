@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Corruption Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++4 to all Attributes
++13 to Accuracy Rating
++2 to maximum Energy Shield
+1.3 Life Regenerated per second

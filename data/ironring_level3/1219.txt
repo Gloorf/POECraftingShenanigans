@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Rapture Loop
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Cast Speed
++9 to maximum Life
++19 to maximum Mana
+9% increased Rarity of Items found
++10% to Cold Resistance

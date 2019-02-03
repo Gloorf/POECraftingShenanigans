@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Teardrop
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = "T'gnagn iia y r'ngusla ph'tu Tsoatha nga mekghul'an."<br> - Indecipherable verse
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act10/Teardrop
+}}

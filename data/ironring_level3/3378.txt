@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Grim Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Dexterity
++10 to Evasion Rating
++9% to Cold Resistance
++1 Mana gained on Kill

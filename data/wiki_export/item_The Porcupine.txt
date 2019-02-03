@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Porcupine
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The first quill separates the quick learners from the dead.
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardThePorcupine
+|stack_size                              = 6
+|description                             = {{c|white|Six-Link Short Bow}}<br>{{c|default|Item Level:}} {{c|normal|50}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

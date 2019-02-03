@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Agony Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to maximum Life
+1.3 Life Regenerated per second
++17 to maximum Mana
+14% increased Mana Regeneration Rate
++8% to Lightning Resistance

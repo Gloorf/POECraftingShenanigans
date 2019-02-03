@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Vengeance Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
++13 to Accuracy Rating
++4 to Evasion Rating
++15 to maximum Mana
++9% to Fire Resistance
++3 Life gained on Kill

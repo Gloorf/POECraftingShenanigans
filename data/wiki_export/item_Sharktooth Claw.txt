@@ -1,0 +1,28 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sharktooth Claw
+|class_id                                = Claw
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 7
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = claw, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/Claws/Claw2
+|implicit1                               = LifeGainPerTargetImplicit2Claw2
+|purchase_cost_normal1_name              = Blacksmith's Whetstone
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 7
+|required_dexterity                      = 14
+|required_intelligence                   = 20
+|critical_strike_chance                  = 6.5
+|attack_speed                            = 1.4
+|physical_damage_min                     = 7
+|physical_damage_max                     = 18
+|weapon_range                            = 9
+}}

@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ceremonial Axe
+|class_id                                = One Hand Axe
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 51
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = axe, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe14
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 51
+|required_strength                       = 134
+|required_dexterity                      = 39
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.2
+|physical_damage_min                     = 45
+|physical_damage_max                     = 83
+|weapon_range                            = 9
+}}

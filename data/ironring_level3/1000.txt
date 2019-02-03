@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Armageddon Band
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
++3 to Evasion Rating
++1 to maximum Energy Shield
+7% increased Rarity of Items found

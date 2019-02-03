@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Brittle Emperor
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "When Voll spared Malachai, accepting his aid in pursuit of Purity, the strongest faith was infected by Corruption and made brittle as glass."<br>- Victario, the People's Poet
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheBrittleEmperor
+|stack_size                              = 8
+|description                             = {{c|unique|{{il|Voll's Devotion|html=}}}}<br>{{c|corrupted|[[Corrupted]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

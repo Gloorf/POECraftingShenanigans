@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Agony Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
++3 to Evasion Rating
++18 to maximum Mana
+10% increased Mana Regeneration Rate
++8% to Cold Resistance

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Win Fireworks
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionFireworks
+|stack_size                              = 100
+|description                             = Celebrate your victory with these opulent fireworks.
+|cosmetic_type                           = Consumable Effect
+}}

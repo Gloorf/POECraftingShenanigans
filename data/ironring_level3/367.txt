@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rift Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++7 to Accuracy Rating
++18 to maximum Mana
++4 Life gained on Kill

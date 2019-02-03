@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Olmec Totem Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionOlmecTotem
+|stack_size                              = 20
+|description                             = Your Spell or Ranged Attack totem becomes a carved stone totem with two faces.
+|cosmetic_type                           = Totem Skin
+}}

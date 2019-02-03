@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Brood Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++7 to Evasion Rating
++8 to maximum Life
++19 to maximum Mana
+16% increased Mana Regeneration Rate
++10% to Lightning Resistance
++5 Life gained on Kill

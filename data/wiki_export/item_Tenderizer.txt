@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Tenderizer
+|class_id                                = One Hand Mace
+|size_x                                  = 1
+|size_y                                  = 3
+|drop_level                              = 58
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = mace, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandMaces/OneHandMace17
+|implicit1                               = StunThresholdReductionImplicitMace1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 58
+|required_strength                       = 185
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.4
+|physical_damage_min                     = 49
+|physical_damage_max                     = 62
+|weapon_range                            = 9
+}}

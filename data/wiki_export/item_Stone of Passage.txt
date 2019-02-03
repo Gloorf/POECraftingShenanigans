@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Stone of Passage
+|class_id                                = IncursionItem
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/Incursion/IncursionKey
+|help_text                               = This item can be placed into an Altar of Passage to create a connection between two adjacent rooms in the Temple of Atzoatl. This item will drop on the ground when leaving an Incursion.
+}}

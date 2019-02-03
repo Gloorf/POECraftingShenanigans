@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Tul's Enriched Breachstone
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 70
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/CurrencyBreachFragmentCold3
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+}}

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Fingerless Silk Gloves
+|class_id                                = Gloves
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 70
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, atlas_base_type, glovesatlasint, int_armour, gloves, armour, default
+|metadata_id                             = Metadata/Items/Armours/Gloves/GlovesAtlasInt
+|implicit1                               = SpellDamageImplicitGloves1
+|required_level                          = 70
+|required_intelligence                   = 95
+|energy_shield                           = 43
+}}

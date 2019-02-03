@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Tempest Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
+Adds 1 to 2 Cold Damage to Attacks
+7% increased Cast Speed
++9 to maximum Life
+12% increased Mana Regeneration Rate

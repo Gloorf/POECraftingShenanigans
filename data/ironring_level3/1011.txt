@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Torment Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
++5 to Evasion Rating
++16 to maximum Mana
++8% to Lightning Resistance
++6 Life gained on Kill

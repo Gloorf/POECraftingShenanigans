@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Corpse Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++11 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
++4 to maximum Life
++10% to Cold Resistance

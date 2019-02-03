@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Damnation Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Dexterity
++9 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
+5% increased Cast Speed
++18 to maximum Mana

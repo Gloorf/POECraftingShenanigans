@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Arc of Defiance
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionArcOfDefiance
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped bow to an Arc of Defiance.
+|cosmetic_type                           = Weapon Skin
+}}

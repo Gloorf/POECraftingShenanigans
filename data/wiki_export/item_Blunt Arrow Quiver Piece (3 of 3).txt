@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Blunt Arrow Quiver Piece
+|class_id                                = UniqueFragment
+|size_x                                  = 2
+|size_y                                  = 1
+|drop_level                              = 1
+|drop_rarities                           = Unique
+|tags                                    = default
+|metadata_id                             = Metadata/Items/UniqueFragments/FragmentUniqueQuiver1_3
+|help_text                               = This item will transform when correctly arranged with other items.
+|inventory_icon                          = Blunt Arrow Quiver Piece (3 of 3)
+}}

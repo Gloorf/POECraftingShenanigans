@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Damnation Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++9 to Evasion Rating
+1 Life Regenerated per second
++7% to Fire Resistance

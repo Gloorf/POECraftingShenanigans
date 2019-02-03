@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Sorrow Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
+Adds 1 to 2 Fire Damage to Attacks
++6 to maximum Life
+2.0 Life Regenerated per second

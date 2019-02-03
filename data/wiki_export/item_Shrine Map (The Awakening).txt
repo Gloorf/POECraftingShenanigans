@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Shrine Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 81
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = temple, dungeon, indoors_area, top_tier_map, not_for_sale, map, default
+|metadata_id                             = Metadata/Items/Maps/Map2Tier14_2
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 14
+|map_guild_character                     = €
+|map_area_id                             = Map2Tier14_2
+|unique_map_guild_character              = %
+|map_series                              = The Awakening
+|map_area_level                          = 81
+|inventory_icon                          = Shrine Map (The Awakening)
+|drop_enabled                            = False
+}}

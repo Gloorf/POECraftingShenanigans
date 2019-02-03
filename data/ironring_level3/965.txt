@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Bramble Coil
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
+7% increased Cast Speed
++8 to maximum Life
+8% increased Rarity of Items found
++6% to Lightning Resistance

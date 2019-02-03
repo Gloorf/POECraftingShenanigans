@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Dread Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
++3 to maximum Life
++19 to maximum Mana

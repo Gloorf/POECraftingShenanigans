@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Fate Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Dexterity
++4 to Evasion Rating
++8 to maximum Life
+17% increased Mana Regeneration Rate

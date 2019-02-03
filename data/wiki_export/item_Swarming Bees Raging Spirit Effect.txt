@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Swarming Bees Raging Spirit Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionSummonRagingBees
+|stack_size                              = 20
+|description                             = Your Summon Raging Spirit now creates swarms of bees.
+|cosmetic_type                           = Summon Raging Spirit Skin
+}}

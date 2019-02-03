@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Mortal Rage
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = We are but dogs, howling at an uncaring moon.
+|drop_level                              = 70
+|tags                                    = atziri2, default
+|metadata_id                             = Metadata/Items/MapFragments/VaalFragment2_1
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = VaalFragmentImplicit2
+}}

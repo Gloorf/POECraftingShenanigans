@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Bramble Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++7 to Evasion Rating
++19 to maximum Mana
+17% increased Mana Regeneration Rate

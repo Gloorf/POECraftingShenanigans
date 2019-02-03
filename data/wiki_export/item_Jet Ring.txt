@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Jet Ring
+|class_id                                = Ring
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 15
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, ring, default
+|metadata_id                             = Metadata/Items/Rings/RingVictor1
+|implicit1                               = AllDefensesImplicitJetRing
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Cataclysm Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++4 to Evasion Rating
+17% increased Mana Regeneration Rate
++10% to Lightning Resistance

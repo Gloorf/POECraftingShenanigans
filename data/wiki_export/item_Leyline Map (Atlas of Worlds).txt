@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Leyline Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 80
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = top_tier_map, swamp, beach, not_for_sale, map, default
+|metadata_id                             = Metadata/Items/Maps/MapAtlasSulphurWastes
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 13
+|map_guild_character                     = z
+|map_area_id                             = MapAtlasSulphurWastes
+|map_series                              = Atlas of Worlds
+|map_area_level                          = 80
+|inventory_icon                          = Leyline Map (Atlas of Worlds)
+|drop_enabled                            = False
+}}

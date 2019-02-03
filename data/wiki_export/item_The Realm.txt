@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Realm
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = If you wish to rush into strange places, be prepared to face strange things.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheRealm
+|stack_size                              = 5
+|description                             = {{c|gem|Superior Portal}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

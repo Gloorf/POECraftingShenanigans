@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Hypnotic Finger
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++13 to Accuracy Rating
+5% increased Cast Speed
++19 to maximum Mana
+16% increased Mana Regeneration Rate

@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Grim Turn
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++8 to Evasion Rating
++9 to maximum Life
+7% increased Rarity of Items found

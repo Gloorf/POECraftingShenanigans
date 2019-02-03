@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Lover
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "I wanted to give you three things. I've given you my eternal love. I've sung to you my most beautiful song. I'd have given you the moon last, but it couldn't be found. I hope you'll accept this instead."
+|drop_level                              = 1
+|tags                                    = jewellery_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheLover
+|stack_size                              = 2
+|description                             = {{c|rare|Jewellery}}<br>{{c|default|Item Level:}} {{c|normal|79}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

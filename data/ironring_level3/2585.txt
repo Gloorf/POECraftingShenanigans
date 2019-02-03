@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Blood Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
+Adds 1 to 2 Cold Damage to Attacks
+1.7 Life Regenerated per second
++10% to Fire Resistance

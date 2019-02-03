@@ -1,0 +1,24 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Dragonscale Boots
+|class_id                                = Boots
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 65
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_dex_armour, boots, armour, default
+|metadata_id                             = Metadata/Items/Armours/Boots/BootsStrDex8
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 65
+|required_strength                       = 62
+|required_dexterity                      = 62
+|armour                                  = 121
+|evasion                                 = 121
+}}

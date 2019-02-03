@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Onslaught Circle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Intelligence
+7% increased Attack Speed
++5 to maximum Life
++11% to Cold Resistance

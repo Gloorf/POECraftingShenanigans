@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Last Hope
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = As their civilisation crumbled, the Vaal looked to their queen. In her, they saw a way out. In them, she saw a burden she was happy to free herself from.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardLastHope
+|stack_size                              = 3
+|description                             = {{c|white|[[Mortal Hope]]}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

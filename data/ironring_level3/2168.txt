@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Horror Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
+Adds 1 to 2 Fire Damage to Attacks
+14% increased Mana Regeneration Rate
++10% to Lightning Resistance

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Wrath Coil
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++1 to maximum Energy Shield
++7 to maximum Life
++15 to maximum Mana
+19% increased Mana Regeneration Rate
+9% increased Rarity of Items found
++4 Life gained on Kill

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Devil Horns
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionDevilHorns
+|stack_size                              = 1
+|description                             = Adds a pair of Devil Horns to any equipped headdress.
+|cosmetic_type                           = Helmet Skin
+}}

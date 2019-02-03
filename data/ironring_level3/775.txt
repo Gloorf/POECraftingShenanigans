@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Ghoul Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++13 to Accuracy Rating
++8 to Evasion Rating
+1 Life Regenerated per second
++10% to Cold Resistance

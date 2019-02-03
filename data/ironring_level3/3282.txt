@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Sorrow Band
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++7 to Evasion Rating
++3 to maximum Energy Shield
+1.6 Life Regenerated per second
++19 to maximum Mana
+11% increased Mana Regeneration Rate
++9% to Fire Resistance

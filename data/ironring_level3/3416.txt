@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Dusk Whorl
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++4 to all Attributes
+Adds 1 to 2 Cold Damage to Attacks
++18 to maximum Mana
+10% increased Rarity of Items found
++6 Life gained on Kill

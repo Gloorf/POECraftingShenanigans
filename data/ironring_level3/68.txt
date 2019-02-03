@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Victory Knot
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++6 to Accuracy Rating
++3 to Evasion Rating
++2 to maximum Energy Shield
+1.2 Life Regenerated per second
++15 to maximum Mana
+8% increased Rarity of Items found

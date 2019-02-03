@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Entropy Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Strength
++10 to Evasion Rating
++5 to maximum Life
++15 to maximum Mana
++11% to Lightning Resistance
++1 Mana gained on Kill

@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Bound Fossil
+|class_id                                = StackableCurrency
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|tags                                    = currency, default
+|metadata_id                             = Metadata/Items/Currency/CurrencyDelveCraftingMinionsAuras
+|stack_size                              = 1
+|description                             = More Minion or Aura modifiers
+|help_text                               = Place in a Resonator to influence item crafting.
+}}

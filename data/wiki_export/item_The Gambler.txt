@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Gambler
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "I don't believe in karma. If it were real, I would never win."
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheGambler
+|stack_size                              = 5
+|description                             = {{c|divination|Divination Card}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Vanguard Weapon Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionVanguardWeaponEffect
+|stack_size                              = 1
+|description                             = Adds the Vanguard Weapon Effect to any equipped weapon.
+|cosmetic_type                           = Weapon Effect
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ebony Tornado Shot
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionEbonyTornadoShot
+|stack_size                              = 20
+|description                             = Your Tornado Shot becomes an Ebony Effect.
+|cosmetic_type                           = Tornado Shot Skin
+}}

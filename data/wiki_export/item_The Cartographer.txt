@@ -1,0 +1,14 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Cartographer
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = It's always easier to find your way if you draw a map of the progress you've made.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheCartographer
+|stack_size                              = 1
+|description                             = {{c|currency|10x {{il|Cartographer's Chisel|html=}}}}
+|stack_size_currency_tab                 = 5000
+}}

@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Mantle
+|class_id                                = Body Armour
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 20
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_dex_int_armour, not_for_sale, body_armour, armour, default
+|metadata_id                             = Metadata/Items/Armours/BodyArmours/BodyDemigods1
+|implicit1                               = AllResistancesDemigodsImplicit
+|required_level                          = 20
+|required_strength                       = 8
+|required_dexterity                      = 8
+|required_intelligence                   = 8
+|armour                                  = 75
+|evasion                                 = 75
+|energy_shield                           = 16
+}}

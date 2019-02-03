@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Watcher
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Strange eyes on top of spines <br>Gaze beyond the veil of time <br>Deep down below the mines <br>A dream of crimson and of grime
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheWatcher
+|stack_size                              = 12
+|description                             = {{c|unique|{{il|Crown of Eyes|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

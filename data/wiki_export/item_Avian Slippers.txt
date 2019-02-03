@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Avian Slippers
+|class_id                                = Boots
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, boots, armour, default
+|metadata_id                             = Metadata/Items/Armours/Boots/BootsDescent1
+|implicit1                               = MovementVelocityDescent2Boots1
+|required_level                          = 1
+}}

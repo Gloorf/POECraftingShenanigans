@@ -1,0 +1,26 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Hubris Circlet
+|class_id                                = Helmet
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 69
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = int_armour, helmet, armour, default
+|metadata_id                             = Metadata/Items/Armours/Helmets/HelmetInt11
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 69
+|required_intelligence                   = 154
+|energy_shield                           = 76
+}}
+
+rowId = 2450 il prend TagsKeys + ot['Base']['tag'] 40
+ot -> InheritsFrom + '.ot'
+ici inheritsFrom AbstractHelmet

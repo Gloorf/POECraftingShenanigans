@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Engraved Skull
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionSkullHelmet1
+|stack_size                              = 1
+|description                             = Changes the appearance of any equipped headdress to an engraved skull.
+|cosmetic_type                           = Helmet Skin
+}}

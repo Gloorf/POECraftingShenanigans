@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Wrath Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
++15 to Accuracy Rating
++15 to maximum Mana
++6% to Lightning Resistance

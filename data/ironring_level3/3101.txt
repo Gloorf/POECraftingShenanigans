@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Maelström Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++5 to Evasion Rating
+17% increased Mana Regeneration Rate
++1 Mana gained on Kill

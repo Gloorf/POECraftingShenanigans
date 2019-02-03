@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Captured Soul of Ambrius, Legion Slayer
+|class_id                                = PantheonSoul
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = But Lunaris refused to admit any wrongdoing. She'd saved her child, had she not?<br>He was safe now, buried beneath the dirt. Conviction gnarled around her fragile mind,<br>and in her pride she rose to seat a deathless throne.
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/PantheonSouls/PantheonSoulLunarisUpgrade3
+|help_text                               = A captured Soul. Give to Sin to unlock a secondary Pantheon Power.
+}}

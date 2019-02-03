@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Arcane Seraph Wings
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionArcaneSeraphWings
+|stack_size                              = 1
+|description                             = Adds the Arcane Seraph Wings Back Attachment to any equipped body armour.
+|cosmetic_type                           = Body Armour Attachment
+}}

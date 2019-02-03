@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Storm Circle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++3 to Evasion Rating
++3 to maximum Energy Shield
++7% to Lightning Resistance
++4 Life gained on Kill

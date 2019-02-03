@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rage Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
+Adds 1 to 2 Fire Damage to Attacks
+15% increased Mana Regeneration Rate
++8% to Fire Resistance

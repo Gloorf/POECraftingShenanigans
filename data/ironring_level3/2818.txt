@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Corruption Loop
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++5 to Evasion Rating
++1 to maximum Energy Shield
+1.7 Life Regenerated per second
++7% to Lightning Resistance
++1 Mana gained on Kill

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Miracle Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++4 to all Attributes
+6% increased Cast Speed
++5 to maximum Life
++8% to Lightning Resistance

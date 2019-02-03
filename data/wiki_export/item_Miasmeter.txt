@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Miasmeter
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 3
+|flavour_text                            = "We shall peer at these cosmic wonderments as they<br>wake and writhe within that deep and nameless dark."<br> - Vilenta, 'Miasmeter: A Thesis'
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act5/Miasmeter
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Heavy Quiver
+|class_id                                = Quiver
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 7
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = quiver, default
+|metadata_id                             = Metadata/Items/Quivers/Quiver4
+|implicit1                               = AddedPhysicalDamageImplicitQuiver1
+}}

@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Battered Foil
+|class_id                                = Thrusting One Hand Sword
+|size_x                                  = 1
+|size_y                                  = 4
+|drop_level                              = 12
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = rapier, sword, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandThrustingSwords/Rapier3
+|implicit1                               = CriticalMultiplierImplicitSword1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 12
+|required_dexterity                      = 47
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.4
+|physical_damage_min                     = 12
+|physical_damage_max                     = 22
+|weapon_range                            = 12
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rift Spiral
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++12 to Intelligence
++2 to all Attributes
++4 to maximum Life

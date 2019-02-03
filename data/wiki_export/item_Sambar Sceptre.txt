@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Sambar Sceptre
+|class_id                                = Sceptre
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 70
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = sceptre, not_for_sale, maraketh, sceptre, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandMaces/SceptreM3
+|implicit1                               = ElementalPenetrationMarakethSceptreImplicit2
+|required_level                          = 70
+|required_strength                       = 121
+|required_intelligence                   = 113
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.3
+|physical_damage_min                     = 42
+|physical_damage_max                     = 78
+|weapon_range                            = 9
+}}

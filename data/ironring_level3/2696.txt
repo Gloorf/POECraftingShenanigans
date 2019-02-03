@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Rune Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
++4 to maximum Life
++15 to maximum Mana
++6% to Cold Resistance
++5 Life gained on Kill

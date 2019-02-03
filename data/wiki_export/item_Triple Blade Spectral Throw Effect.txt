@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Triple Blade Spectral Throw Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionTripleBladeSpectralThrowEffect
+|stack_size                              = 1
+|description                             = Your Spectral Throw becomes a triple blade effect.
+|cosmetic_type                           = Spectral Throw Skin
+}}

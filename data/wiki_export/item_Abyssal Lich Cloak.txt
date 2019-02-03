@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Abyssal Lich Cloak
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionItemEffects/MicrotransactionLichCloak
+|stack_size                              = 1
+|description                             = Adds the Abyssal Lich Cloak Back Attachment to any equipped body armour.
+|cosmetic_type                           = Body Armour Attachment
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Dark Fireworks
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCharacterEffects/MicrotransactionFireworksSoulercoaster
+|stack_size                              = 100
+|description                             = Create swirling dark fireworks above your character.
+|cosmetic_type                           = Consumable Effect
+}}

@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Glyph Knot
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to maximum Energy Shield
+1.6 Life Regenerated per second
++4 Life gained on Kill
++1 Mana gained on Kill

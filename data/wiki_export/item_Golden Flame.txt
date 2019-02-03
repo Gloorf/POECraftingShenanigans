@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Flame
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 15
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldDemigods
+|implicit1                               = MovementVelocityPenaltyLightShieldImplicit
+|implicit2                               = ChaosResistDemigodsTorchImplicit
+|required_level                          = 15
+|block                                   = 20
+}}

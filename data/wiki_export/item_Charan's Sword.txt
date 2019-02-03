@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Charan's Sword
+|class_id                                = One Hand Sword
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 2
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, sword, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/items/Weapons/OneHandWeapons/OneHandSwords/OneHandSwordC
+|implicit1                               = AccuracyPercentImplicitSword1
+|required_level                          = 2
+|required_strength                       = 9
+|required_dexterity                      = 9
+|critical_strike_chance                  = 5
+|attack_speed                            = 1.45
+|physical_damage_min                     = 5
+|physical_damage_max                     = 11
+|weapon_range                            = 9
+}}

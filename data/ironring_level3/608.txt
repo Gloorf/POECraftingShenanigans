@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Phoenix Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Dexterity
+Adds 1 to 2 Cold Damage to Attacks
++3 to Evasion Rating
++18 to maximum Mana
++6% to Cold Resistance
++1 Mana gained on Kill

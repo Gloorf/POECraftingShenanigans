@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Gloom Herald Effect
+|class_id                                = Microtransaction
+|size_x                                  = 1
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionGloomHerald
+|stack_size                              = 20
+|description                             = Your Herald of Ash, Thunder or Ice becomes a dark effect.
+|cosmetic_type                           = Herald Skin
+}}

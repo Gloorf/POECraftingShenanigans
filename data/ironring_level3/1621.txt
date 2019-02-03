@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Oblivion Band
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+7% increased Cast Speed
++5 to Evasion Rating
++2 to maximum Energy Shield
++15 to maximum Mana
++4 Life gained on Kill

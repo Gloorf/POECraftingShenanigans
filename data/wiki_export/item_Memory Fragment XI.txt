@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment XI
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...Lack of progress on the device has given the High Templar cause for suspicion.<br>Clapped in irons, I was lead off to the Theopolis prisons for my insubordination.<br>I must find my way from these chains at all costs. The Elder is coming for us.<br>Only I can save us from this blasphemy that will soon befall Oriath..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment9_2
+}}

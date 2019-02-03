@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Emperor of Purity
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = True to his title,<br>Voll, newly crowned,<br>had many of the<br>Eternal Empire's signature<br>extravagances destroyed.
+|drop_level                              = 1
+|tags                                    = armour_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardEmperorOfPurity
+|stack_size                              = 7
+|description                             = {{c|white|Six-Link Holy Chainmail}}<br>{{c|default|Item Level:}} {{c|normal|60}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

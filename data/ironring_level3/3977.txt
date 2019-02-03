@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Torment Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Strength
++3 to Evasion Rating
++18 to maximum Mana
++5 Life gained on Kill

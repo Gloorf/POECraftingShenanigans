@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Eye of Fury
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|flavour_text                            = "Fear becomes Hatred. <br>Hatred becomes Fury. <br>Thus is Man transformed <br>from Martyr to Maker." <br>- Malachai
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/Act4/KaomGem
+}}

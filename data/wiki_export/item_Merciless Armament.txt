@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Merciless Armament
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "Through thick and thin,<br>blood and bone,<br>a peaceful life<br>is one I can't condone."<br>- Tukohama, Father Of War
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardMercilessArmament
+|stack_size                              = 4
+|description                             = {{c|magic|Merciless Two-Hand Weapon}}<br>{{c|default|Item Level:}} {{c|normal|100}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

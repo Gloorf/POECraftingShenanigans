@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Brood Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+1.1 Life Regenerated per second
++19 to maximum Mana
++11% to Cold Resistance

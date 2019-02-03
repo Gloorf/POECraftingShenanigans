@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Wrath Turn
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+7% increased Attack Speed
++14 to Accuracy Rating
+7% increased Cast Speed
++5 to maximum Life

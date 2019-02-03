@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Skull Nail
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++10 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
+5% increased Cast Speed
++4 Life gained on Kill

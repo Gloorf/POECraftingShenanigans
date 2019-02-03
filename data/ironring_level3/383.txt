@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Victory Finger
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
+Adds 1 to 5 Lightning Damage to Attacks
+1.5 Life Regenerated per second
++10% to Fire Resistance

@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Chimeric Spiral
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
++1 to maximum Energy Shield
++5 to maximum Life
+1.1 Life Regenerated per second
+19% increased Mana Regeneration Rate
++1 Mana gained on Kill

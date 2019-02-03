@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = 20x Classic Fireworks
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCurrency/ProxyFireworksClassic20
+|stack_size                              = 20
+|description                             = Celebrate in style with these flashy fireworks.
+}}

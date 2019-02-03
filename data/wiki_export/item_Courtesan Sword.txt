@@ -1,0 +1,19 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Courtesan Sword
+|class_id                                = Thrusting One Hand Sword
+|size_x                                  = 1
+|size_y                                  = 4
+|drop_level                              = 57
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = rapier, not_for_sale, maraketh, sword, one_hand_weapon, onehand, weapon, default
+|metadata_id                             = Metadata/Items/Weapons/OneHandWeapons/OneHandThrustingSwords/RapierM2
+|implicit1                               = LocalChanceToBleedImplicitMarakethRapier1
+|required_level                          = 57
+|required_dexterity                      = 190
+|critical_strike_chance                  = 6
+|attack_speed                            = 1.55
+|physical_damage_min                     = 29
+|physical_damage_max                     = 60
+|weapon_range                            = 12
+}}

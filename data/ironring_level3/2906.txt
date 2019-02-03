@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Sorrow Knot
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++6 to Evasion Rating
++4 to maximum Life
++18 to maximum Mana
++7% to Fire Resistance
++6 Life gained on Kill

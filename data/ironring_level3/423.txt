@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Pandemonium Hold
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++1 to all Attributes
++5 to Evasion Rating
++15 to maximum Mana
+16% increased Mana Regeneration Rate
++11% to Fire Resistance

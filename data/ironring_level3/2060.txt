@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Dragon Knot
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+5% increased Cast Speed
++3 to maximum Life
+1.2 Life Regenerated per second
+10% increased Rarity of Items found

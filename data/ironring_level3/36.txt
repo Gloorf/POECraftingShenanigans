@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Maelström Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++11 to Intelligence
++5 to Evasion Rating
++5 Life gained on Kill

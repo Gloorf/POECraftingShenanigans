@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Woe Gyre
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++5 to maximum Life
++18 to maximum Mana
++6% to Fire Resistance
++4 Life gained on Kill
++1 Mana gained on Kill

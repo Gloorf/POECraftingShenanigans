@@ -1,0 +1,7 @@
+﻿Rarity: Currency
+Alchemy Shard
+--------
+Stack Size: 8/20
+--------
+A stack of 20 shards becomes an Orb of Alchemy.
+Shift click to unstack.

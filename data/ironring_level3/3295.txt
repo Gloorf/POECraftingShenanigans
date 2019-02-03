@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Phoenix Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Dexterity
+5% increased Cast Speed
++18 to maximum Mana
+14% increased Mana Regeneration Rate

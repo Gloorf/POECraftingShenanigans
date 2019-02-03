@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Jet Amulet
+|class_id                                = Amulet
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 1
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, amulet, default
+|metadata_id                             = Metadata/Items/Amulet/AmuletVictor1
+|implicit1                               = AllResistancesImplicitVictorAmulet
+}}

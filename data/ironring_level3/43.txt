@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Sol Coil
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++15 to Accuracy Rating
+7% increased Cast Speed
++6 to maximum Life
++18 to maximum Mana
++5 Life gained on Kill

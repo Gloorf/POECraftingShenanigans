@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Book of Reform
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/SkillBooks/BanditRespecAlira
+|description                             = Gains Alira's favour.
+|help_text                               = A Book of Reform. Use to gain Alira's favour.
+}}

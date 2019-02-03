@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Horror Loop
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Dexterity
++8 to Evasion Rating
+12% increased Mana Regeneration Rate
++7% to Fire Resistance

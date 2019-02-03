@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Brimstone Band
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++8 to Intelligence
+Adds 1 to 2 Fire Damage to Attacks
+1.3 Life Regenerated per second
+14% increased Mana Regeneration Rate

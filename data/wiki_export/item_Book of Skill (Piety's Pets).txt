@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Book of Skill
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/SkillBooks/Book-a3q9
+|description                             = Grants a Passive Skill Point
+|help_text                               = A Book of Skill. Right-click to gain a Passive Skill Point.
+}}

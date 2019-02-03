@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Golem Loop
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Cold Damage to Attacks
++18 to maximum Mana
+7% increased Rarity of Items found
++7% to Fire Resistance
++1 Mana gained on Kill

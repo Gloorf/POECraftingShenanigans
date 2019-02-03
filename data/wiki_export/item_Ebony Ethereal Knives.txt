@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Ebony Ethereal Knives
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionEbonyEtherealKnives
+|stack_size                              = 1
+|description                             = Your Ethereal Knives becomes a volley of ebony knives.
+|cosmetic_type                           = Ethereal Knives Skin
+}}

@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Gloom Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++7 to Evasion Rating
++16 to maximum Mana
+16% increased Mana Regeneration Rate
++7% to Fire Resistance

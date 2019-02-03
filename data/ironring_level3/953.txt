@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Rune Grip
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to maximum Life
+1.5 Life Regenerated per second
++7% to Fire Resistance
++6% to Cold Resistance

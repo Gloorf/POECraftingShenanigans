@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Havoc Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Attack Speed
++2 to maximum Energy Shield
++8 to maximum Life
++17 to maximum Mana
++7% to Fire Resistance

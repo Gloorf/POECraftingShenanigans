@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Havoc Grasp
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++6 to Accuracy Rating
++4 to maximum Life
+15% increased Mana Regeneration Rate
++6% to Cold Resistance

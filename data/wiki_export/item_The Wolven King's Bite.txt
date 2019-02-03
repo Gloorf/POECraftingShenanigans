@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Wolven King's Bite
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = A wolf does not bite his mate as he does his prey, yet both begin with bared teeth. Know who you are, and you will know the meaning of the bite.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheWolvenKingsBite
+|stack_size                              = 8
+|description                             = {{c|unique|{{il|Rigwald's Quills|html=}}}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Pandemonium Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
+6% increased Attack Speed
+1.2 Life Regenerated per second
++18 to maximum Mana

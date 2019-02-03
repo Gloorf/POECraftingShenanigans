@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Grim Twirl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++2 to all Attributes
+7% increased Cast Speed
++3 to maximum Life
++9% to Lightning Resistance

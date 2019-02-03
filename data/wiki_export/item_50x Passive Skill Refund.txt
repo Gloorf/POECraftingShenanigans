@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = 50x Passive Skill Refund
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 1
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionCurrency/ProxyGarenaPassiveRefundPack50
+|stack_size                              = 50
+|description                             = Grants a passive skill refund point
+}}

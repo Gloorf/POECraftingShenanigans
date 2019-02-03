@@ -1,0 +1,22 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Overgrown Shrine Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 79
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = not_for_sale, indoors_area, temple, map, default
+|metadata_id                             = Metadata/Items/Maps/MapWorldsOvergrownShrine
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|map_tier                                = 12
+|map_guild_character                     = ¾
+|map_area_id                             = MapWorldsOvergrownShrine
+|unique_map_guild_character              = Ô
+|unique_map_area_id                      = MapWorldsOvergrownShrineUnique
+|unique_map_area_level                   = 79
+|map_series                              = War for the Atlas
+|map_area_level                          = 79
+|inventory_icon                          = Overgrown Shrine Map (War for the Atlas)
+|drop_enabled                            = False
+}}

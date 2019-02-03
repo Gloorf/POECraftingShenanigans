@@ -1,0 +1,26 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Giant Mana Flask
+|class_id                                = ManaFlask
+|size_x                                  = 1
+|size_y                                  = 2
+|drop_level                              = 24
+|drop_rarities                           = Normal, Magic, Unique
+|tags                                    = mana_flask, flask, default
+|metadata_id                             = Metadata/Items/Flasks/FlaskMana6
+|help_text                               = Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+|implicit1                               = FlaskLevelRequirement34
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Transmutation
+|purchase_cost_magic1_amount             = 3
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 24
+|flask_mana                              = 340
+|flask_duration                          = 7
+|charges_max                             = 40
+|charges_per_use                         = 10
+}}

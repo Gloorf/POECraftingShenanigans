@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Dread Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
++8 to maximum Life
++16 to maximum Mana
+16% increased Mana Regeneration Rate
++8% to Fire Resistance

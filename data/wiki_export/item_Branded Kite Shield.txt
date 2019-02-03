@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Branded Kite Shield
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 3
+|drop_level                              = 59
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = str_int_armour, str_int_shield, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldStrInt10
+|implicit1                               = MovementVelocityPenaltyLightShieldImplicit
+|implicit2                               = AllResistancesImplicitShield1
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 1
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 2
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 1
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 5
+|required_level                          = 59
+|required_strength                       = 76
+|required_intelligence                   = 76
+|armour                                  = 186
+|energy_shield                           = 36
+|block                                   = 24
+}}

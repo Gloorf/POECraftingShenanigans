@@ -1,0 +1,25 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Imperial Buckler
+|class_id                                = Shield
+|size_x                                  = 2
+|size_y                                  = 2
+|drop_level                              = 69
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = dex_armour, dex_shield, shield, armour, default
+|metadata_id                             = Metadata/Items/Armours/Shields/ShieldDex16
+|implicit1                               = MovementVelocityPenaltyLightShieldImplicit
+|implicit2                               = MovementVelocityImplicitShield2
+|purchase_cost_normal1_name              = Orb of Transmutation
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+|required_level                          = 69
+|required_dexterity                      = 159
+|evasion                                 = 385
+|block                                   = 25
+}}

@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Demonic Spectral Throw Effect
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionCultistSpectralThrowEffect
+|stack_size                              = 1
+|description                             = Your Spectral Throw becomes a demonic effect.
+|cosmetic_type                           = Spectral Throw Skin
+}}

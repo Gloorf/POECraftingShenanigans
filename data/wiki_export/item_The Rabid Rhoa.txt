@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = The Rabid Rhoa
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = "Experiment 22A: Rhoas, when deprived of water, secrete a most delightfully potent toxin."<br>- Maligaro
+|drop_level                              = 1
+|tags                                    = weapon_divination, divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardTheRabidRhoa
+|stack_size                              = 4
+|description                             = {{c|magic|Malicious Gemini Claw}}<br>{{c|default|Item Level:}} {{c|normal|83}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

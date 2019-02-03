@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Soul Band
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Dexterity
+Adds 1 to 5 Lightning Damage to Attacks
++6 to Evasion Rating
+15% increased Mana Regeneration Rate
++4 Life gained on Kill

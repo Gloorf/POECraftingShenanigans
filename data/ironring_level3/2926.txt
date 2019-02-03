@@ -1,0 +1,15 @@
+﻿Rarity: Rare
+Bramble Knuckle
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Intelligence
++2 to maximum Energy Shield
++16 to maximum Mana
+15% increased Mana Regeneration Rate

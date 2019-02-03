@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Divine Vessel
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = Power is a curious thing. <br>It can be contained, hidden, locked away, <br>and yet it always breaks free.
+|drop_level                              = 68
+|tags                                    = high_level_map, default
+|metadata_id                             = Metadata/Items/MapFragments/FragmentPantheonFlask
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = PantheonFlask
+}}

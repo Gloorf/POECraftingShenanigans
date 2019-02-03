@@ -1,0 +1,16 @@
+﻿Rarity: Rare
+Behemoth Eye
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++11 to Strength
++11 to Intelligence
++3 to maximum Energy Shield
++3 to maximum Life
+7% increased Rarity of Items found

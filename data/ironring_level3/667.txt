@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Armageddon Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+6% increased Attack Speed
++3 to Evasion Rating
++6 Life gained on Kill
++1 Mana gained on Kill

@@ -1,0 +1,15 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Grave Knowledge
+|class_id                                = DivinationCard
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = The dead tell me great insights. They've had nothing but time to sit and think.
+|drop_level                              = 1
+|tags                                    = divination_card, default
+|metadata_id                             = Metadata/Items/DivinationCards/DivinationCardGraveKnowledge
+|stack_size                              = 6
+|description                             = {{c|gem|{{il|Summon Raging Spirit|html=}}}}<br>{{c|default|Quality:}} {{c|augmented|+20%}}
+|stack_size_currency_tab                 = 5000
+|help_text                               = Shift click to unstack.
+}}

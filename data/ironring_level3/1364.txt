@@ -1,0 +1,13 @@
+﻿Rarity: Rare
+Plague Whorl
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++12 to Strength
+Adds 1 to 2 Cold Damage to Attacks
++10 to Accuracy Rating
++19 to maximum Mana
++10% to Fire Resistance

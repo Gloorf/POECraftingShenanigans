@@ -1,0 +1,13 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Eber's Key
+|class_id                                = MapFragment
+|size_x                                  = 1
+|size_y                                  = 1
+|flavour_text                            = Mouth of the Masses, whose greatness spreads by our breath and touch,<br>who feeds the starving with the starved, the strong with the weak.
+|drop_level                              = 60
+|tags                                    = default
+|metadata_id                             = Metadata/Items/MapFragments/ProphecyFragment1
+|help_text                               = Can be used in the Templar Laboratory or a personal Map Device.
+|implicit1                               = ProphecyFragmentImplicit
+}}

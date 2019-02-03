@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Golden Page
+|class_id                                = QuestItem
+|size_x                                  = 1
+|size_y                                  = 2
+|flavour_text                            = "The Vaal were even more steeped in gem culture than <br>our Emperor and his 'Gemlings'. It's an obsession <br>as old as civilisation itself."<br>- Icius Perandus
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/GoldenPages/Page1
+|inventory_icon                          = Golden Page (1 of 4)
+}}

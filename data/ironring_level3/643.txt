@@ -1,0 +1,14 @@
+﻿Rarity: Rare
+Corpse Eye
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++9 to Intelligence
+7% increased Cast Speed
++3 to Evasion Rating
++5 to maximum Life
++19 to maximum Mana
++8% to Fire Resistance

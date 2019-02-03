@@ -1,0 +1,12 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Stygian Mirage Archer
+|class_id                                = Microtransaction
+|size_x                                  = 2
+|size_y                                  = 2
+|tags                                    = not_for_sale, default
+|metadata_id                             = Metadata/Items/MicrotransactionSkillEffects/MicrotransactionStygianMirageArcherEffect
+|stack_size                              = 1
+|description                             = Your Mirage Archer becomes a Stygian Effect.
+|cosmetic_type                           = Mirage Archer Skin
+}}

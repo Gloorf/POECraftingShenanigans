@@ -1,0 +1,12 @@
+﻿Rarity: Rare
+Sorrow Knuckle
+Iron Ring
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
++3 to all Attributes
++6 to Evasion Rating
++4 to maximum Life
++9% to Fire Resistance

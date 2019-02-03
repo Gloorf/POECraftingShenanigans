@@ -1,0 +1,17 @@
+﻿Rarity: Rare
+Vortex Nail
+Iron Ring
+--------
+Requirements:
+Level: 2
+--------
+Item Level: 3
+--------
+Adds 1 to 4 Physical Damage to Attacks
+--------
+Adds 1 to 2 Fire Damage to Attacks
+Adds 1 to 5 Lightning Damage to Attacks
+6% increased Attack Speed
+6% increased Cast Speed
++3 to maximum Life
++1 Mana gained on Kill

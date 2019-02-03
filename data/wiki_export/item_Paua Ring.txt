@@ -1,0 +1,20 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Paua Ring
+|class_id                                = Ring
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 5
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = ring, default
+|metadata_id                             = Metadata/Items/Rings/Ring3
+|implicit1                               = IncreasedManaImplicitRing1
+|purchase_cost_normal1_name              = Scroll of Wisdom
+|purchase_cost_normal1_amount            = 3
+|purchase_cost_magic1_name               = Orb of Alteration
+|purchase_cost_magic1_amount             = 1
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 3
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 8
+}}

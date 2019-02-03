@@ -1,0 +1,27 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Peninsula Map
+|class_id                                = Map
+|size_x                                  = 1
+|size_y                                  = 1
+|drop_level                              = 73
+|drop_rarities                           = Normal, Magic, Rare, Unique
+|tags                                    = forest, not_for_sale, old_map, map, default
+|metadata_id                             = Metadata/Items/Maps/MapTier8_4
+|help_text                               = Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+|purchase_cost_normal1_name              = Chaos Orb
+|purchase_cost_normal1_amount            = 4
+|purchase_cost_magic1_name               = Chaos Orb
+|purchase_cost_magic1_amount             = 5
+|purchase_cost_rare1_name                = Chaos Orb
+|purchase_cost_rare1_amount              = 6
+|purchase_cost_unique1_name              = Chaos Orb
+|purchase_cost_unique1_amount            = 10
+|map_tier                                = 8
+|map_guild_character                     = 8
+|map_area_id                             = MapTier8_4
+|map_series                              = Original
+|map_area_level                          = 73
+|inventory_icon                          = Peninsula Map (Original)
+|drop_enabled                            = False
+}}

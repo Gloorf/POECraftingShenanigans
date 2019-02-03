@@ -1,0 +1,11 @@
+{{Base item
+|rarity                                  = Normal
+|name                                    = Memory Fragment X
+|class_id                                = QuestItem
+|size_x                                  = 2
+|size_y                                  = 1
+|flavour_text                            = "...I've spent every waking hour since, trying to find a way to end this unholy Elder.<br>Within my secret study, I've begun work on a device of my own, tinkering and shaping.<br>When I'm finished, this Elder will never bother our world again.<br>The creature cannot be killed, but maybe... it can be exiled..."
+|drop_level                              = 1
+|tags                                    = default
+|metadata_id                             = Metadata/Items/QuestItems/ShaperMemoryFragments/ShaperMemoryFragment9_1
+}}
