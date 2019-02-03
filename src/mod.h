@@ -63,7 +63,7 @@ class CMod {
 class CModGroup {
     public:
     CModGroup() {}
-    CModGroup(std::string name, TWeight weight, std::vector<CMod*> mods, CModType* modType, bool multipleModTypeKey);
+    CModGroup(std::string name, std::vector<CMod*> mods);
 
     bool matchModTypeTag(TItemTag tag); // return true if the tag match any of the group modtype
     void updateWeight(double modifier, TItemTag tag);
@@ -75,11 +75,8 @@ class CModGroup {
     bool isSuffix() const { return mods.size() > 1 && mods[0]->isSuffix(); }
 
     std::string name;
-    TWeight originalWeight_;
-    double weightModifier_; // Always 1 for slow fallback
     CMod* chooseOne();
     std::vector<CMod*> mods;
-    CModType* modType;
 
     private:
 };

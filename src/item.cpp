@@ -128,12 +128,17 @@ std::vector<CMod*> CItem::simulateCraft(uint64_t affixNumber) {
         cacheForCraft();
     }
     std::vector<uint64_t> weights = weightsCache_;
+    int64_t remainingGroups = static_cast<int64_t>(weights.size());
 
 
     Profiler::end("weightUpd");
 
     for (uint64_t i = 0; i < affixNumber; i++) {
+        // If we don't do this, when calling discreteDistribution with all of weights beeing 0, we'll generate a random mod, in a case where we shouldn't generate any mods
 
+        if (remainingGroups == 0) {
+            break;
+        }
         Profiler::start("rand");
 
         size_t index = Utils::discreteDistribution(weights);
@@ -147,6 +152,7 @@ std::vector<CMod*> CItem::simulateCraft(uint64_t affixNumber) {
         out.push_back(chosenMod);
         // update weights
         weights[index] = 0;
+        remainingGroups -= 1;
         // Update counts
         if (isPrefixCache_[index]) {
             prefix += 1;
@@ -159,8 +165,9 @@ std::vector<CMod*> CItem::simulateCraft(uint64_t affixNumber) {
         if (prefix == 3 && !prefixRemoved && suffix != 3) {
             prefixRemoved = true;
             for (size_t i = 0; i < weights.size(); i++) {
-                if (isPrefixCache_[i]) {
+                if (isPrefixCache_[i] && weights[i] != 0) { // The != 0 test is to make sure we don't count as removed multiple times a group for remaininGroup
                     weights[i] = 0;
+                    remainingGroups -= 1;
                 }
             }
         }
@@ -170,8 +177,9 @@ std::vector<CMod*> CItem::simulateCraft(uint64_t affixNumber) {
         if (suffix == 3 && !suffixRemoved && prefix != 3) {
             suffixRemoved = true;
             for (size_t i = 0; i < weights.size(); i++) {
-                if (isPrefixCache_[i]) {
+                if (!isPrefixCache_[i] && weights[i] != 0) {
                     weights[i] = 0;
+                    remainingGroups -= 1;
                 }
             }
         }

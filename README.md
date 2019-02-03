@@ -22,6 +22,12 @@ What it can't do :
 * Jewel crafting. For some reason the mods are strange, and I haven't figured it yet
 
 
+# Usage #
+
+It should be fairly easy : select an item base, an item level, if it's an elder/shaper base, and the fossil you want.
+
+If you want to optimise (or simulate while observing) a delve/elder mod, just add the appropriate fossil / change the item type, and it will magically show in the dropdown
+
 ## Protip ##
 
 If you hover a mod Id in display tab, you'll have the affix name (like 'of Smothering'). If you hover a weight in display tab, you'll have the %chance to roll (both across all mods, and only prefix/suffix)

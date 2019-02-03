@@ -96,18 +96,7 @@ std::vector<CModGroup*> CModManager::groupMods(std::vector<CMod*> mods) {
     for (auto& pair : modsByGroup) {
         std::string name = pair.first;
         std::vector<CMod*> mods = pair.second;
-        uint64_t weight = 0;
-        TModTypeKey key = mods[0]->modType()->key;
-        bool multipleModTypeKey = false;
-        for (auto m : mods) {
-            if (m->modType()->key != key) {
-                multipleModTypeKey = true;
-            }
-            weight += m->weight;
-        }
-        // This is safe trust me
-        CModType* modType = mods[0]->modType();
-        groups.push_back(new CModGroup(name, weight, mods, modType, multipleModTypeKey));
+        groups.push_back(new CModGroup(name, mods));
     }
     return groups;
 }
@@ -137,17 +126,10 @@ bool CMod::matchModTypeTag(TItemTag tag) {
     return modType_->hasModTypeTag(tag);
 }
 
-CModGroup::CModGroup(std::string name, TWeight weight, std::vector<CMod*> mods, CModType* modType, bool multipleModTypeKey)
-: name(name), originalWeight_(weight), mods(mods), modType(modType) {
-    weightModifier_ = 1;
-    if (true || multipleModTypeKey) {
-        modType = nullptr;
-    }
-}
+CModGroup::CModGroup(std::string name, std::vector<CMod*> mods) : name(name), mods(mods) {}
 
 bool CModGroup::matchModTypeTag(TItemTag tag) {
 
-    // Slow fallback
     for (auto m : mods) {
         if (m->matchModTypeTag(tag)) return true;
     }
@@ -155,7 +137,6 @@ bool CModGroup::matchModTypeTag(TItemTag tag) {
 }
 
 void CModGroup::updateWeight(double modifier, TItemTag tag) {
-    originalWeight_ = 0;
     for (auto m : mods) {
         if (m->matchModTypeTag(tag)) {
             m->weight *= modifier;
