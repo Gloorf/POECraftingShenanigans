@@ -71,9 +71,8 @@ class CModGroup {
     TWeight weight() const;
     // Those two functions are actually wrong, because at least one group (DamageTakenBeforeLife) is spread on prefix + suffixes
     // But i'm too lazy to think about a good fix for this (it's too early in the morning), and it's pretty fucking rare
-    bool isPrefix() const { return mods.size() > 1 && mods[0]->isPrefix(); }
-    bool isSuffix() const { return mods.size() > 1 && mods[0]->isSuffix(); }
-
+    bool isPrefix() const { return mods.size() > 0 && mods[0]->isPrefix(); }
+    bool isSuffix() const { return mods.size() > 0 && mods[0]->isSuffix(); }
     std::string name;
     CMod* chooseOne();
     std::vector<CMod*> mods;
