@@ -32,7 +32,7 @@ def find_information(data):
 
 # This data has been manually entered (could probably be automatized)
 good_class_id = ['Amulet', 'Sceptre', 'Shield', 'Two Hand Axe','Ring', 'Quiver', 'Staff', 'Claw', 'Two Hand Sword', 'Two Hand Mace', 'One Hand Mace', 'Gloves', 'Bow', 'Helmet', 'Dagger', 'Wand', 'Thrusting One Hand Sword', 'Body Armour', 'AbyssJewel', 'One Hand Axe', 'Boots', 'Belt','Jewel', 'One Hand Sword']
-shaper_tag = {'Amulet': 256, 'Sceptre': 284, 'Shield': 264, 'Two Hand Axe': 278, 'Ring': 258, 'Quiver': 262, 'Staff': 282, 'Claw': 272, 'Two Hand Sword': 266, 'Two Hand Mace': 280, 'One Hand Mace': 270, 'Gloves': 250, 'Bow': 274, 'Helmet': 252, 'Dagger': 276, 'Wand': 268, 'Thrusting One Hand Sword': 248, 'Body Armour': 254, 'One Hand Axe': 268, 'Boots': 246, 'Belt': 260, 'One Hand Sword': 248}
+shaper_tag = {'Amulet': 256, 'Sceptre': 284, 'Shield': 264, 'Two Hand Axe': 278, 'Ring': 258, 'Quiver': 262, 'Staff': 282, 'Claw': 272, 'Two Hand Sword': 266, 'Two Hand Mace': 280, 'One Hand Mace': 270, 'Gloves': 250, 'Bow': 274, 'Helmet': 252, 'Dagger': 276, 'Wand': 286, 'Thrusting One Hand Sword': 248, 'Body Armour': 254, 'One Hand Axe': 268, 'Boots': 246, 'Belt': 260, 'One Hand Sword': 248}
 
 
 out = []
